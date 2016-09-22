@@ -1,0 +1,14 @@
+## Business
+
+* [Les coûts cachés de la refonte d'un site Internet](http://www.pyrat.net/Les-couts-caches-de-la-refonte-d-un-site-Internet.html)
+* [An Event Apart News: What Clients Don’t Know (and Why It’s Your Fault)](http://aneventapart.com/news/post/what-clients-dont-know-and-why-its-your-fault-mike-monteiro-an-event-apart/)
+* [Pricing the Web](http://alistapart.com/column/pricing-the-web)
+* [5 Psychological Tips That Will Improve Your Product Pricing](https://blog.kissmetrics.com/psychological-tips-product-pricing/)
+* [Justifier le prix de la qualité](http://letrainde13h37.fr/9/justifier-le-prix-de-la-qualite/)
+* [La facturation au forfait c'est litigieux](https://medium.jechercheundev.fr/la-facturation-au-forfait-c-est-litigieux-eb5d4cd9633a#.mlg7sqd87)
+* [Baromètre AFUP](http://barometre.afup.org/report/salary)
+* [ashedryden/freelance-contract](https://github.com/ashedryden/freelance-contract)
+* [Simulateur de coût d'embauche](http://sgmap.github.io/cout-embauche/)
+* [Comment initier et entretenir une relation agile avec son client ?](http://blog.mh-communication.fr/comment-initier-et-entretenir-une-relation-agile-avec-son-client.html)
+* [14 Questions To Ask Your Clients Before and After a Project](http://designreviver.com/tips/14-questions-to-ask-your-clients-before-and-after-a-project/)
+* [Living up to Your (Business) Ideals](http://alistapart.com/article/living-up-to-your-business-ideals)

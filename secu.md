@@ -1,0 +1,18 @@
+## Secu
+
+* [Certbot](https://certbot.eff.org/)
+* [The Mozilla Observatory](https://mozilla.github.io/http-observatory-website/)
+* [SecurityHeaders.io](https://securityheaders.io/)
+* [MyHeaders](https://myheaders.sqreen.io/)
+* [SSL Server Test](https://www.ssllabs.com/ssltest/)
+* [CSP Is Awesome](http://cspisawesome.com/)
+* [KeePass Password Safe](http://keepass.info/)
+* [Have i been pwned?](https://haveibeenpwned.com/)
+* [4 HTTP Security headers you should always be using](http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using)
+* [34 extensions Firefox pour vous protéger et tester la sécurité de vos sites](http://korben.info/34-extensions-firefox-pour-vous-proteger-et-tester-la-securite-de-vos-sites.html)
+* [Signal](https://whispersystems.org/)
+* [The Protocol-relative URL](http://www.paulirish.com/2010/the-protocol-relative-url/)
+* [Une interface graphique pour Fail2ban](http://korben.info/fail2ban-interface-graphique.html)
+* [Nikto : scanner de vulnérabilité](http://www.binarytides.com/nikto-hacking-tutorial-beginners/)
+* [Recommandations de sécurité relatives...](http://www.ssi.gouv.fr/administration/guide/recommandations-de-securite-relatives-a-un-systeme-gnulinux/)
+* [GitHub's CSP journey](http://githubengineering.com/githubs-csp-journey/)

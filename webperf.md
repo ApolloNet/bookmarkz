@@ -1,0 +1,16 @@
+## Web Perf
+
+* [pmdartus/speedline](https://github.com/pmdartus/speedline)
+* [Partis tiers : maîtrisez leurs impacts sur la vitesse et la sécurité de vos sites](http://www.alsacreations.com/article/lire/1695-partis-tiers-impacts-sur-la-vitesse-de-vos-sites.html)
+* [10 Ways to Minimize Reflows and Improve Performance](http://www.sitepoint.com/10-ways-minimize-reflows-improve-performance/)
+* [How To Use WebPageTest and its API](https://css-tricks.com/use-webpagetest-api/)
+* [Browserdiet](http://browserdiet.com/fr/)
+* [SVGO](https://github.com/svg/svgo)
+* [gmetais/UXFirst : Small script that detects slow users so you can enhance their user experience](https://github.com/gmetais/UXFirst)
+* [Prefetching, preloading, prebrowsing](https://css-tricks.com/prefetching-preloading-prebrowsing/)
+* [Tips for Creating and Exporting Better...](http://sarasoueidan.com/blog/svg-tips-for-designers/)
+* [Perfmap](https://github.com/zeman/perfmap)
+* [Eliminating Roundtrips with Preconnect - igvita.com](https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/)
+* [CSS triggers](http://csstriggers.com/)
+* [Impacts de la performance web sur un site internet](https://www.dareboost.com/fr/webperf-impacts)
+* [Start Render, Visually Complete et SpeedIndex](http://blog.dareboost.com/fr/2015/07/start-render-visually-complete-speedindex/)

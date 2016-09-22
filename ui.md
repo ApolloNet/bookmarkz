@@ -1,0 +1,15 @@
+## UI
+
+* [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+* [UICloud | User Interface Design Search](http://ui-cloud.com/)
+* [LukeW | Dropdowns Should be the UI of Last Resort](http://www.lukew.com/ff/entry.asp?1950)
+* [Font-blast](https://github.com/eugene1g/font-blast)
+* [GoodUI](http://goodui.org/)
+* [Why Users Abandon Forms with Select Menus](http://uxmovement.com/forms/why-users-abandon-forms-with-select-menus/)
+* [Should I use a video as a background?](https://css-tricks.com/should-i-use-a-video-as-a-background/)
+* [7 reasons why Infinite Scrolling is probably a bad idea](https://medium.com/simple-human/7-reasons-why-infinite-scrolling-is-probably-a-bad-idea-a0139e13c96b#.kihr4qy3e)
+* [UX et Animation](http://www.ergonomie-interface.com/conception-maquettage/ux-et-animation/)
+* [ZURB UI Library](http://zurb.com/library/)
+* [Flatpickr](https://github.com/chmln/flatpickr)
+* [pttrns](http://pttrns.com/)
+* [Ui Parade – User Interface Design Inspiration](http://www.uiparade.com/)
