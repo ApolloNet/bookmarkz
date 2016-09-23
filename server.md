@@ -1,13 +1,12 @@
 ## Server
 
 * [moul/awesome-ssh](https://github.com/moul/awesome-ssh)
-* [AFNIC ZoneCheck](http://www.afnic.fr/outils/zonecheck/)
+* [Zonemaster : ex-AFNIC ZoneCheck](https://zonemaster.net/)
 * [Load Impact](http://loadimpact.com/)
 * [4 HTTP Security headers you should always be using](http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using)
 * [Recommandations pour un usage sécurisé d’(Open)SSH - ANSSI](http://www.ssi.gouv.fr/fr/bonnes-pratiques/recommandations-et-guides/securite-des-reseaux/recommandations-pour-un-usage-securise-d-open-ssh.html)
 * [Renforcer la sécurité de son serveur SSH](http://phollow.fr/2010/02/renforcer-la-securite-de-son-serveur-ssh/)
 * [SSL Server Test](https://www.ssllabs.com/ssltest/)
-* [Le petit guide de l’Apache2 sécurisé en 10 points !](http://pro.anapivirtua.com/index.php/2009/06/29/le-petit-guide-de-lapache2-securise-en-15-points/)
 * [Sécuriser votre serveur SSH](http://www.korben.info/tuto-ssh-securiser.html)
 * [Bien débuter avec Nginx](http://makina-corpus.com/blog/metier/2015/bien-debuter-avec-nginx)
 * [Toolbox | DNSstuff](http://www.dnsstuff.com/tools)
@@ -16,7 +15,6 @@
 * [ViewDNS.info](http://viewdns.info/)
 * [Freenet](https://fr.wikipedia.org/wiki/Freenet)
 * [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
-* [Optimisation d'apache](http://artisan.karma-lab.net/node/1710)
 * [The Mozilla Observatory](https://mozilla.github.io/http-observatory-website/)
 * [firehol/netdata](https://github.com/firehol/netdata)
 * [MyHeaders](https://myheaders.sqreen.io/)

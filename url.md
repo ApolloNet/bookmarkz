@@ -1,5 +1,7 @@
 ## URL
 
+* [Down For Everyone Or Just Me ?](http://www.downforeveryoneorjustme.com/)
+* [Free Proxy](https://www.free-proxy.fr/)
 * [The History of the URL: Path, Fragment, Query, and Auth](https://eager.io/blog/the-history-of-the-url-path-fragment-query-auth/)
 * [Esthétique et pratique du Web qui rouille](https://github.com/olivierthereaux/rustyweb/)
 * [URL Design — Warpspire](http://warpspire.com/posts/url-design/)

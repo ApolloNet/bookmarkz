@@ -14,7 +14,6 @@
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 * [Prefetching, preloading, prebrowsing](https://css-tricks.com/prefetching-preloading-prebrowsing/)
 * [<datalist>](http://codepen.io/joewalnes/pen/NPMEwO)
-* [Browser configuration schema reference](http://msdn.microsoft.com/en-us/library/ie/dn320426(v=vs.85).aspx)
 * [Emmet cheat sheet](http://docs.emmet.io/cheat-sheet/)
 * [HTML Tidy](http://www.html-tidy.org/)
 * [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)

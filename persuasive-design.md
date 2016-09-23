@@ -1,11 +1,9 @@
 ## Persuasive Design
 
 * [Paris Web – Les neurosciences au service du design numérique](http://www.paris-web.fr/2011/conferences/la-science-au-service-du-design.php)
-* [The 11 Best Psychology, Persuasion, and Usability Books You Should Read](http://www.whatmakesthemclick.net/2009/11/10/psychology-persuasion-and-usability-books-i-recommend/)
 * [Persuasion 101: Ask Yes/Yes Questions](http://www.seomoz.org/blog/persuasion-101-ask-yes-yes-questions)
 * [Persuasive Design : pourquoi et comment ? | Édition Nº31 | le train de 13h37](http://letrainde13h37.fr/31/persuasive-design-pourquoi-comment/)
 * [Loi de Hick](https://fr.wikipedia.org/wiki/Loi_de_Hick)
-* [Persuasive marketing : persuader plus pour vendre](http://www.gargarismes-ergonomiques.com/post/persuasive-marketing-vendre-plus#.UStTC6vjLUg)
 * [Modèle de Kano](https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_Kano)
 * [Les dark patterns en design d’interface](http://www.24joursdeweb.fr/2013/dark-patterns-design-interface/)
 * [User Interfaces Designed to Trick People](http://darkpatterns.org/)

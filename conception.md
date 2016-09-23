@@ -32,7 +32,6 @@
 * [A Front End Engineer's Manifesto](http://f2em.com/)
 * [Design Last](http://www.smashingmagazine.com/2015/02/20/design-last/)
 * [How we work | Journal | The Personal Disquiet of Mark Boulton](http://markboulton.co.uk/journal/how-we-work)
-* [7 Techniques for Prioritizing Customer Requirements: Measuring Usability](https://www.measuringusability.com/blog/prioritize-requirements.php)
 * [Photoshop you are a liar](http://www.inpixelitrust.fr/blog/a-voir-photoshop-you-are-a-liar-par-josh-brewer/)
 * [Échec et informatique](https://larlet.fr/david/stream/2015/05/25/)
 * [CONTINUOUS IMPROVEMENT: HELL ON EARTH?](http://fr.slideshare.net/lkce/tue-kirk-lkcecontimrp2013)

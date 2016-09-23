@@ -1,17 +1,15 @@
 ## Audit
 
 * [Opquast Check-lists](http://checklists.opquast.com/fr/)
-* [Dareboost](http://dareboost.com/)
+* [Dareboost](https://dareboost.com/)
 * [Checklist for mobile website improvement](https://developers.google.com/webmasters/smartphone-sites/website-improvement-checklist)
 * [pa11y](http://pa11y.org/)
 * [Open Graph Validator](https://developers.facebook.com/tools/debug/sharing/)
-* [DareBoost](http://www.dareboost.com/fr/home)
 * [Conducting an Interface Inventory](http://bradfrost.com/blog/post/conducting-an-interface-inventory/)
 * [Trickle - modifier vitesse connexion](https://doc.ubuntu-fr.org/trickle)
 * [Positeo](http://www.positeo.com/check-position/)
 * [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/)
 * [SHODAN - Computer Search Engine](http://www.shodanhq.com/)
-* [Open Source Web Performance Dashboard](http://www.peterhedenskog.com/blog/2015/04/open-source-performance-dashboard/)
 * [Load Impact](http://loadimpact.com/)
 * [Pingdom : Website speed test](http://tools.pingdom.com/fpt/)
 * [Open Site Explorer Link Analysis](http://www.opensiteexplorer.org/)

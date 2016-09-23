@@ -7,7 +7,7 @@
 * [Multibao, l'Open Bar des expériences et des pratiques collaboratives](http://www.multibao.org/)
 * [Instaurer une gouvernance écologique avec l’holacratie | Mouvement Colibris](http://www.colibris-lemouvement.org/agir/guide-tnt/instaurer-une-gouvernance-ecologique-dans-une-organisation-avec-lholacratie)
 * [RACI](https://fr.wikipedia.org/wiki/RACI)
-* [A Guide To Validating Product Ideas With Quick And Simple Experiments | Smashing Magazine](http://www.smashingmagazine.com/2014/04/10/a-guide-to-validating-product-ideas-with-quick-and-simple-experiments-2/)
+* [A Guide To Validating Product Ideas With Quick And Simple Experiments](http://www.smashingmagazine.com/2014/04/10/a-guide-to-validating-product-ideas-with-quick-and-simple-experiments-2/)
 * [Retr-O-Mat - Inspiration & plans pour rétrospectives](http://plans-for-retrospectives.com/index_fr.html?id=18-33-8-12-15)
 * [Non-demande de devis ? — David Larlet (@davidbgk)](https://larlet.fr/david/pro/devis/)
 * [Critique des démarches agiles](http://www.christian-faure.net/2013/05/25/critique-des-demarches-agiles/)

@@ -1,6 +1,5 @@
 ## UX
 
-* [Mobile Web Resources | Mobile Web Best Practices](http://mobilewebbestpractices.com/resources/)
 * [The Beautiful Art of Japanese Web Design – woorkup.com](http://woorkup.com/2009/12/30/the-beautiful-art-of-japanese-web-design/)
 * [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
 * [WebGazer.js: Democratizing Webcam Eye Tracking on the Browser](http://webgazer.cs.brown.edu/)
@@ -43,8 +42,7 @@
 * [Tri par cartes : l’architecture de l’information construite par les utilisateurs](http://www.ergonomie-interface.com/methodes-process-techniques/tri-par-cartes-une-architecture-de-linformation-construite-par-les-utilisateurs/)
 * [So You Think You’re a Landing Page Designer?](http://unbounce.com/design/landing-page-designer/)
 * [Design Principles FTW](http://designprinciplesftw.com/)
-* [IxD (Interaction Design) Checklist -...](http://ixdchecklist.com/)
-* [Call to action & Ergonomie web](http://www.9eme-studio.com/2011/09/call-to-action-ergonomie-web/#.TpLcF1Zz4Dw.twitter)
+* [IxD (Interaction Design) Checklist](http://ixdchecklist.com/)
 * [The Art of Guerilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerilla-usability-testing/)
 * [9 Small User Experience Details Most Websites Miss - UX Movement](http://uxmovement.com/forms/9-small-user-experience-details-most-websites-miss/)
 * [Yahoo! Design Pattern Library](http://developer.yahoo.com/ypatterns/everything.html)

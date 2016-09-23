@@ -5,3 +5,4 @@
 * [Staticman](https://staticman.net/)
 * [Fourmilières : Create your own forms](https://www.fourmilieres.net/)
 * [StackEdit : In-browser markdown editor](https://github.com/benweet/stackedit)
+* [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check)

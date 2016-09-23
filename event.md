@@ -1,11 +1,10 @@
 ## Event
 
 * [Code of conduct](http://fr.confcodeofconduct.com/)
-* [Directory of women in tech to speak at events](https://twitter.com/sandimac/status/604792915492085760%3E)
+* [Directory of women in tech to speak at events](https://twitter.com/sandimac/status/604792915492085760)
 * [Duchess - Oratrices](http://www.duchess-france.org/des-oratrices/)
 * [Conference anti-harassment/Adoption](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Adoption)
 * [Giving Presentation Feedback](http://larahogan.me/blog/giving-presentation-feedback/)
-* [10 Kick Ass Presentation Techniques](http://carsonified.com/blog/business/10-kick-ass-presentation-techniques/)
 * [Presentation Skills Considered Harmful](http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful)
 * [Conférences et auto-organisation](https://larlet.fr/david/blog/2013/conferences-auto-organisation/)
 * [69 months of Sud Web](https://oncletom.io/2016/69-months-of-sudweb/)
@@ -19,6 +18,5 @@
 * [Increasing Diversity at Your Conference](http://www.ashedryden.com/blog/increasing-diversity-at-your-conference)
 * [Drupalcamp organization DOs and DON'Ts](http://www.makina-corpus.org/blog/drupalcamp-organization-dos-and-don-ts)
 * [Les Expertes du Numériques de Girlz In Web](http://expertes.girlzinweb.com/)
-* [TDWCamp - ce que j’ai appris en l’organisant | Travailleurs Du Web](http://www.travailleursduweb.com/2009/04/29/tdwcamp-ce-que-jai-appris-en-lorganisant.html)
 * [Guide du speaker intergalactique (ou comment augmenter ses chances d’être retenu en tant que speaker en conférences au sein de l’univers) – David Rousset](https://www.davrous.com/2015/09/11/guide-du-speaker-intergalactique-ou-comment-augmenter-ses-chances-dtre-retenu-en-tant-que-speaker-en-confrences-au-sein-de-lunivers/)
 * [speaking.io : Tips for Public Speaking](http://speaking.io/)
