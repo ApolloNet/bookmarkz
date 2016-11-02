@@ -2,6 +2,7 @@
 
 * [Opquast Check-lists](http://checklists.opquast.com/fr/)
 * [Dareboost](https://dareboost.com/)
+* [Lighthouse :  auditing and performance metrics for Progressive Web Apps](https://github.com/GoogleChrome/lighthouse)
 * [Checklist for mobile website improvement](https://developers.google.com/webmasters/smartphone-sites/website-improvement-checklist)
 * [pa11y](http://pa11y.org/)
 * [Open Graph Validator](https://developers.facebook.com/tools/debug/sharing/)
@@ -61,3 +62,4 @@
 * [GTmetrix](http://gtmetrix.com/)
 * [WebPageTest CLI](https://www.npmjs.com/package/webpagetest)
 * [Complete List of Web Accessibility Evaluation Tools](http://www.w3.org/WAI/ER/tools/complete)
+* [Wappalyzer](https://wappalyzer.com/)

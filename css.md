@@ -79,6 +79,7 @@
 ###Méthodologie
 
 * [BEM](https://en.bem.info/)
+* [ITCSS](https://speakerdeck.com/dafed/managing-css-projects-with-itcss)
 * [Scaling Down The BEM Methodology For Small Projects](http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/)
 * [tzi/BEM-references.md: How use BEM? Is it a real thing?](https://github.com/tzi/BEM-references.md)
 * [SMACSS](https://smacss.com/)

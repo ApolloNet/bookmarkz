@@ -1,6 +1,7 @@
 ## Event
 
 * [Code of conduct](http://fr.confcodeofconduct.com/)
+* [The Less Obvious Conference Checklist](https://github.com/erikr/lessobviouschecklist/blob/master/README.md)
 * [Directory of women in tech to speak at events](https://twitter.com/sandimac/status/604792915492085760)
 * [Duchess - Oratrices](http://www.duchess-france.org/des-oratrices/)
 * [Conference anti-harassment/Adoption](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Adoption)

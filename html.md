@@ -1,5 +1,6 @@
 ## HTML
 
+* [HTML](http://w3c.github.io/html/)
 * [DOM Enlightenment - Exploring the relationship between JavaScript and the modern HTML DOM](http://domenlightenment.com/)
 * [<button> plutot que <a href="#">](https://mobile.twitter.com/rogerjohansson/status/654614669722824704?s=03)
 * [<details> et <summary>](http://blog.mxstbr.com/2015/06/html-details/)

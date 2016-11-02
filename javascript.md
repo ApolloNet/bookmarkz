@@ -66,9 +66,16 @@
 * [Cours IUT : Javascript et jQuery](https://larlet.fr/david/blog/2014/cours-iut-javascript-jquery/)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 * [Quick Tip: Stop Writing Loops and Start Thinking with Maps](http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/)
+* [L'asynchrone en JavaScript](http://makinacorpus.github.io/makina-slides/javascript-async.html)
+* [The State of JavaScript](http://stateofjs.com/)
+
+### APIs
+
+* [Fetch API](https://developer.mozilla.org/fr/docs/Web/API/Fetch_API)
 
 ### ES6 / ES2015
 
+* [Transpiling ES6](https://css-tricks.com/transpiling-es6/)
 * [ES6 in depth](https://hacks.mozilla.org/category/es6-in-depth/)
 * [Learn ES2015 - Babeljs.io](http://babeljs.io/docs/learn-es2015/)
 * [ES6, ES2015, chez PutainDeCode](http://putaindecode.io/fr/tag/ES2015)
@@ -82,6 +89,7 @@
 * [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
 * [An Intro To Using npm and ES6 Modules for Front End Development](http://wesbos.com/javascript-modules/)
 * [Recursion in JavaScript with ES6, destructuring and rest/spread](https://hackernoon.com/recursion-in-javascript-with-es6-destructuring-and-rest-spread-4b22ae5998fa)
+* [Lazy-loading ES2015 modules in the browser](http://blog.avenuecode.com/lazy-loading-es2015-modules-in-the-browser/)
 * [ES6 Katas](http://es6katas.org/)
 
 ### Libs
@@ -98,6 +106,7 @@
 
 * [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!](http://microjs.com/)
 * [React or not React ?](http://openweb.eu.org/articles/react-or-not-react)
+* [How React Do? : React from scratch](http://blog.jfo.click/how-react-do/)
 * [Consider VueJS for Your Next Web Project](https://blog.codeship.com/consider-vuejs-next-web-project/)
 * [Bacon.js - Functional Reactive Programming library for JavaScript](http://baconjs.github.io/)
 
