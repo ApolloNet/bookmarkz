@@ -86,6 +86,7 @@
 
 ### Libs
 
+* [Flatpickr : lightweight and powerful datetimepicker with no dependencies](https://github.com/chmln/flatpickr)
 * [Js-cookie](https://github.com/js-cookie/js-cookie)
 * [UpUp - The Offline First Library](https://www.talater.com/upup/)
 * [Garlic.js : local storage](http://garlicjs.org/)
