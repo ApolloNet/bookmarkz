@@ -15,3 +15,4 @@
 * [Impacts de la performance web sur un site internet](https://www.dareboost.com/fr/webperf-impacts)
 * [Start Render, Visually Complete et SpeedIndex](http://blog.dareboost.com/fr/2015/07/start-render-visually-complete-speedindex/)
 * [Request Map](http://requestmap.webperf.tools/)
+* [Next Generation Server Compression With Brotli](https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/)

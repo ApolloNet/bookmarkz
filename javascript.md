@@ -68,6 +68,7 @@
 * [Quick Tip: Stop Writing Loops and Start Thinking with Maps](http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/)
 * [L'asynchrone en JavaScript](http://makinacorpus.github.io/makina-slides/javascript-async.html)
 * [The State of JavaScript](http://stateofjs.com/)
+* [Functional Light JS :  A book about functional programming in JavaScript](https://github.com/getify/Functional-Light-JS)
 
 ### APIs
 
