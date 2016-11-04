@@ -93,6 +93,17 @@
 * [Lazy-loading ES2015 modules in the browser](http://blog.avenuecode.com/lazy-loading-es2015-modules-in-the-browser/)
 * [ES6 Katas](http://es6katas.org/)
 
+## Service Workers
+
+* [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
+* [Making a Simple Site Work Offline with ServiceWorker](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
+* [Getting Started with Service Workers](https://www.sitepoint.com/getting-started-with-service-workers/)
+* [The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker)
+* [Making A Service Worker: A Case Study](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
+* [The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
+* [serviceworke.rs](https://serviceworke.rs/)
+* [Video: The Pragmatist’s Guide to Service Workers](https://vimeo.com/184236467)
+
 ### Libs
 
 * [Flatpickr : lightweight and powerful datetimepicker with no dependencies](https://github.com/chmln/flatpickr)
