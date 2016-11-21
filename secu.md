@@ -5,6 +5,7 @@
 * [SecurityHeaders.io](https://securityheaders.io/)
 * [MyHeaders](https://myheaders.sqreen.io/)
 * [SSL Server Test](https://www.ssllabs.com/ssltest/)
+* [CryptCheck](https://tls.imirhil.fr/)
 * [Google CSP Evaluator](https://csp-evaluator.withgoogle.com/)
 * [CSP Is Awesome](http://cspisawesome.com/)
 * [4 HTTP Security headers you should always be using](http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using)

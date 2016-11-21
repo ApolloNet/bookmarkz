@@ -63,3 +63,4 @@
 * [FLUPA on Vimeo](http://vimeo.com/flupa)
 * [Should I Use A Carousel](http://shouldiuseacarousel.com/)
 * [Firefox Design Values](http://people.mozilla.org/~madhava/FDV/)
+* [Reducing Cognitive Overload For A Better User Experience](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/)

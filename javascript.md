@@ -78,6 +78,7 @@
 ### ES6 / ES2015
 
 * [Transpiling ES6](https://css-tricks.com/transpiling-es6/)
+* [État de l’art d’ES2015+ dans Node.js et le navigateur • Christophe Porteneuve @ Blend Web Mix 2016](https://tdd.github.io/blend2016-etat-art-es2015/)
 * [ES6 in depth](https://hacks.mozilla.org/category/es6-in-depth/)
 * [Learn ES2015 - Babeljs.io](http://babeljs.io/docs/learn-es2015/)
 * [ES6, ES2015, chez PutainDeCode](http://putaindecode.io/fr/tag/ES2015)
