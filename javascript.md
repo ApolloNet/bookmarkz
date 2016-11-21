@@ -28,6 +28,7 @@
 * [Superhero.js](http://superherojs.com/)
 * [JavaScript console - for debugging JavaScript and remote debugging mobile web apps](http://jsconsole.com/)
 * [Promises](https://www.promisejs.org/)
+* [You Might Not Need Promises](https://blog.objectivedynamics.com/you-might-not-need-promises-5622fe470979)
 * [How to declare global variables when using the strict mode](http://stackoverflow.com/questions/9397778/how-to-declare-global-variables-when-using-the-strict-mode-pragma)
 * [10 Free JavaScript Books](http://sixrevisions.com/javascript/free-javascript-books/)
 * [DOM Tips and Techniques: Parent, Child, and Siblings](http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/)
@@ -92,6 +93,7 @@
 * [Recursion in JavaScript with ES6, destructuring and rest/spread](https://hackernoon.com/recursion-in-javascript-with-es6-destructuring-and-rest-spread-4b22ae5998fa)
 * [Lazy-loading ES2015 modules in the browser](http://blog.avenuecode.com/lazy-loading-es2015-modules-in-the-browser/)
 * [ES6 Katas](http://es6katas.org/)
+* [Exploring JS, a book by Axel Rauschmayer](http://exploringjs.com/es6/index.html)
 
 ## Service Workers
 

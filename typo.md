@@ -1,5 +1,6 @@
 ## Typo
 
+* [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 * [Seriously, Don’t Use Icon Fonts](http://blog.cloudfour.com/seriously-dont-use-icon-fonts/)
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 * [FontReach](http://www.fontreach.com/)

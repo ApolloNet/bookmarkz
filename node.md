@@ -6,7 +6,12 @@
 * [Node Security Project |](https://nodesecurity.io/)
 * [Installing Node.js on Ubuntu via PPA for latest release](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
 * [MEAN](http://mean.io/)
+* [History of Node.js on a Timeline](https://blog.risingstack.com/history-of-node-js/)
 
 ### Packages
 
 * [Nodemon](https://www.npmjs.com/package/nodemon)
+
+### Express
+
+* [Node.js and Express architecture](https://medium.com/@faisalabid/node-js-and-express-architecture-edf6a254d930)

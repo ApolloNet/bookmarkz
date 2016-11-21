@@ -1,5 +1,6 @@
 ## UI
 
+* [Longueur des lignes de texte et lisibilité des écrans](http://tecfa.unige.ch/tecfa/teaching/staf12/polycop/part36.htm)
 * [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
 * [UICloud | User Interface Design Search](http://ui-cloud.com/)
 * [LukeW | Dropdowns Should be the UI of Last Resort](http://www.lukew.com/ff/entry.asp?1950)
