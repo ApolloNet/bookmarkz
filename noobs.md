@@ -11,3 +11,4 @@
 * [The Website Obesity Crisis](http://idlewords.com/talks/website_obesity.htm)
 * [Should I Use A Carousel](http://shouldiuseacarousel.com/)
 * [Déclaration d’indépendance du Cyberespace](http://editions-hache.com/essais/barlow/barlow2.html)
+* [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)

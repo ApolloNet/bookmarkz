@@ -9,3 +9,4 @@
 * [kimono : Turn websites into structured APIs from your browser in seconds](http://www.kimonolabs.com/)
 * [Services de web scraping](https://forum.pragmaticentrepreneurs.com/t/services-de-web-scraping/1540)
 * [Nos Données](http://www.nosdonnees.fr/)
+* [GDELT Project](http://www.gdeltproject.org/)
