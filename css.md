@@ -25,7 +25,6 @@
 * [Why I'm Excited About Native CSS Variables](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/)
 * [The Future Generation of CSS Selectors: Level 4](http://www.sitepoint.com/future-generation-css-selectors-level-4/)
 * [Writ](https://writ.cmcenroe.me/)
-* [FontCDN: A search tool for Google web fonts](http://fontcdn.org/)
 * [Use `rem` for Global Sizing; Use `em` for Local Sizing](https://css-tricks.com/rem-global-em-local/)
 * [Front-end Developer Handbook](http://www.frontendhandbook.com/)
 * [purifycss/purifycss](https://github.com/purifycss/purifycss)

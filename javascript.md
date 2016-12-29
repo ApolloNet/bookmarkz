@@ -98,6 +98,7 @@
 
 ## Service Workers
 
+* [Is ServiceWorker Ready ? ](https://jakearchibald.github.io/isserviceworkerready/)
 * [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
 * [Making a Simple Site Work Offline with ServiceWorker](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
 * [Service Workers at PonyFoo](https://ponyfoo.com/articles/tagged/serviceworker)
@@ -120,6 +121,7 @@
 * [Push.js : notifications for every browser](http://nickersoft.github.io/push.js/)
 * [Socket.IO — Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
 * [Cleave.js : Format input text content when you are typing](https://github.com/nosir/cleave.js)
+* [Voca : The JavaScript string library](https://vocajs.com/)
 
 * [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!](http://microjs.com/)
 * [React or not React ?](http://openweb.eu.org/articles/react-or-not-react)

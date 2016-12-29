@@ -9,3 +9,4 @@
 * [Unify – Unicode support on browsers and devices](http://unicode.johnholtripley.co.uk/all/)
 * [Fontello - icon fonts generator](http://fontello.com/)
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3)
+* [Font-blast](https://github.com/eugene1g/font-blast)

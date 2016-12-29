@@ -1,5 +1,6 @@
 ## Web Perf
 
+* [WPO Stats](https://wpostats.com/)
 * [pmdartus/speedline](https://github.com/pmdartus/speedline)
 * [Partis tiers : maîtrisez leurs impacts sur la vitesse et la sécurité de vos sites](http://www.alsacreations.com/article/lire/1695-partis-tiers-impacts-sur-la-vitesse-de-vos-sites.html)
 * [10 Ways to Minimize Reflows and Improve Performance](http://www.sitepoint.com/10-ways-minimize-reflows-improve-performance/)

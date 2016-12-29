@@ -1,31 +1,13 @@
 ## Conception
 
-* [psdtxtractor](https://github.com/opi/psdtxtractor)
-* [Un Flickr de Personas](https://m.flickr.com/#/photos/jasontravis/sets/72157603258446753/)
-* [Réaliser un tri par cartes en ligne](http://blocnotes.iergo.fr/concevoir/les-outils/tri-par-cartes-card-sorting/)
-* [Tri par cartes : l’architecture de l’information construite par les utilisateurs](http://www.ergonomie-interface.com/methodes-process-techniques/tri-par-cartes-une-architecture-de-linformation-construite-par-les-utilisateurs/)
+**Todo : à remixer avec ux.md**
+
 * [Progressive enhancement is faster](http://jakearchibald.com/2013/progressive-enhancement-is-faster/)
-* [Poor Man's Styleguide](https://github.com/bryanbraun/poor-mans-styleguide)
-* [HTML Wireframes](http://bradfrostweb.com/blog/post/html-wireframes/)
-* [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
-* [Pattern Lab](http://pattern-lab.info/)
-* [Getting Started With Pattern Libraries](http://alistapart.com/blog/post/getting-started-with-pattern-libraries)
-* [A List Apart Pattern Library](http://patterns.alistapart.com/)
 * [Development Is Design](http://bradfrostweb.com/blog/post/development-is-design/)
-* [Why designing in the browser is the way forward](http://hanno.co/logbook/why-designing-in-the-browser-is-the-way-forward)
-* [Content Prototyping In Responsive Web Design](http://mobile.smashingmagazine.com/2011/09/26/content-prototyping-in-responsive-web-design/)
-* [Designing With Your Clients](http://www.smashingmagazine.com/2014/12/30/designing-with-your-clients/)
-* [Our New Responsive Design Deliverable: The Style Prototype](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
-* [The Homepage Exception](http://alistapart.com/article/homepage-exception)
-* [Pourquoi faut-il finir le travail de conception par la page d’accueil](http://www.simpleweb.fr/2013/02/05/pourquoi-faut-il-finir-le-travail-de-conception-par-la-page-daccueil/)
 * [Tips on how to optimize your web design workflow](http://veerle.duoh.com/design/article/tips_on_how_to_optimize_your_web_design_workflow)
 * [Best practices for designer/developer collaboration](http://pivotallabs.com/best-practices-for-designerdeveloper-collaboration/)
 * [Paris Web – Amélioration continue : retour d’expérience](http://www.paris-web.fr/2012/conferences/amelioration-continue-retour-dexperience.php)
-* [L'amélioration des processus](http://www.logistiqueconseil.org/Articles/Methodes-optimisation/Amelioration-processus.htm)
-* [Off To The Races: Getting Started With Design Sprints](http://www.smashingmagazine.com/2014/08/20/getting-started-with-design-sprints/)
-* [What’s the design process at GDS?](https://gds.blog.gov.uk/2014/07/18/whats-the-design-process-at-gds/)
 * [Design Principles](http://principles.adactio.com/)
-* [Tests utilisateurs pour les freelance : 7 moyens pour convaincre](http://www.testapic.com/boite-a-outils/tests-utilisateurs-freelance-7-moyens-convaincre/)
 * [Delivery Logistics](http://alistapart.com/column/delivery-logistics)
 * [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621)
 * [The Way I Work: Jason Fried of 37Signals](http://www.inc.com/magazine/20091101/the-way-i-work-jason-fried-of-37signals.html)
@@ -36,3 +18,68 @@
 * [Échec et informatique](https://larlet.fr/david/stream/2015/05/25/)
 * [CONTINUOUS IMPROVEMENT: HELL ON EARTH?](http://fr.slideshare.net/lkce/tue-kirk-lkcecontimrp2013)
 * [User Experience Deliverables](http://semanticstudios.com/user_experience_deliverables/)
+* [Resilient Web Design, book by Jeremy Keith](https://resilientwebdesign.com/)
+* [psdtxtractor](https://github.com/opi/psdtxtractor)
+
+### Conception participative
+
+* [La conception participative : concevoir avec les utilisateurs](http://www.ergonomie-interface.com/conception-maquettage/conception-participative-utilisateurs/)
+* [Designing With Your Clients](http://www.smashingmagazine.com/2014/12/30/designing-with-your-clients/)
+
+### Conception dans le navigateur
+
+* [Why designing in the browser is the way forward](http://hanno.co/logbook/why-designing-in-the-browser-is-the-way-forward)
+* [Why designing in the browser is the way forward](http://hanno.co/logbook/why-designing-in-the-browser-is-the-way-forward)
+
+### Prototypage
+
+* [HTML Wireframes](http://bradfrostweb.com/blog/post/html-wireframes/)
+* [S’il-te-plaît, dessine-moi un prototype...](http://letrainde13h37.fr/24/sil-te-plait-dessine-moi-un-prototype/)
+
+### Style Tiles
+
+* [Styletil.es](http://styletil.es/)
+* [Our New Responsive Design Deliverable: The Style Prototype](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
+
+### Styleguide & Pattern Libraries
+
+* [Poor Man's Styleguide](https://github.com/bryanbraun/poor-mans-styleguide)
+* [A List of Style Guides, Brand Guidelines, and Front-End Frameworks](https://medium.com/daily-ui-ux-inspirations/e5bb62db91e5)
+* [Website Style Guide Resources](http://styleguides.io/)
+* [Atomic Design in one GIF](http://bradfrost.com/blog/post/atomic-design-in-one-gif/)
+* [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
+* [Pattern Lab](http://pattern-lab.info/)
+* [Getting Started With Pattern Libraries](http://alistapart.com/blog/post/getting-started-with-pattern-libraries)
+* [A List Apart Pattern Library](http://patterns.alistapart.com/)
+* [Pattern Library | MailChimp](http://ux.mailchimp.com/patterns/)
+* [Yahoo! Design Pattern Library](http://developer.yahoo.com/ypatterns/everything.html)
+* [A List Apart Pattern Library](http://patterns.alistapart.com/)
+
+### Writing style guide ?
+
+* [Writing style](https://en.wikipedia.org/wiki/Writing_style)
+
+### Personas
+
+* [A Closer Look At Personas: What They Are And How They Work (Part 1) | Smashing Magazine](http://www.smashingmagazine.com/2014/08/06/a-closer-look-at-personas-part-1/)
+* [Un Flickr de Personas](https://m.flickr.com/#/photos/jasontravis/sets/72157603258446753/)
+* [UX Republic : DIY Persona Kit](http://www.ux-republic.com/ux-calendar-05-decembre-diy-persona-kit/)
+
+### Card sorting
+
+* [Réaliser un tri par cartes en ligne](http://blocnotes.iergo.fr/concevoir/les-outils/tri-par-cartes-card-sorting/)
+* [Tri par cartes : l’architecture de l’information construite par les utilisateurs](http://www.ergonomie-interface.com/methodes-process-techniques/tri-par-cartes-une-architecture-de-linformation-construite-par-les-utilisateurs/)
+
+### Tests utilisateurs
+
+* [Tests utilisateurs pour les freelance : 7 moyens pour convaincre](http://www.testapic.com/boite-a-outils/tests-utilisateurs-freelance-7-moyens-convaincre/)
+* [Paris Web – Tester l'ergonomie de son site même sans budget](http://www.paris-web.fr/2011/conferences/tester-lutilisabilite-de-son-site-web-quand-on-na-pas-de-budget.php)
+* [The Art of Guerilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerilla-usability-testing/)
+* [WebGazer.js: Democratizing Webcam Eye Tracking on the Browser](http://webgazer.cs.brown.edu/)
+
+### Homepage & Landing Page
+
+* [The Homepage Exception](http://alistapart.com/article/homepage-exception)
+* [Pourquoi faut-il finir le travail de conception par la page d’accueil](http://www.simpleweb.fr/2013/02/05/pourquoi-faut-il-finir-le-travail-de-conception-par-la-page-daccueil/)
+* [The Anatomy of a Perfect Landing Page - Formstack](http://www.formstack.com/the-anatomy-of-a-perfect-landing-page)
+* [So You Think You’re a Landing Page Designer?](http://unbounce.com/design/landing-page-designer/)

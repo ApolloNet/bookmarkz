@@ -8,3 +8,4 @@
 * [1000 GIS Applications & Uses](http://gisgeography.com/gis-applications-uses/)
 * [Snazzy Maps - Free Styles for Google Maps](https://snazzymaps.com/)
 * [Airvisual : pollution map](https://airvisual.com/earth)
+* [Leaflet Extras : Providers preview](http://leaflet-extras.github.io/leaflet-providers/preview/)
