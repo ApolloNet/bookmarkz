@@ -22,3 +22,4 @@
 * [philipwalton/html-inspector](https://github.com/philipwalton/html-inspector)
 * [Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
 * [Pattern Lab](http://pattern-lab.info/)
+* [Language subtag lookup](https://r12a.github.io/apps/subtags/)

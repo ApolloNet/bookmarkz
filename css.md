@@ -21,10 +21,8 @@
 * [Vivement les variables CSS](http://www.hteumeuleu.fr/vivement-les-variables-css/)
 * [CSS :root, le retour aux racines](https://la-cascade.io/css-roots-le-retour-aux-racines/)
 * [The anatomy of responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
-* [The New Bulletproof @Font-Face Syntax | Fontspring](http://www.fontspring.com/blog/the-new-bulletproof-font-face-syntax)
 * [Brett Jankord – Cross Browser Retina/High Resolution Media Queries](http://www.brettjankord.com/2012/11/28/cross-browser-retinahigh-resolution-media-queries/)
 * [Why I'm Excited About Native CSS Variables](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/)
-* [Using Web Fonts The Best Way (in 2015)](https://helloanselm.com/2015/using-webfonts-in-2015/)
 * [The Future Generation of CSS Selectors: Level 4](http://www.sitepoint.com/future-generation-css-selectors-level-4/)
 * [Writ](https://writ.cmcenroe.me/)
 * [FontCDN: A search tool for Google web fonts](http://fontcdn.org/)
@@ -39,7 +37,6 @@
 * [:target](https://css-tricks.com/on-target/)
 * [Choisir la taille de police](http://www.ergonomie-interface.com/methodes-process-techniques/choisir-taille-police/)
 * [12 Little-Known CSS Facts (The Sequel)](http://www.sitepoint.com/12-little-known-css-facts-the-sequel/)
-* [Tips And Tricks For Print Style Sheets](http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/)
 * [Parker, Stylesheet analysis tool.](https://github.com/katiefenn/parker)
 * [Inheriting box-sizing Probably Slightly Better Best-Practice](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 * [CSSComb : CSS Sorter](http://csscomb.com/)
@@ -57,10 +54,10 @@
 * [patternlab-node](https://github.com/pattern-lab/patternlab-node)
 * [Profile CSS](https://github.com/tzi/profile-css.md)
 * [It's Time for Everyone to Learn About PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
-* [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician)
 
 ### Flexbox
 
+* [Alsacreations : Flexbox Cheatsheet (pdf)](http://kiwi.gg/flexcheat)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Jack in the flexbox](http://jackintheflexbox.tumblr.com/)
 * [Le petit flexbox illustré](http://www.vincent-valentin.name/articles/le-petit-flexbox-illustre)
@@ -85,7 +82,13 @@
 * [SMACSS](https://smacss.com/)
 * [OOCSS](http://oocss.org/)
 
-## Frameworks
+### Print
+
+* [Une feuille de styles de base pour le media print](http://www.alsacreations.com/astuce/lire/1160-une-feuille-de-styles-de-base-pour-le-media-print.html)
+* [CSS : n'oubliez pas l'impression papier!](https://la-cascade.io/css-noubliez-pas-limpression-papier/)
+* [Tips And Tricks For Print Style Sheets](http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/)
+
+### Frameworks
 
 * [TinyTypo](http://tinytypo.tetue.net/)
 * [RÖCSSTI](https://rocssti.net/)

@@ -11,8 +11,10 @@
 
 ### Packages
 
-* [Nodemon](https://www.npmjs.com/package/nodemon)
+* [nodemon](https://www.npmjs.com/package/nodemon)
+* [npm-run-all](https://www.npmjs.com/package/npm-run-all)
 
 ### Express
 
 * [Node.js and Express architecture](https://medium.com/@faisalabid/node-js-and-express-architecture-edf6a254d930)
+* [9 Security Tips to Keep Express from Getting Pwned](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/)

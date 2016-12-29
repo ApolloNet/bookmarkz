@@ -7,3 +7,4 @@
 * [Call to Idea](http://calltoidea.com/)
 * [On China’s Bleeding Edge: Web Design Trends 2015](https://www.smashingmagazine.com/2015/02/china-web-design-trends-2015/)
 * [Japanese Woodblock Print Search](http://ukiyo-e.org/)
+* [Envato Elements](https://elements.envato.com/)

@@ -16,3 +16,5 @@
 * [Start Render, Visually Complete et SpeedIndex](http://blog.dareboost.com/fr/2015/07/start-render-visually-complete-speedindex/)
 * [Request Map](http://requestmap.webperf.tools/)
 * [Next Generation Server Compression With Brotli](https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/)
+* [Designers Web Performance Checklist](http://jonyablonski.com/designers-wpo-checklist/)
+* [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)

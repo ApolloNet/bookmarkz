@@ -1,5 +1,7 @@
 ## Typo
 
+* [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](http://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
+* [Download All Google Fonts](https://github.com/google/fonts#download-all-google-fonts)
 * [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 * [Seriously, Don’t Use Icon Fonts](http://blog.cloudfour.com/seriously-dont-use-icon-fonts/)
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
@@ -19,12 +21,9 @@
 * [Typekit best sellers](https://typekit.com/fonts)
 * [Non-blocking web fonts using LocalStorage](http://crocodillon.com/blog/non-blocking-web-fonts-using-localstorage)
 * [Using Web Fonts The Best Way (in 2015)](https://helloanselm.com/2015/using-webfonts-in-2015/)
-* [FontCDN: A search tool for Google web fonts](http://fontcdn.org/)
 * [Typeset](https://blot.im/typeset/)
 * [La typographie comme outil de design (David Rault)](http://www.dailymotion.com/video/xfpaqk_la-typographie-comme-outil-de-design-david-rault_tech)
 * [Sites for Browsing Type Pairings](https://css-tricks.com/sites-for-browsing-type-pairings/)
-* [Noto](http://www.google.com/get/noto/)
-* [Google Web Font inspiration in HTML & CSS.](http://tobiasahlin.com/typesource/)
 * [Fontshop best sellers](https://www.fontshop.com/search/families?order=bestseller)
 * [What Font is](http://www.whatfontis.com/)
 * [Font Loading Revisited with Font Events](http://www.filamentgroup.com/lab/font-events.html)
@@ -37,3 +36,4 @@
 * [Eliminating Roundtrips with Preconnect](https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/)
 * [MyFonts best sellers](https://www.myfonts.com/bestsellers/)
 * [Google Web Font inspiration in HTML & CSS.](http://tobiasahlin.com/typesource/)
+* [Noto](http://www.google.com/get/noto/)

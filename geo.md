@@ -7,3 +7,4 @@
 * [La Base Adresse Nationale](http://adresse.data.gouv.fr/)
 * [1000 GIS Applications & Uses](http://gisgeography.com/gis-applications-uses/)
 * [Snazzy Maps - Free Styles for Google Maps](https://snazzymaps.com/)
+* [Airvisual : pollution map](https://airvisual.com/earth)

@@ -18,3 +18,6 @@
 * [Une interface graphique pour Fail2ban](http://korben.info/fail2ban-interface-graphique.html)
 * [Nikto : scanner de vulnérabilité](http://www.binarytides.com/nikto-hacking-tutorial-beginners/)
 * [Recommandations de sécurité relatives...](http://www.ssi.gouv.fr/administration/guide/recommandations-de-securite-relatives-a-un-systeme-gnulinux/)
+* [Root Me : train your hacking skills](https://www.root-me.org)
+* [SQL Map : Automatic SQL injection and database takeover tool](http://sqlmap.org/)
+* [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/Cheat_Sheets)
