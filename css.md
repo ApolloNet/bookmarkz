@@ -53,6 +53,8 @@
 * [patternlab-node](https://github.com/pattern-lab/patternlab-node)
 * [Profile CSS](https://github.com/tzi/profile-css.md)
 * [It's Time for Everyone to Learn About PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
+* [Using CSS Mod Queries with Range Selectors](http://alistapart.com/article/using-css-mod-queries-with-range-selectors)
+* [modqueries.com](http://www.modqueries.com/)
 
 ### Flexbox
 
@@ -71,11 +73,13 @@
 * [Sass Guideline](http://sass-guidelin.es/fr/)
 * [Sass Reference](http://www.kaelig.fr/bettersassdocs/)
 * [Release the docs!](http://sassdoc.com/)
+* [Loops in CSS Preprocessors](https://css-tricks.com/loops-css-preprocessors/)
 
 ###Méthodologie
 
 * [BEM](https://en.bem.info/)
 * [ITCSS](https://speakerdeck.com/dafed/managing-css-projects-with-itcss)
+* [Building a Maintainable and Scalable CSS Codebase with ITCSS](https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with-itcss-ceda5b2f495b)
 * [Scaling Down The BEM Methodology For Small Projects](http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/)
 * [tzi/BEM-references.md: How use BEM? Is it a real thing?](https://github.com/tzi/BEM-references.md)
 * [SMACSS](https://smacss.com/)

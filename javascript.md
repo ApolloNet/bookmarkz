@@ -9,58 +9,42 @@
 * [PlainJS : JavaScript Functions and Helpers VS Jquery](http://plainjs.com/javascript/)
 * [Learning JavaScript Design Patterns, ebook by Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [javascript.com](https://www.javascript.com/)
-* [JavaScript Standard Style](http://standardjs.com/)
 * [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+* [JavaScript: The World's Most Misunderstood Programming Language](http://javascript.crockford.com/javascript)
+* [10 Free JavaScript Books](http://sixrevisions.com/javascript/free-javascript-books/)
+* [oncletom/nodebook](https://github.com/oncletom/nodebook)
 * [You don't (may not) need Lodash/Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore/blob/master/README.md)
-* [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+* [JavaScript30](https://javascript30.com/)
 * [JavaScript Semicolon Insertion](http://inimino.org/~inimino/blog/javascript_semicolons)
 * [Checklist for your new Open Source JavaScript Project](https://ericdouglas.github.io/2015/09/27/checklist-for-your-new-open-source-javascript-project/)
 * [Let’s Learn JavaScript Closures — Free Code Camp](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.9s9rthr9q)
 * [Eliminate JavaScript Code Smells](http://elijahmanor.com/talks/js-smells)
-* [Premier exemple d'utilisation de Webpack](http://putaindecode.fr/posts/webpack/premier-exemple/)
-* [airbnb/javascript](https://github.com/airbnb/javascript)
 * [EScomplex : Software complexity analysis of JavaScript-family abstract syntax trees.](https://github.com/philbooth/escomplex)
 * [Création de plug-ins accessibles, une démarche](http://openweb.eu.org/articles/creation-de-plug-ins-accessibles-une-demarche)
-* [Browserify](http://browserify.org/)
-* [JavaScript: The World's Most Misunderstood Programming Language](http://javascript.crockford.com/javascript)
-* [JavaScript : organiser son code en modules](http://www.alsacreations.com/article/lire/565-JavaScript-organiser-son-code-en-modules.html)
-* [Prototypal Object-Oriented Programming using JavaScript](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript)
 * [Superhero.js](http://superherojs.com/)
 * [JavaScript console - for debugging JavaScript and remote debugging mobile web apps](http://jsconsole.com/)
 * [Promises](https://www.promisejs.org/)
 * [You Might Not Need Promises](https://blog.objectivedynamics.com/you-might-not-need-promises-5622fe470979)
 * [How to declare global variables when using the strict mode](http://stackoverflow.com/questions/9397778/how-to-declare-global-variables-when-using-the-strict-mode-pragma)
-* [10 Free JavaScript Books](http://sixrevisions.com/javascript/free-javascript-books/)
-* [DOM Tips and Techniques: Parent, Child, and Siblings](http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/)
 * [M4D'z Talks](http://talks.m4dz.net/)
-* [Understanding the prototype property in JavaScript](http://bytearcher.com/articles/understanding-prototype-property-in-javascript/)
 * [Quick Tip: How to Make a Game Loop in...](https://www.sitepoint.com/quick-tip-game-loop-in-javascript/)
 * [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
-* [Modules JavaScript par TZI](http://tzi.github.io/presentation-ModulesJavaScript/)
 * [You might not need jQuery plugins](http://youmightnotneedjqueryplugins.com/)
-* [loverajoel/jstips](https://github.com/loverajoel/jstips/blob/gh-pages/README.md)
-* [awesome-eslint](https://github.com/dustinspecker/awesome-eslint)
 * [Front-end Developer Handbook](http://www.frontendhandbook.com/)
-* [The mind-boggling universe of JavaScript Module strategies](https://www.airpair.com/javascript/posts/the-mind-boggling-universe-of-javascript-modules)
 * [Regex101](https://regex101.com/)
-* [DOM Features You Didn’t Know Existed (Video & Slides)](http://www.impressivewebs.com/dom-features-you-didnt-know-existed-video-slides/)
 * [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/)
 * [Understanding JavaScript behaviors in Drupal](https://www.lullabot.com/blog/article/understanding-javascript-behaviors-drupal)
-* [New, Prototype et Closure](https://twitter.com/getify/status/727126973655314432)
 * [JavaScript Standard Style](https://github.com/feross/standard/)
 * [Best Practices for Using Promises in JS](https://60devs.com/best-practices-for-using-promises-in-js.html)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 * [Quick Tip: Function Expressions vs Function Declarations](http://www.sitepoint.com/function-expressions-vs-declarations/)
 * [JavaScript : 3 fondamentaux](http://braincracking.org/2011/11/16/javascript-3-fondamentaux/)
 * [JS TDD - Become a WebAvenger](http://talks.madsgraphics.com/js_tdd_become_a_webavenger.html#/)
-* [An Introduction To DOM Events](http://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)
 * [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
 * [Comprendre JavaScript](https://larlet.fr/david/blog/2015/cours-iut-comprendre-javascript/)
 * [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
-* [oncletom/nodebook](https://github.com/oncletom/nodebook)
 * [IIFE - Immediately-invoked function expression](https://en.wikipedia.org/wiki/Immediately-invoked_function_expression)
-* [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 * [14 trucs !@# dans votre JS](http://www.js-attitude.fr/2014/12/26/clusterfucks/)
 * [Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
 * [JavaScripting](http://www.javascripting.com/)
@@ -70,10 +54,29 @@
 * [L'asynchrone en JavaScript](http://makinacorpus.github.io/makina-slides/javascript-async.html)
 * [The State of JavaScript](http://stateofjs.com/)
 * [Functional Light JS :  A book about functional programming in JavaScript](https://github.com/getify/Functional-Light-JS)
+* [Premier exemple d'utilisation de Webpack](http://putaindecode.fr/posts/webpack/premier-exemple/)
+* [Browserify](http://browserify.org/)
+* [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
+
+### DOM
+
+* [DOM Tips and Techniques: Parent, Child, and Siblings](http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/)
+* [DOM Features You Didn’t Know Existed (Video & Slides)](http://www.impressivewebs.com/dom-features-you-didnt-know-existed-video-slides/)
+* [An Introduction To DOM Events](http://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)
 
 ### APIs
 
+* [An Overview of Client-Side Storage](https://bitsofco.de/an-overview-of-client-side-storage/)
 * [Fetch API](https://developer.mozilla.org/fr/docs/Web/API/Fetch_API)
+* [Native JavaScript Development after Internet Explorer](https://www.sitepoint.com/native-javascript-development-after-internet-explorer/)
+
+### Prototypes, Classes, ...
+
+* [FunFunFunction : Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+* [JavaScript: Composition > Inheritance](https://medium.com/evozon-javascript/javascript-composition-inheritance-c795e6fc4599#.yejzcatf6)
+* [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+* [Prototypal Object-Oriented Programming using JavaScript](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript)
+* [Understanding the prototype property in JavaScript](http://bytearcher.com/articles/understanding-prototype-property-in-javascript/)
 
 ### ES6 / ES2015
 
@@ -101,6 +104,7 @@
 * [Is ServiceWorker Ready ? ](https://jakearchibald.github.io/isserviceworkerready/)
 * [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
 * [Making a Simple Site Work Offline with ServiceWorker](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
+* [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 * [Service Workers at PonyFoo](https://ponyfoo.com/articles/tagged/serviceworker)
 * [Getting Started with Service Workers](https://www.sitepoint.com/getting-started-with-service-workers/)
 * [The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker)
@@ -109,6 +113,18 @@
 * [serviceworke.rs](https://serviceworke.rs/)
 * [Video: The Pragmatist’s Guide to Service Workers](https://vimeo.com/184236467)
 * [Swivel : Message passing between ServiceWorker and pages made simple](https://github.com/bevacqua/swivel)
+
+### Modules
+
+* [Modules JavaScript par TZI](http://tzi.github.io/presentation-ModulesJavaScript/)
+* [JavaScript : organiser son code en modules](http://www.alsacreations.com/article/lire/565-JavaScript-organiser-son-code-en-modules.html)
+* [The mind-boggling universe of JavaScript Module strategies](https://www.airpair.com/javascript/posts/the-mind-boggling-universe-of-javascript-modules)
+
+### Style
+
+* [awesome-eslint](https://github.com/dustinspecker/awesome-eslint)
+* [JavaScript Standard Style](http://standardjs.com/)
+* [airbnb/javascript](https://github.com/airbnb/javascript)
 
 ### Libs
 
@@ -122,6 +138,7 @@
 * [Socket.IO — Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
 * [Cleave.js : Format input text content when you are typing](https://github.com/nosir/cleave.js)
 * [Voca : The JavaScript string library](https://vocajs.com/)
+* [loverajoel/jstips](https://github.com/loverajoel/jstips/)
 
 * [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!](http://microjs.com/)
 * [React or not React ?](http://openweb.eu.org/articles/react-or-not-react)

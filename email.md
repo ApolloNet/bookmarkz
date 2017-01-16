@@ -12,3 +12,4 @@
 * [OVH IMAP Copy](https://ssl0.ovh.net/fr/imapcopy/)
 * [Email Standards](http://www.email-standards.org/)
 * [Ultimate Guide to HTML Emails - Tips,Tutorials and Resources](http://www.1stwebdesigner.com/tutorials/ultimate-guide-html-emails/)
+* [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)

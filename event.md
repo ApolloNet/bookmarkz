@@ -21,3 +21,5 @@
 * [Les Expertes du Numériques de Girlz In Web](http://expertes.girlzinweb.com/)
 * [Guide du speaker intergalactique (ou comment augmenter ses chances d’être retenu en tant que speaker en conférences au sein de l’univers) – David Rousset](https://www.davrous.com/2015/09/11/guide-du-speaker-intergalactique-ou-comment-augmenter-ses-chances-dtre-retenu-en-tant-que-speaker-en-confrences-au-sein-de-lunivers/)
 * [speaking.io : Tips for Public Speaking](http://speaking.io/)
+* [Soumettre une bonne proposition de sujet à une conférence](https://sudweb.fr/blog/2017/soumettre-une-bonne-proposition-de-sujet-a-une-conference/)
+* [WebSlides](https://webslides.tv/)
