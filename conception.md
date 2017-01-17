@@ -28,7 +28,7 @@
 
 ### Conception dans le navigateur
 
-* [Why designing in the browser is the way forward](http://hanno.co/logbook/why-designing-in-the-browser-is-the-way-forward)
+* [Conception responsive : obtenir une validation sans maquettes](http://www.pompage.net/traduction/conception-responsive-obtenir-validation-sans-maquettes)
 * [Why designing in the browser is the way forward](http://hanno.co/logbook/why-designing-in-the-browser-is-the-way-forward)
 
 ### Prototypage
@@ -50,6 +50,7 @@
 * [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
 * [Pattern Lab](http://pattern-lab.info/)
 * [Getting Started With Pattern Libraries](http://alistapart.com/blog/post/getting-started-with-pattern-libraries)
+* [Taking Pattern Libraries To The Next Level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/)
 * [A List Apart Pattern Library](http://patterns.alistapart.com/)
 * [Pattern Library | MailChimp](http://ux.mailchimp.com/patterns/)
 * [Yahoo! Design Pattern Library](http://developer.yahoo.com/ypatterns/everything.html)
