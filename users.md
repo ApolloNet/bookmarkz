@@ -1,6 +1,5 @@
 ## Users
 
-* [Exemple fiche persona Laurent Demontiers](https://pbs.twimg.com/media/BDsRYwuCEAA4u-Z.jpg)
 * [WebGazer.js: Democratizing Webcam Eye Tracking on the Browser](http://webgazer.cs.brown.edu/)
 * [Improving Your Website Usability Tests](http://uxdesign.smashingmagazine.com/2013/01/08/improving-your-website-usability-tests/)
 * [The Ultimate Guide To A/B Testing - Smashing Magazine](http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/)
