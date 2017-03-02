@@ -63,6 +63,8 @@
 ### Personas
 
 * [A Closer Look At Personas: What They Are And How They Work (Part 1) | Smashing Magazine](http://www.smashingmagazine.com/2014/08/06/a-closer-look-at-personas-part-1/)
+* [Modèle pour la création de personas - iergo](http://blocnotes.iergo.fr/concevoir/modele-pour-la-creation-de-personas/)
+* [DIY User Personas](http://www.ux-lady.com/diy-user-personas/)
 * [Exemple fiche persona Laurent Demontiers](https://pbs.twimg.com/media/BDsRYwuCEAA4u-Z.jpg)
 * [UX Republic : DIY Persona Kit](http://www.ux-republic.com/ux-calendar-05-decembre-diy-persona-kit/)
 * [Un Flickr de Personas](https://www.flickr.com/photos/jasontravis/albums/72157603258446753)
