@@ -11,3 +11,4 @@
 * [kylestetz/Web-Audio-Basics](https://github.com/kylestetz/Web-Audio-Basics)
 * [Wild Web Midi - Quality Midi to Wave convertor in JS](http://zz85.github.io/wild-web-midi/)
 * [wavesurfer.js](http://www.wavesurfer.fm/)
+* [Chrome experiments : Web Audio](https://www.chromeexperiments.com/web-audio-api)
