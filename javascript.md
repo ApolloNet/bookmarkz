@@ -1,6 +1,7 @@
 ## Javascript
 
 * [Eloquent Javascript](http://fr.eloquentjavascript.net/contents.html)
+* [JavaScript for Cats](http://jsforcats.com/)
 * [Une réintroduction à JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript)
 * [Guide JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide)
 * [Roadmap for learning the JavaScript language](http://bytearcher.com/articles/roadmap-for-learning-javascript-language/)
@@ -103,6 +104,7 @@
 
 * [Is ServiceWorker Ready ? ](https://jakearchibald.github.io/isserviceworkerready/)
 * [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
+* [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
 * [Making a Simple Site Work Offline with ServiceWorker](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
 * [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 * [Service Workers at PonyFoo](https://ponyfoo.com/articles/tagged/serviceworker)
@@ -113,6 +115,7 @@
 * [serviceworke.rs](https://serviceworke.rs/)
 * [Video: The Pragmatist’s Guide to Service Workers](https://vimeo.com/184236467)
 * [Swivel : Message passing between ServiceWorker and pages made simple](https://github.com/bevacqua/swivel)
+* [Pragmatist's Guide to Service Worker](https://github.com/lyzadanger/pragmatist-service-worker)
 
 ### Modules
 
@@ -143,8 +146,13 @@
 * [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!](http://microjs.com/)
 * [React or not React ?](http://openweb.eu.org/articles/react-or-not-react)
 * [How React Do? : React from scratch](http://blog.jfo.click/how-react-do/)
-* [Consider VueJS for Your Next Web Project](https://blog.codeship.com/consider-vuejs-next-web-project/)
 * [Bacon.js - Functional Reactive Programming library for JavaScript](http://baconjs.github.io/)
+
+### Vue.js
+
+* [Intro to Vue.js: Rendering, Directives, and Events](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
+* [Consider VueJS for Your Next Web Project](https://blog.codeship.com/consider-vuejs-next-web-project/)
+* [DejaVue : Application visualization and time travel for Vue.js](http://dejavue.co/)
 
 ### Jquery
 
