@@ -6,6 +6,7 @@
 * [Meludia : mastering the fundamentals of music with over 600 interactive listening exercises](http://www.meludia.com/)
 * [Chrome Experiments : Music Lab](https://musiclab.chromeexperiments.com/)
 * [Chrome Experiments : JAM with Chrome](https://www.chromeexperiments.com/experiment/jam-with-chrome)
+* [The global jukebox](https://theglobaljukebox.org)
 
 ### For musicians
 

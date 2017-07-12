@@ -8,3 +8,4 @@
 * [Meteo CLI : curl http://wttr.in/Rouen](http://wttr.in/Rouen)
 * [Icoutils - Create favicon.ico with Ubuntu Linux](http://steve.kargs.net/hosting/create-a-website-faviconico-with-ubuntu-linux/)
 * [Terminator](https://doc.ubuntu-fr.org/terminator)
+* [ShellCheck](http://www.shellcheck.net/)

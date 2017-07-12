@@ -1,5 +1,6 @@
 ## Noobs
 
+* [Motherfucking website](http://motherfuckingwebsite.com)
 * [Le tao du design Web](http://www.pompage.net/traduction/dao)
 * [DoisJeUtiliser : Contre-exemples illustrés](http://www.doisjeutiliser.fr/)
 * [Stop Breaking the Web](http://ponyfoo.com/articles/stop-breaking-the-web)
