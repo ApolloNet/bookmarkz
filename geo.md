@@ -1,5 +1,6 @@
 ## Geo
 
+* [Geonym API : API pour conversion geonym <-> lat/lon](https://github.com/geonym/geonymapi)
 * [Open Source Routing Machine](http://project-osrm.org/)
 * [La Base Adresse Nationale](http://adresse.data.gouv.fr/)
 * [1000 GIS Applications & Uses](http://gisgeography.com/gis-applications-uses/)

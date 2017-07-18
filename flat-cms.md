@@ -10,3 +10,5 @@
 * [StackEdit : In-browser markdown editor](https://github.com/benweet/stackedit)
 * [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check)
 * [Breakdance : convert HTML to markdown](http://breakdance.io/)
+* [Markmap](https://github.com/dundalek/markmap)
+* [Markdeep](https://casual-effects.com/markdeep/)

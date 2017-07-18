@@ -43,6 +43,7 @@
 
 * [State of Web Type](http://stateofwebtype.com/)
 * [Flexible typography with CSS locks](http://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/)
+* [Color fonts! WTF? 🌈](https://www.colorfonts.wtf)
 
 ### Frameworks CSS
 

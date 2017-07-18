@@ -29,6 +29,7 @@
 * [Ui Parade – User Interface Design Inspiration](http://www.uiparade.com/)
 * [UICloud | User Interface Design Search](http://ui-cloud.com/)
 * [Call to Idea](http://calltoidea.com/)
+* [Truncating List, for a large responsive navigation menu](https://codepen.io/SitePoint/pen/GrwjOr)
 
 ### Animation
 

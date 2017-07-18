@@ -10,13 +10,15 @@
 * [MEAN](http://mean.io/)
 * [History of Node.js on a Timeline](https://blog.risingstack.com/history-of-node-js/)
 * [Using Pouchdb with nodejs](https://jjude.com/pouchdb-with-nodejs/)
+* [How to Build and Structure a Node.js MVC Application](https://www.sitepoint.com/node-js-mvc-application/)
 
 ### Packages
 
 * [nodemon](https://www.npmjs.com/package/nodemon)
 * [npm-run-all](https://www.npmjs.com/package/npm-run-all)
+* [Caporal, for building CLI app](https://www.npmjs.com/package/caporal)
 
 ### Express
 
 * [Node.js and Express architecture](https://medium.com/@faisalabid/node-js-and-express-architecture-edf6a254d930)
-* [9 Security Tips to Keep Express from Getting Pwned](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/)
+* [Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)

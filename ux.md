@@ -32,3 +32,4 @@
 * [Firefox Design Values](http://people.mozilla.org/~madhava/FDV/)
 * [Reducing Cognitive Overload For A Better User Experience](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/)
 * [Laissez mon sexe tranquille](http://www.hteumeuleu.fr/laissez-mon-sexe-tranquille/)
+* [meCUE : modular evaluation of key Components of User Experience](http://mecue.de/english/home.html)

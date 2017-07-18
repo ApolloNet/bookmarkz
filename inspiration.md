@@ -8,3 +8,4 @@
 * [On China’s Bleeding Edge: Web Design Trends 2015](https://www.smashingmagazine.com/2015/02/china-web-design-trends-2015/)
 * [Japanese Woodblock Print Search](http://ukiyo-e.org/)
 * [Envato Elements](https://elements.envato.com/)
+* [30 Negative Space Logos](http://www.boredpanda.com/negative-space-logos/)
