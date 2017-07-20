@@ -20,3 +20,4 @@
 * [Un livre n’a pas d’adresse, l’après-Web non plus](http://tcrouzet.com/2014/05/17/un-livre-na-pas-dadresse-lapres-web-non-plus/)
 * [Vers un web sans site web](http://tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/)
 * [Planktos](https://xuset.github.io/planktos/)
+* [p2p Github Pages](https://handbook.protozoa.nz/experiments/p2p_github_pages.html)

@@ -58,6 +58,7 @@
 * [Browserify](http://browserify.org/)
 * [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
 * [6 Great Uses of the Spread Operator](https://davidwalsh.name/spread-operator)
+* [Callback Hell](http://callbackhell.com)
 
 ### Async
 
@@ -122,6 +123,7 @@
 * [Video: The Pragmatist’s Guide to Service Workers](https://vimeo.com/184236467)
 * [Swivel : Message passing between ServiceWorker and pages made simple](https://github.com/bevacqua/swivel)
 * [Pragmatist's Guide to Service Worker](https://github.com/lyzadanger/pragmatist-service-worker)
+* [Implementing "Save For Offline" with Service Workers](https://una.im/save-offline/)
 
 ### Modules
 

@@ -11,6 +11,7 @@
 * [Browser Cam : Browser, Mobile & Email Testing](http://www.browsercam.com/)
 * [Test on the right mobile devices](https://www.browserstack.com/test-on-the-right-mobile-devices)
 * [Think you know the top web browsers?](https://medium.com/samsung-internet-dev/think-you-know-the-top-web-browsers-458a0a070175)
+* [Creating One Browser Extension For All Browsers](https://www.smashingmagazine.com/2017/04/browser-extension-edge-chrome-firefox-opera-brave-vivaldi/)
 
 ### Firefox
 

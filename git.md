@@ -2,9 +2,9 @@
 
 * [Git pour la nulle](http://nissone.com/GitPourLaNulle/GitPourLaNulle.pdf) [PDF]
 * [Git Extras](https://github.com/tj/git-extras)
+* [Git Flow](https://github.com/nvie/gitflow)
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 * [Git pratique 01 : ignores, commits et branches](http://blog.mh-communication.fr/git-pratique-01-ignores-commits-et-branches.html)
-* [Git Flow](https://github.com/nvie/gitflow)
 * [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.fr_FR.html)
 * [Bien utiliser Git merge et rebase](http://www.git-attitude.fr/2014/05/04/bien-utiliser-git-merge-et-rebase/)
 * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
@@ -23,3 +23,4 @@
 * [Most common git screwups/questions and solutions](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Gérez vos codes source avec Git](http://www.siteduzero.com/tutoriel-3-254198-gerez-vos-codes-source-avec-git.html)
 * [Tips for Pro Git Users From 8 Open Source Project Leaders](http://www.linux.com/news/featured-blogs/200-libby-clark/826426-tips-for-pro-git-users-from-8-open-source-project-leaders)
+* [Better Git configuration](https://blog.scottnonnenberg.com/better-git-configuration/)

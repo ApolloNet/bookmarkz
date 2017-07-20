@@ -21,3 +21,4 @@
 * [Root Me : train your hacking skills](https://www.root-me.org)
 * [SQL Map : Automatic SQL injection and database takeover tool](http://sqlmap.org/)
 * [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/Cheat_Sheets)
+* [XSS Game, by Google](https://xss-game.appspot.com)

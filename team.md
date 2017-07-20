@@ -30,6 +30,7 @@
 * [Hacker la Culture... ou Hacker vos Réunions | QualityStreet - Blog Pro de Jean Claude Grosjean](http://www.qualitystreet.fr/2013/07/16/hacker-la-culture-ou-hacker-vos-reunions/)
 * [Return on Time Invested: le ROTI en Image et le Lean en pratique !](http://www.qualitystreet.fr/2010/11/30/return-on-time-invested-le-roti-en-image-et-le-lean-en-pratique/)
 * [Planning poker - Wikipédia](http://fr.m.wikipedia.org/wiki/Planning_poker)
+* [Valve : manuel pour les nouveaux employés](http://media.steampowered.com/apps/valve/hbook-FR.pdf) [PDF]
 
 ### User stories
 
@@ -51,6 +52,7 @@
 * [Retr-O-Mat - Inspiration & plans pour rétrospectives](http://plans-for-retrospectives.com/index_fr.html?id=18-33-8-12-15)
 * [Checklists facilitation](https://github.com/clrh/checklists-facilitation)
 * [Lean Canvas](https://pbs.twimg.com/media/BjjeAn5CUAARnfU.jpg:large)
+* [Business method toolkit, from Media Lab Amsterdam](http://medialabamsterdam.com/businesstoolkit/)
 
 ### Vendre
 

@@ -2,6 +2,8 @@
 
 **Todo : à remixer avec ux.md**
 
+* [Design Kit, from Ideo](http://www.designkit.org)
+* [Design method toolkit, from Media Lab Amsterdam](http://medialabamsterdam.com/toolkit/)
 * [Progressive enhancement is faster](http://jakearchibald.com/2013/progressive-enhancement-is-faster/)
 * [Development Is Design](http://bradfrostweb.com/blog/post/development-is-design/)
 * [Tips on how to optimize your web design workflow](http://veerle.duoh.com/design/article/tips_on_how_to_optimize_your_web_design_workflow)
