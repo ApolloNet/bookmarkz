@@ -17,6 +17,7 @@
 * [nodemon](https://www.npmjs.com/package/nodemon)
 * [npm-run-all](https://www.npmjs.com/package/npm-run-all)
 * [Caporal, for building CLI app](https://www.npmjs.com/package/caporal)
+* [pretty-exceptions](https://www.npmjs.com/package/pretty-exceptions)
 
 ### Express
 

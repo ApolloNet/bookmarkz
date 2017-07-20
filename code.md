@@ -10,3 +10,8 @@
 * [Quine](https://en.wikipedia.org/wiki/Quine_(computing))
 * [AEM1K : Quines and crazy things](http://aem1k.com)
 * [Mnemonist : a collection of data structures implemented in JavaScript](yomguithereal.github.io/mnemonist/)
+* [awesome-katas : A curated list of code katas](https://github.com/gamontalvo/awesome-katas)
+
+### IDE
+
+* [Editor Config](http://editorconfig.org)

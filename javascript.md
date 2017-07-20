@@ -52,12 +52,18 @@
 * [Cours IUT : Javascript et jQuery](https://larlet.fr/david/blog/2014/cours-iut-javascript-jquery/)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 * [Quick Tip: Stop Writing Loops and Start Thinking with Maps](http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/)
-* [L'asynchrone en JavaScript](http://makinacorpus.github.io/makina-slides/javascript-async.html)
 * [The State of JavaScript](http://stateofjs.com/)
 * [Functional Light JS :  A book about functional programming in JavaScript](https://github.com/getify/Functional-Light-JS)
 * [Premier exemple d'utilisation de Webpack](http://putaindecode.fr/posts/webpack/premier-exemple/)
 * [Browserify](http://browserify.org/)
 * [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
+* [6 Great Uses of the Spread Operator](https://davidwalsh.name/spread-operator)
+
+### Async
+
+* [L'asynchrone en JavaScript](http://makinacorpus.github.io/makina-slides/javascript-async.html)
+* [Understanding async/await in 7 seconds](https://twitter.com/manekinekko/status/855824609299636230/video/1)
+* [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 
 ### DOM
 
