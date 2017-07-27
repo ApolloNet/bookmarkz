@@ -55,6 +55,7 @@
 * [It's Time for Everyone to Learn About PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
 * [Using CSS Mod Queries with Range Selectors](http://alistapart.com/article/using-css-mod-queries-with-range-selectors)
 * [modqueries.com](http://www.modqueries.com/)
+* [5 CSS Properties That You Probably Don’t Know](http://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/)
 
 ### Flexbox
 

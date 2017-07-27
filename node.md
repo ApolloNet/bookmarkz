@@ -1,5 +1,6 @@
 ## Node
 
+* [Workshop : Learnyounode](https://github.com/workshopper/learnyounode)
 * [Livre Node.js d'Oncletom](https://github.com/oncletom/nodebook/)
 * [Felix's Node.js Guide](http://nodeguide.com/)
 * [JavaScript Clean Coding Best Practices - Node.js at Scale](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
@@ -21,5 +22,6 @@
 
 ### Express
 
+* [Workshop : expressworks](https://github.com/azat-co/expressworks)
 * [Node.js and Express architecture](https://medium.com/@faisalabid/node-js-and-express-architecture-edf6a254d930)
 * [Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)

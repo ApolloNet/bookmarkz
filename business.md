@@ -12,3 +12,4 @@
 * [Comment initier et entretenir une relation agile avec son client ?](http://blog.mh-communication.fr/comment-initier-et-entretenir-une-relation-agile-avec-son-client.html)
 * [14 Questions To Ask Your Clients Before and After a Project](http://designreviver.com/tips/14-questions-to-ask-your-clients-before-and-after-a-project/)
 * [Living up to Your (Business) Ideals](http://alistapart.com/article/living-up-to-your-business-ideals)
+* [@libellule à Sudweb](http://libelilou.github.io/2017/05/29/sudweb.html)

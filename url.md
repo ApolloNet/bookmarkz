@@ -12,3 +12,4 @@
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [API Changelog](https://www.apichangelog.com/)
 * [Save Page Now, at Archive.org](http://archive.org/web/)
+* [The Protocol-relative URL](http://www.paulirish.com/2010/the-protocol-relative-url/)

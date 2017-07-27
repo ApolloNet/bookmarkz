@@ -9,6 +9,7 @@
 * [Groupe international francophone sur les Tiers-Lieux open source](http://coop-group.org/tiers-lieux/)
 * [Fing: FabLab Squared](http://fing.org/?-FabLab-Squared,139-&lang=fr)
 * [Softplace, étude de la Fing](http://www.fing.org/?Softplace-publie-ses-pistes-d)
+* [La Mednum](https://lamednum.coop/)
 
 ### Annuaires
 

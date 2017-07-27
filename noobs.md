@@ -13,3 +13,4 @@
 * [Should I Use A Carousel](http://shouldiuseacarousel.com/)
 * [Déclaration d’indépendance du Cyberespace](http://editions-hache.com/essais/barlow/barlow2.html)
 * [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
+* [The Mother of Internet](http://www.hteumeuleu.fr/the-mother-of-internet/)

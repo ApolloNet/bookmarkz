@@ -22,3 +22,4 @@
 * [Planktos](https://xuset.github.io/planktos/)
 * [p2p Github Pages](https://handbook.protozoa.nz/experiments/p2p_github_pages.html)
 * [Peer5, the serverless cdn](https://www.peer5.com)
+* [Freenet](https://fr.wikipedia.org/wiki/Freenet)
