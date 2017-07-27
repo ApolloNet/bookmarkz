@@ -11,3 +11,5 @@
 * [AEM1K : Quines and crazy things](http://aem1k.com)
 * [Mnemonist : a collection of data structures implemented in JavaScript](yomguithereal.github.io/mnemonist/)
 * [awesome-katas : A curated list of code katas](https://github.com/gamontalvo/awesome-katas)
+* [Patron de conception / Design Pattern](https://fr.wikipedia.org/wiki/Patron_de_conception)
+* [Visualgo](https://visualgo.net/en)

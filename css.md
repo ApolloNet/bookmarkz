@@ -77,6 +77,7 @@
 * [CSS Grid Garden](http://cssgridgarden.com/)
 * [CSS Grid Template Builder](https://codepen.io/anthonydugois/full/RpYBmy)
 * [A Step by Step Guide to the Auto-Placement Algorithm in CSS Grid](https://www.sitepoint.com/a-step-by-step-guide-to-the-auto-placement-algorithm-in-css-grid/)
+* [A Collection of Interesting Facts about CSS Grid Layout](https://css-tricks.com/collection-interesting-facts-css-grid-layout/)
 
 ### Sass
 

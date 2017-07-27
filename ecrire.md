@@ -1,5 +1,6 @@
 ## Ecrire
 
+* [Writing style](https://en.wikipedia.org/wiki/Writing_style)
 * [The Story Spine: Pixar’s 4th Rule of Storytelling](http://www.aerogrammestudio.com/2013/03/22/the-story-spine-pixars-4th-rule-of-storytelling/)
 * [La pyramide inversée](https://yellowdolphins.com/publications/dossier-la-pyramide-inversee/)
 * [Pixar’s 22 Rules of Storytelling](http://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/)

@@ -21,3 +21,4 @@
 * [Vers un web sans site web](http://tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/)
 * [Planktos](https://xuset.github.io/planktos/)
 * [p2p Github Pages](https://handbook.protozoa.nz/experiments/p2p_github_pages.html)
+* [Peer5, the serverless cdn](https://www.peer5.com)
