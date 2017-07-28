@@ -24,8 +24,6 @@
 * [Création de plug-ins accessibles, une démarche](http://openweb.eu.org/articles/creation-de-plug-ins-accessibles-une-demarche)
 * [Superhero.js](http://superherojs.com/)
 * [JavaScript console - for debugging JavaScript and remote debugging mobile web apps](http://jsconsole.com/)
-* [Promises](https://www.promisejs.org/)
-* [You Might Not Need Promises](https://blog.objectivedynamics.com/you-might-not-need-promises-5622fe470979)
 * [How to declare global variables when using the strict mode](http://stackoverflow.com/questions/9397778/how-to-declare-global-variables-when-using-the-strict-mode-pragma)
 * [M4D'z Talks](http://talks.m4dz.net/)
 * [Quick Tip: How to Make a Game Loop in...](https://www.sitepoint.com/quick-tip-game-loop-in-javascript/)
@@ -36,9 +34,6 @@
 * [Regex101](https://regex101.com/)
 * [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/)
 * [Understanding JavaScript behaviors in Drupal](https://www.lullabot.com/blog/article/understanding-javascript-behaviors-drupal)
-* [JavaScript Standard Style](https://github.com/feross/standard/)
-* [Best Practices for Using Promises in JS](https://60devs.com/best-practices-for-using-promises-in-js.html)
-* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 * [Quick Tip: Function Expressions vs Function Declarations](http://www.sitepoint.com/function-expressions-vs-declarations/)
 * [JavaScript : 3 fondamentaux](http://braincracking.org/2011/11/16/javascript-3-fondamentaux/)
 * [JS TDD - Become a WebAvenger](http://talks.madsgraphics.com/js_tdd_become_a_webavenger.html#/)
@@ -54,15 +49,18 @@
 * [Quick Tip: Stop Writing Loops and Start Thinking with Maps](http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/)
 * [The State of JavaScript](http://stateofjs.com/)
 * [Functional Light JS :  A book about functional programming in JavaScript](https://github.com/getify/Functional-Light-JS)
-* [Premier exemple d'utilisation de Webpack](http://putaindecode.fr/posts/webpack/premier-exemple/)
-* [Browserify](http://browserify.org/)
 * [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
 * [6 Great Uses of the Spread Operator](https://davidwalsh.name/spread-operator)
 * [Callback Hell](http://callbackhell.com)
+* [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 
 ### Async
 
 * [L'asynchrone en JavaScript](http://makinacorpus.github.io/makina-slides/javascript-async.html)
+* [Promises](https://www.promisejs.org/)
+* [Un guide illustré pour comprendre les promesses en JavaScript](https://frank.taillandier.me/2017/03/23/comprendre-les-promesses-en-javascript/)
+* [Best Practices for Using Promises in JS](https://60devs.com/best-practices-for-using-promises-in-js.html)
+* [You Might Not Need Promises](https://blog.objectivedynamics.com/you-might-not-need-promises-5622fe470979)
 * [Understanding async/await in 7 seconds](https://twitter.com/manekinekko/status/855824609299636230/video/1)
 * [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 
@@ -74,7 +72,6 @@
 
 ### APIs
 
-* [An Overview of Client-Side Storage](https://bitsofco.de/an-overview-of-client-side-storage/)
 * [Fetch API](https://developer.mozilla.org/fr/docs/Web/API/Fetch_API)
 * [Native JavaScript Development after Internet Explorer](https://www.sitepoint.com/native-javascript-development-after-internet-explorer/)
 
@@ -107,29 +104,13 @@
 * [ES6 Katas](http://es6katas.org/)
 * [Exploring JS, a book by Axel Rauschmayer](http://exploringjs.com/es6/index.html)
 
-## Service Workers
-
-* [Is ServiceWorker Ready ? ](https://jakearchibald.github.io/isserviceworkerready/)
-* [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
-* [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
-* [Making a Simple Site Work Offline with ServiceWorker](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
-* [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
-* [Service Workers at PonyFoo](https://ponyfoo.com/articles/tagged/serviceworker)
-* [Getting Started with Service Workers](https://www.sitepoint.com/getting-started-with-service-workers/)
-* [The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker)
-* [Making A Service Worker: A Case Study](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
-* [The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
-* [serviceworke.rs](https://serviceworke.rs/)
-* [Video: The Pragmatist’s Guide to Service Workers](https://vimeo.com/184236467)
-* [Swivel : Message passing between ServiceWorker and pages made simple](https://github.com/bevacqua/swivel)
-* [Pragmatist's Guide to Service Worker](https://github.com/lyzadanger/pragmatist-service-worker)
-* [Implementing "Save For Offline" with Service Workers](https://una.im/save-offline/)
-
-### Modules
+### Modules, Bundling
 
 * [Modules JavaScript par TZI](http://tzi.github.io/presentation-ModulesJavaScript/)
 * [JavaScript : organiser son code en modules](http://www.alsacreations.com/article/lire/565-JavaScript-organiser-son-code-en-modules.html)
 * [The mind-boggling universe of JavaScript Module strategies](https://www.airpair.com/javascript/posts/the-mind-boggling-universe-of-javascript-modules)
+* [Premier exemple d'utilisation de Webpack](http://putaindecode.fr/posts/webpack/premier-exemple/)
+* [Browserify](http://browserify.org/)
 
 ### Style
 

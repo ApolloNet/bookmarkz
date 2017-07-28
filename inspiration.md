@@ -9,3 +9,4 @@
 * [Japanese Woodblock Print Search](http://ukiyo-e.org/)
 * [Envato Elements](https://elements.envato.com/)
 * [30 Negative Space Logos](http://www.boredpanda.com/negative-space-logos/)
+* [clearleft.com](https://clearleft.com/)

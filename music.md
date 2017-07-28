@@ -1,12 +1,17 @@
-## Music & Digital
+## Music
 
-### Discovery
+* [MusicAlgo](http://musiquealgorithmique.fr/)
+
+### Discovery & Experiments
 
 * [Radiooooo : world map and timeline of music](http://radiooooo.com/)
 * [Meludia : mastering the fundamentals of music with over 600 interactive listening exercises](http://www.meludia.com/)
 * [Chrome Experiments : Music Lab](https://musiclab.chromeexperiments.com/)
 * [Chrome Experiments : JAM with Chrome](https://www.chromeexperiments.com/experiment/jam-with-chrome)
 * [The global jukebox](https://theglobaljukebox.org)
+* [@alexanderchen's mta.me](http://mta.me/)
+* [@alexanderchen's baroque.me](http://baroque.me)
+* [Pink Trombone](https://dood.al/pinktrombone/)
 
 ### For musicians
 

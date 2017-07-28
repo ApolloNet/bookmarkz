@@ -14,3 +14,4 @@
 * [Déclaration d’indépendance du Cyberespace](http://editions-hache.com/essais/barlow/barlow2.html)
 * [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
 * [The Mother of Internet](http://www.hteumeuleu.fr/the-mother-of-internet/)
+* [Safia Abdalla - The Hitchhiker's Guide to All Things Memory in JS - CascadiaFest 2016](https://www.youtube.com/watch?v=cpM5LYZdfUo)

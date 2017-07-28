@@ -30,12 +30,17 @@
 * [Hacker la Culture... ou Hacker vos Réunions | QualityStreet - Blog Pro de Jean Claude Grosjean](http://www.qualitystreet.fr/2013/07/16/hacker-la-culture-ou-hacker-vos-reunions/)
 * [Return on Time Invested: le ROTI en Image et le Lean en pratique !](http://www.qualitystreet.fr/2010/11/30/return-on-time-invested-le-roti-en-image-et-le-lean-en-pratique/)
 * [Planning poker - Wikipédia](http://fr.m.wikipedia.org/wiki/Planning_poker)
+* [Better Meetings](http://larahogan.me/blog/better-meetings/)
 
 
 ### Culture
 
 * [Valve : manuel pour les nouveaux employés](http://media.steampowered.com/apps/valve/hbook-FR.pdf) [PDF]
 * [Building a Testing Culture](https://www.lukew.com/ff/entry.asp?1965)
+
+### Open Source
+
+* [Open Source Guides](https://opensource.guide/)
 
 ### User stories
 

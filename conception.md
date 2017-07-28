@@ -27,6 +27,7 @@
 
 * [La conception participative : concevoir avec les utilisateurs](http://www.ergonomie-interface.com/conception-maquettage/conception-participative-utilisateurs/)
 * [Designing With Your Clients](http://www.smashingmagazine.com/2014/12/30/designing-with-your-clients/)
+* [Event Storming](https://en.wikipedia.org/wiki/Event_Storming)
 
 ### Conception dans le navigateur
 

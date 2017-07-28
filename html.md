@@ -4,7 +4,6 @@
 * [DOM Enlightenment - Exploring the relationship between JavaScript and the modern HTML DOM](http://domenlightenment.com/)
 * [<button> plutot que <a href="#">](https://mobile.twitter.com/rogerjohansson/status/654614669722824704?s=03)
 * [<details> et <summary>](http://blog.mxstbr.com/2015/06/html-details/)
-* [wooorm/mdast: Markdown Abstract Syntax Tree format](https://github.com/wooorm/mdast)
 * [postHTML](https://github.com/posthtml/posthtml)
 * [The anatomy of responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
 * [Writ](https://writ.cmcenroe.me/)
