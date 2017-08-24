@@ -4,6 +4,10 @@
 * [Professional Web Typography](https://prowebtype.com/)
 * [Référentiel typo pour le web](https://etherpad.mozilla.org/iInF84NBnj)
 
+### Typographie
+
+* [Astérisme](https://fr.wikipedia.org/wiki/Ast%C3%A9risme_(typographie))
+
 ### Outils
 
 * [Typeset](https://blot.im/typeset/)

@@ -2,6 +2,10 @@
 
 * [MusicAlgo](http://musiquealgorithmique.fr/)
 
+### Records
+
+* [78rpm Records Digitized by George Blood](https://archive.org/details/georgeblood)
+
 ### Discovery & Experiments
 
 * [Radiooooo : world map and timeline of music](http://radiooooo.com/)
@@ -12,6 +16,14 @@
 * [@alexanderchen's mta.me](http://mta.me/)
 * [@alexanderchen's baroque.me](http://baroque.me)
 * [Pink Trombone](https://dood.al/pinktrombone/)
+* [Music blocks](http://www.music-blocks.com/)
+* [Frets on fire](https://wiki.ubuntu-fr.org/frets-on-fire)
+* [Perfect Ear - Ear Trainer](https://play.google.com/store/apps/details?id=com.evilduck.musiciankit)
+
+### Web development
+
+* [Opensheetmusicdisplay](http://opensheetmusicdisplay.org/)
+* [Google's Songbird, Spatial Audio Encoding on the Web](https://google.github.io/songbird/)
 
 ### For musicians
 
