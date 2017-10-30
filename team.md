@@ -32,7 +32,6 @@
 * [Planning poker - Wikipédia](http://fr.m.wikipedia.org/wiki/Planning_poker)
 * [Better Meetings](http://larahogan.me/blog/better-meetings/)
 
-
 ### Culture
 
 * [Valve : manuel pour les nouveaux employés](http://media.steampowered.com/apps/valve/hbook-FR.pdf) [PDF]
@@ -72,3 +71,7 @@
 * [How To Guarantee Your Income With Agile Billing](http://www.smashingmagazine.com/2013/01/23/guarantee-income-with-agile-billing/)
 * [How to fail in a Drupal project: Fixed price contracts | Wunderkraut](http://wunderkraut.com/blog/how-to-fail-in-a-drupal-project-fixed-price-contracts/2013-07-10)
 * [A Client's Guide to Agile | Lullabot](http://www.lullabot.com/blog/article/clients-guide-agile)
+
+### Remote
+
+* [How Doist Makes Remote Work Happen](https://blog.doist.com/https-blog-doist-com-managing-remote-teams-622521189e80)

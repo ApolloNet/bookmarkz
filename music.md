@@ -19,11 +19,13 @@
 * [Music blocks](http://www.music-blocks.com/)
 * [Frets on fire](https://wiki.ubuntu-fr.org/frets-on-fire)
 * [Perfect Ear - Ear Trainer](https://play.google.com/store/apps/details?id=com.evilduck.musiciankit)
+* [Jazzari, The Programmable Trio](https://jackschaedler.github.io/jazzari/)
 
 ### Web development
 
 * [Opensheetmusicdisplay](http://opensheetmusicdisplay.org/)
-* [Google's Songbird, Spatial Audio Encoding on the Web](https://google.github.io/songbird/)
+* [Songbird, Spatial Audio Encoding on the Web](https://google.github.io/songbird/)
+* [Omnitone, Spatial Audio Rendering on the web](https://github.com/GoogleChrome/omnitone)
 
 ### For musicians
 

@@ -6,7 +6,8 @@
 * [OKFN - The Open Knowledge Foundation](http://www.okfn.org/)
 * [Google - public data](http://www.google.com/publicdata/home)
 * [Nos Données](http://www.nosdonnees.fr/)
-* [GDELT Project](http://www.gdeltproject.org/)
+* [GDELT Project](http://www.gdeltproject.org)
+* [MetaBrainz](https://metabrainz.org/)
 
 ### Tools
 
