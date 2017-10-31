@@ -88,7 +88,7 @@
 * [Release the docs!](http://sassdoc.com/)
 * [Loops in CSS Preprocessors](https://css-tricks.com/loops-css-preprocessors/)
 
-###Méthodologie
+### Méthodologie
 
 * [BEM](https://en.bem.info/)
 * [ITCSS](https://speakerdeck.com/dafed/managing-css-projects-with-itcss)
