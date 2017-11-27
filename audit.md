@@ -4,6 +4,7 @@
 * [Dareboost](https://dareboost.com/)
 * [Lighthouse :  auditing and performance metrics for Progressive Web Apps](https://github.com/GoogleChrome/lighthouse)
 * [Checklist for mobile website improvement](https://developers.google.com/webmasters/smartphone-sites/website-improvement-checklist)
+* [Sonarwhal](https://sonarwhal.com/)
 * [pa11y](http://pa11y.org/)
 * [Open Graph Validator](https://developers.facebook.com/tools/debug/sharing/)
 * [Conducting an Interface Inventory](http://bradfrost.com/blog/post/conducting-an-interface-inventory/)

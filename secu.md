@@ -1,6 +1,7 @@
 ## Secu
 
 * [Have i been pwned?](https://haveibeenpwned.com/)
+* [Saucs](https://www.saucs.com/), alert about new vulnerabilities
 
 ### Recommandations
 
@@ -24,7 +25,10 @@
 
 ### Privacy
 
-* [Signal](https://whispersystems.org/)
+* [Am I Unique](https://amiunique.org/)
+* [Lightbeam for Firefox](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
+* [Decentraleyes](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/)
+* [Signal](https://signal.org/)
 * [KeePass Password Safe](http://keepass.info/) + KeeFox, PassIFox & Keepass2Android
 * [WebPG](https://addons.mozilla.org/en-US/firefox/addon/webpg-firefox/)
 * [34 extensions Firefox pour vous protéger et tester la sécurité de vos sites](http://korben.info/34-extensions-firefox-pour-vous-proteger-et-tester-la-securite-de-vos-sites.html)
@@ -33,5 +37,6 @@
 
 ### Training
 
+* [SecNumAcademie](https://www.secnumacademie.gouv.fr/), par l'ANSSI
 * [Root Me : train your hacking skills](https://www.root-me.org)
 * [XSS Game, by Google](https://xss-game.appspot.com)

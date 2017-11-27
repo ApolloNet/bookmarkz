@@ -14,3 +14,9 @@
 * [Visual Map Designer for Mapbox GL](https://github.com/maputnik/editor)
 * [Edit OpenStreetMap Directly From Your Mapbox Map](https://www.mapbox.com/blog/improve-this-map/)
 * [Maps.Stamen.com](http://maps.stamen.com/)
+
+### Geo data
+
+* [Qgis](http://qgis.org/) convertit beaucoup de formats
+* [GeoJson.io](http://geojson.io)
+* [Convert from and to geojson](https://ogre.adc4gis.com/)
