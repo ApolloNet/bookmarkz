@@ -34,6 +34,8 @@
 * [34 extensions Firefox pour vous protéger et tester la sécurité de vos sites](http://korben.info/34-extensions-firefox-pour-vous-proteger-et-tester-la-securite-de-vos-sites.html)
 * [YubiKey](https://en.wikipedia.org/wiki/YubiKey)
 * [Dashlane](https://www.dashlane.com/)
+* [ProtonVPN](https://protonvpn.com/)
+* [EFF How to implement DNT guide](https://github.com/EFForg/dnt-guide)
 
 ### Training
 

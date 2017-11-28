@@ -11,3 +11,4 @@
 * [World Bank Dataviz](http://worldbank.tumblr.com/)
 * [Worldmapper](http://www.worldmapper.org/)
 * [Worldometers](http://www.worldometers.info/)
+* [Data Viz Project](http://datavizproject.com/)

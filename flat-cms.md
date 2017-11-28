@@ -5,6 +5,7 @@
 * [The Electric Book workflow is a set of tools and processes for creating high-quality books.](http://electricbook.works)
 * [Siteleaf](https://www.siteleaf.com/)
 * [Forestry](https://forestry.io/)
+* [CloudCannon](https://cloudcannon.com/)
 
 ### Markdown
 
