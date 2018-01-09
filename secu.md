@@ -2,11 +2,14 @@
 
 * [Have i been pwned?](https://haveibeenpwned.com/)
 * [Saucs](https://www.saucs.com/), alert about new vulnerabilities
+* [Snyk, Vulnerability DB](https://snyk.io/vuln/)
+* [security.txt](https://securitytxt.org/)
 
 ### Recommandations
 
 * [Recommandations de sécurité relatives...](http://www.ssi.gouv.fr/administration/guide/recommandations-de-securite-relatives-a-un-systeme-gnulinux/)
 * [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/Cheat_Sheets)
+* [Privilégier des tests de sécurité sous forme de tests logiques plutôt que sous forme de CAPTCHA](http://www.accede-web.com/notices/graphique/7-formulaires/7-13-tests-de-securite-tests-logiques/)
 
 ### HTTP & Stuff
 
@@ -28,6 +31,7 @@
 * [Am I Unique](https://amiunique.org/)
 * [Lightbeam for Firefox](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
 * [Decentraleyes](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/)
+* [First Party Isolation](https://addons.mozilla.org/en-US/firefox/addon/first-party-isolation/)
 * [Signal](https://signal.org/)
 * [KeePass Password Safe](http://keepass.info/) + KeeFox, PassIFox & Keepass2Android
 * [WebPG](https://addons.mozilla.org/en-US/firefox/addon/webpg-firefox/)
@@ -36,6 +40,7 @@
 * [Dashlane](https://www.dashlane.com/)
 * [ProtonVPN](https://protonvpn.com/)
 * [EFF How to implement DNT guide](https://github.com/EFForg/dnt-guide)
+* [Terms of Service, Didn't Read](https://tosdr.org/)
 
 ### Training
 

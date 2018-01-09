@@ -53,6 +53,8 @@
 * [6 Great Uses of the Spread Operator](https://davidwalsh.name/spread-operator)
 * [Callback Hell](http://callbackhell.com)
 * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
+* [Top 10 des snippets pour démolir le runtime JavaScript](http://putaindecode.io/fr/articles/js/top-10-snippets-demolir-runtime/)
+* [JavaScript function hoisting by example](https://gist.github.com/maxogden/4bed247d9852de93c94c)
 
 ### Async
 

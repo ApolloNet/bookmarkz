@@ -68,7 +68,7 @@
 * [Flexbugs](https://github.com/philipwalton/flexbugs)
 * [Flexbox a cassé mes images responsive !](http://blog.goetter.fr/2015/10/30/flexbox-a-casse-mes-images-responsive/)
 
-### Grid
+### Grid Layout
 
 * [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
 * [CSS Grid Layout, les ressources indispensables pour apprendre](https://www.alsacreations.com/astuce/lire/1739-CSS-Grid-Layout-les-ressources-indispensables-pour-apprendre.html)
@@ -79,6 +79,16 @@
 * [CSS Grid Template Builder](https://codepen.io/anthonydugois/full/RpYBmy)
 * [A Step by Step Guide to the Auto-Placement Algorithm in CSS Grid](https://www.sitepoint.com/a-step-by-step-guide-to-the-auto-placement-algorithm-in-css-grid/)
 * [A Collection of Interesting Facts about CSS Grid Layout](https://css-tricks.com/collection-interesting-facts-css-grid-layout/)
+* [CSS Grid : comment fonctionne minmax()](https://la-cascade.io/css-grid-comment-fonctionne-minmax/)
+* [Firefox Devtools : Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid)
+* [Using CSS Grid: Supporting Browsers Without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
+* [Grid Critters: Master CSS Grids, Save the Critters](https://gridcritters.com/p/gridcritters)
+* [Notes on CSS Grid Layout](https://hiddedevries.nl/en/blog/2016-05-10-notes-on-css-grid-layout)
+* [Design Systems and CSS Grid](https://24ways.org/2017/design-systems-and-css-grid/)
+* [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)
+* [Auto-Sizing Columns in CSS Grid: auto-fill vs auto-fit](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
+* [The CSS Grid](https://cssgrid.cc/index.html)
+* [Déclaration et terminologie pour Grid Layout CSS](https://www.gregoirenoyelle.com/declaration-terminologie-css-grid-layout/)
 
 ### Sass
 

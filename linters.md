@@ -10,3 +10,5 @@
 * [wooorm/remark-lint : markdown linter](https://github.com/wooorm/remark-lint)
 * [PHP_CodeSniffer](http://pear.php.net/package/PHP_CodeSniffer/)
 * [phpmd/phpmd](https://github.com/phpmd/phpmd)
+
+* [Prettier](https://prettier.io/)

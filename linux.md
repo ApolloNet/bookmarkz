@@ -14,3 +14,4 @@
 * [ZSH](https://doc.ubuntu-fr.org/zsh)
 * [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
 * [ZMV : Massive rename](http://www.zshwiki.org/home/builtin/functions/zmv)
+* [Spaceship ZSH Theme](https://github.com/denysdovhan/spaceship-zsh-theme/)

@@ -8,6 +8,7 @@
 * [French Idioms Dictionary | Language Realm](http://www.languagerealm.com/french/frenchidioms_p.php)
 * [Centre National de Ressources Textuelles et Lexicales](http://www.cnrtl.fr/proxemie/)
 * [ATILF - Analyse et traitement informatique de la langue française](http://www.atilf.fr/)
+* [Progressive punctuation](http://progressivepunctuation.com/)
 
 ### English
 
