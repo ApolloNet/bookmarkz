@@ -71,3 +71,4 @@
 * [Asqatasun : Opensource web site analyser for A11Y and SEO](https://github.com/Asqatasun/Asqatasun)
 * [Passmarked](https://passmarked.com/)
 * [Node HTML Auditor](https://github.com/wfp/node-html-auditor)
+* [github/accessibilityjs : Client side accessibility error scanner](https://github.com/github/accessibilityjs)

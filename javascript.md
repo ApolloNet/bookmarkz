@@ -55,6 +55,13 @@
 * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 * [Top 10 des snippets pour démolir le runtime JavaScript](http://putaindecode.io/fr/articles/js/top-10-snippets-demolir-runtime/)
 * [JavaScript function hoisting by example](https://gist.github.com/maxogden/4bed247d9852de93c94c)
+* [How I rediscovered my love for JavaScript after throwing 90% of it in the trash.](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b)
+* [JSRobot : Start learning JavaScript through a fun little game](https://lab.reaal.me/jsrobot/)
+
+### TDD
+
+* [Learning JavaScript Test-Driven Development by Example](https://www.sitepoint.com/learning-javascript-test-driven-development-by-example/)
+* [BDD in JavaScript: Getting Started with Cucumber and Gherkin](https://www.sitepoint.com/bdd-javascript-cucumber-gherkin/)
 
 ### Async
 
@@ -133,11 +140,16 @@
 * [Cleave.js : Format input text content when you are typing](https://github.com/nosir/cleave.js)
 * [Voca : The JavaScript string library](https://vocajs.com/)
 * [loverajoel/jstips](https://github.com/loverajoel/jstips/)
+* [Date-fns](https://date-fns.org/)
+* [polyglot](http://airbnb.io/polyglot.js/)
+* [globalize](https://github.com/globalizejs/globalize)
+* [Bacon.js - Functional Reactive Programming library for JavaScript](http://baconjs.github.io/)
+
+### Frameworks
 
 * [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!](http://microjs.com/)
 * [React or not React ?](http://openweb.eu.org/articles/react-or-not-react)
 * [How React Do? : React from scratch](http://blog.jfo.click/how-react-do/)
-* [Bacon.js - Functional Reactive Programming library for JavaScript](http://baconjs.github.io/)
 
 ### Vue.js
 

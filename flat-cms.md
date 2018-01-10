@@ -6,6 +6,9 @@
 * [Siteleaf](https://www.siteleaf.com/)
 * [Forestry](https://forestry.io/)
 * [CloudCannon](https://cloudcannon.com/)
+* [GraphCMS](https://graphcms.com/)
+* [Cockpit](https://getcockpit.com/)
+* [Kenticocloud](https://kenticocloud.com/)
 
 ### Markdown
 

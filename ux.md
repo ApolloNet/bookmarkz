@@ -35,3 +35,4 @@
 * [Laissez mon sexe tranquille](http://www.hteumeuleu.fr/laissez-mon-sexe-tranquille/)
 * [meCUE : modular evaluation of key Components of User Experience](http://mecue.de/english/home.html)
 * [Corporate UX Maturity: Stages 1-4](https://www.nngroup.com/articles/ux-maturity-stages-1-4/)
+* [Do you highlight all the text you read?](http://www.bemmu.com/do-you-highlight-all-the-text-you-read)

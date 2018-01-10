@@ -26,6 +26,12 @@
 * [SRI - SubResource Integrity](https://openweb.eu.org/articles/subresource-integrity)
 * [Sécurisation des cookies : passez au niveau supérieur avec l’attribut SameSite](https://blog.dareboost.com/fr/2017/06/securisation-cookies-attribut-samesite/)
 
+### JSON Web Tokens
+
+* [JWT.io](https://jwt.io/)
+* [Creating Secure Password Resets With JSON Web Tokens](https://www.smashingmagazine.com/2017/11/creating-secure-password-resets-with-json-web-tokens/)
+* [Using JSON Web Tokens with Node.js](https://www.sitepoint.com/using-json-web-tokens-node-js/)
+
 ### Privacy
 
 * [Am I Unique](https://amiunique.org/)
