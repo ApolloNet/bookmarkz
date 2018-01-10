@@ -21,3 +21,4 @@
 * [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
 * [Les statistiques de performance serveur dans votre navigateur avec Server Timing](https://www.alsacreations.com/astuce/lire/1726-server-timing-http-console-performance-serveur.html)
 * [The Illusion of Speed](https://paulbakaus.com/tutorials/performance/the-illusion-of-speed/)
+* [Progressive Image Loading using Intersection Observer and SQIP](https://calendar.perfplanet.com/2017/progressive-image-loading-using-intersection-observer-and-sqip/)

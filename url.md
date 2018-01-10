@@ -14,3 +14,4 @@
 * [Save Page Now, at Archive.org](http://archive.org/web/)
 * [The Protocol-relative URL](http://www.paulirish.com/2010/the-protocol-relative-url/)
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist/)
+* [Internet archive addon for Firefox](https://addons.mozilla.org/en-US/firefox/addon/internet-archive/)

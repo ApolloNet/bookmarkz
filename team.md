@@ -31,6 +31,8 @@
 * [Return on Time Invested: le ROTI en Image et le Lean en pratique !](http://www.qualitystreet.fr/2010/11/30/return-on-time-invested-le-roti-en-image-et-le-lean-en-pratique/)
 * [Planning poker - Wikipédia](http://fr.m.wikipedia.org/wiki/Planning_poker)
 * [Better Meetings](http://larahogan.me/blog/better-meetings/)
+* [Sauvez des vies, faites des feedbacks !](http://bloculus.com/sauvez-des-vies-faites-des-feedbacks/)
+* [Pourquoi l'agile tourne en rond ?](https://frank.taillandier.me/2017/11/26/agile-tourne-en-rond/)
 
 ### Culture
 

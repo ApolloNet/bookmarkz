@@ -57,6 +57,7 @@
 * [modqueries.com](http://www.modqueries.com/)
 * [5 CSS Properties That You Probably Don’t Know](http://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/)
 * [Media queries : Mobile, Small, Portrait, Slow, Interlace, Monochrome, Coarse, Non-Hover, First](https://css-tricks.com/mobile-small-portrait-slow-interlace-monochrome-coarse-non-hover-first/)
+* [A Look at Bootstrap 4's New Reset: Reboot.css](https://scotch.io/tutorials/a-look-at-bootstrap-4s-new-reset-rebootcss)
 
 ### Flexbox
 
@@ -120,4 +121,4 @@
 * [TinyTypo](http://tinytypo.tetue.net/)
 * [RÖCSSTI](https://rocssti.net/)
 * [KNACSS](http://knacss.com/)
-* [BassCSS - Framework](http://www.basscss.com/)
+* [BassCSS](http://www.basscss.com/)

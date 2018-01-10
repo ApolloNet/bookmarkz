@@ -14,6 +14,7 @@
 * [When Card UI Design Doesn’t Work](https://medium.theuxblog.com/when-card-ui-design-doesnt-work-f4343118d108)
 * [Un design pattern pour les formulaires longs en une seule page](http://t37.net/un-design-pattern-pour-les-formulaires-longs-en-une-seule-page.html)
 * [Hamburger menu alternatives for mobile navigation](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8)
+* [Why the Email Confirmation Field Must Die](http://uxmovement.com/forms/why-the-email-confirmation-field-must-die/)
 
 * [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
 
