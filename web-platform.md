@@ -1,5 +1,6 @@
 ## Web Platform
 
+* [What web can do today ?](https://whatwebcando.today/)
 * [polyfill.io](https://polyfill.io/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 

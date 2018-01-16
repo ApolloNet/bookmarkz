@@ -13,3 +13,4 @@
 * [awesome-katas : A curated list of code katas](https://github.com/gamontalvo/awesome-katas)
 * [Patron de conception / Design Pattern](https://fr.wikipedia.org/wiki/Patron_de_conception)
 * [Visualgo](https://visualgo.net/en)
+* [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)

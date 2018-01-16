@@ -15,3 +15,4 @@
 * [The Protocol-relative URL](http://www.paulirish.com/2010/the-protocol-relative-url/)
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist/)
 * [Internet archive addon for Firefox](https://addons.mozilla.org/en-US/firefox/addon/internet-archive/)
+* [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)

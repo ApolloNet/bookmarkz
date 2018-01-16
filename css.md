@@ -21,7 +21,6 @@
 * [Vivement les variables CSS](http://www.hteumeuleu.fr/vivement-les-variables-css/)
 * [CSS :root, le retour aux racines](https://la-cascade.io/css-roots-le-retour-aux-racines/)
 * [The anatomy of responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
-* [Brett Jankord – Cross Browser Retina/High Resolution Media Queries](http://www.brettjankord.com/2012/11/28/cross-browser-retinahigh-resolution-media-queries/)
 * [Why I'm Excited About Native CSS Variables](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/)
 * [The Future Generation of CSS Selectors: Level 4](http://www.sitepoint.com/future-generation-css-selectors-level-4/)
 * [Writ](https://writ.cmcenroe.me/)
@@ -40,7 +39,6 @@
 * [Inheriting box-sizing Probably Slightly Better Best-Practice](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 * [CSSComb : CSS Sorter](http://csscomb.com/)
 * [Normalize-OpenType.css](http://kennethormandy.com/journal/normalize-opentype-css)
-* [The Fab Four technique to create Responsive Emails without Media Queries — Free Code Camp](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.kbs5wor3n)
 * [CSS Regression Testing with Resemble.js](https://www.lullabot.com/blog/article/css-regression-testing-resemblejs)
 * [What a CSS Code Review Might Look Like...](https://css-tricks.com/what-a-css-code-review-might-look-like/)
 * [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -56,8 +54,13 @@
 * [Using CSS Mod Queries with Range Selectors](http://alistapart.com/article/using-css-mod-queries-with-range-selectors)
 * [modqueries.com](http://www.modqueries.com/)
 * [5 CSS Properties That You Probably Don’t Know](http://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/)
-* [Media queries : Mobile, Small, Portrait, Slow, Interlace, Monochrome, Coarse, Non-Hover, First](https://css-tricks.com/mobile-small-portrait-slow-interlace-monochrome-coarse-non-hover-first/)
 * [A Look at Bootstrap 4's New Reset: Reboot.css](https://scotch.io/tutorials/a-look-at-bootstrap-4s-new-reset-rebootcss)
+
+### Responsive
+
+* [Responsive CSS Patterns without Media Queries](https://www.sitepoint.com/responsive-css-patterns-without-media-queries/)
+* [Brett Jankord – Cross Browser Retina/High Resolution Media Queries](http://www.brettjankord.com/2012/11/28/cross-browser-retinahigh-resolution-media-queries/)
+* [Media queries : Mobile, Small, Portrait, Slow, Interlace, Monochrome, Coarse, Non-Hover, First](https://css-tricks.com/mobile-small-portrait-slow-interlace-monochrome-coarse-non-hover-first/)
 
 ### Flexbox
 

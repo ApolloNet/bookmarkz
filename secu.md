@@ -25,6 +25,7 @@
 * [GitHub's CSP journey](http://githubengineering.com/githubs-csp-journey/)
 * [SRI - SubResource Integrity](https://openweb.eu.org/articles/subresource-integrity)
 * [Sécurisation des cookies : passez au niveau supérieur avec l’attribut SameSite](https://blog.dareboost.com/fr/2017/06/securisation-cookies-attribut-samesite/)
+* [HTTPS : de SSL à TLS 1.3](https://openweb.eu.org/articles/https-de-ssl-a-tls-1-3)
 
 ### JSON Web Tokens
 

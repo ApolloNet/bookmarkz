@@ -22,6 +22,7 @@
 * [User Experience Deliverables](http://semanticstudios.com/user_experience_deliverables/)
 * [Resilient Web Design, book by Jeremy Keith](https://resilientwebdesign.com/)
 * [psdtxtractor](https://github.com/opi/psdtxtractor)
+* [Le processus d'initialisation des projets chez Marmelab](https://marmelab.com/blog/2017/01/17/initialisation-des-projets.html)
 
 ### Conception participative
 
