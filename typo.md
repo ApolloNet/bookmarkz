@@ -14,6 +14,8 @@
 * [JoliTypo](https://github.com/jolicode/JoliTypo)
 * [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician)
 * [Free Online Font Converter](http://www.freefontconverter.com/)
+* [ttf2woff node package](https://www.npmjs.com/package/ttf2woff)
+* [ttf2woff2 node package](https://www.npmjs.com/package/ttf2woff2)
 
 ### Fonts
 
@@ -48,6 +50,7 @@
 * [State of Web Type](http://stateofwebtype.com/)
 * [Flexible typography with CSS locks](http://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/)
 * [Color fonts! WTF? 🌈](https://www.colorfonts.wtf)
+* [The ch unit represents the width of the glyph "0"](https://developer.mozilla.org/en-US/docs/Web/CSS/length#ch)
 
 ### Frameworks CSS
 
