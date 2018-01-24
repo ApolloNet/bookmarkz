@@ -11,3 +11,4 @@
 * [Simple advice on product psychology](http://coglode.com/)
 * [Introduction à la psychologie cognitive appliquée au web](http://blocnotes.iergo.fr/articles/introduction-a-la-psychologie-cognitive-appliquee-au-web/)
 * [Your Brain and Effective Calls To Action](http://blog.crazyegg.com/2014/02/25/psychology-behind-calls-to-action/)
+* [The First 15 Seconds](https://medium.com/positiveslope/the-first-15-seconds-9590d7dabc)

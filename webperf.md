@@ -22,3 +22,4 @@
 * [Les statistiques de performance serveur dans votre navigateur avec Server Timing](https://www.alsacreations.com/astuce/lire/1726-server-timing-http-console-performance-serveur.html)
 * [The Illusion of Speed](https://paulbakaus.com/tutorials/performance/the-illusion-of-speed/)
 * [Progressive Image Loading using Intersection Observer and SQIP](https://calendar.perfplanet.com/2017/progressive-image-loading-using-intersection-observer-and-sqip/)
+* [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)

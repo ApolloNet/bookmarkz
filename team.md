@@ -38,6 +38,7 @@
 
 * [Valve : manuel pour les nouveaux employés](http://media.steampowered.com/apps/valve/hbook-FR.pdf) [PDF]
 * [Building a Testing Culture](https://www.lukew.com/ff/entry.asp?1965)
+* [Living a Testing Culture](https://www.lukew.com/ff/entry.asp?1978)
 
 ### Open Source
 

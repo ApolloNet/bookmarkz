@@ -14,3 +14,4 @@
 * [Patron de conception / Design Pattern](https://fr.wikipedia.org/wiki/Patron_de_conception)
 * [Visualgo](https://visualgo.net/en)
 * [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
+* [Introduction aux pattern des observables](http://putaindecode.io/fr/articles/js/observable/)
