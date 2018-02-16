@@ -3,6 +3,7 @@
 * [La typographie comme outil de design (David Rault)](http://www.dailymotion.com/video/xfpaqk_la-typographie-comme-outil-de-design-david-rault_tech)
 * [Professional Web Typography](https://prowebtype.com/)
 * [Référentiel typo pour le web](https://etherpad.mozilla.org/iInF84NBnj)
+* [Choosing Web Fonts: A Beginner’s Guide](https://design.google/library/choosing-web-fonts-beginners-guide/)
 
 ### Typographie
 

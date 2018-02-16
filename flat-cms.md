@@ -9,6 +9,7 @@
 * [GraphCMS](https://graphcms.com/)
 * [Cockpit](https://getcockpit.com/)
 * [Kenticocloud](https://kenticocloud.com/)
+* [Jekyll Tags on Github Pages](http://longqian.me/2017/02/09/github-jekyll-tag/)
 
 ### Markdown
 

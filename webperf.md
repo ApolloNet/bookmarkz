@@ -23,3 +23,5 @@
 * [The Illusion of Speed](https://paulbakaus.com/tutorials/performance/the-illusion-of-speed/)
 * [Progressive Image Loading using Intersection Observer and SQIP](https://calendar.perfplanet.com/2017/progressive-image-loading-using-intersection-observer-and-sqip/)
 * [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
+* [Turbolinks](https://github.com/turbolinks/turbolinks)
+* [Modern Asynchronous CSS Loading](https://www.filamentgroup.com/lab/async-css.html)

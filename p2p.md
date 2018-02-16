@@ -24,3 +24,4 @@
 * [Peer5, the serverless cdn](https://www.peer5.com)
 * [Freenet](https://fr.wikipedia.org/wiki/Freenet)
 * [Onion Routed Cloud](https://orc.network/)
+* [The web is dying, but mesh networks could save it](https://thenextweb.com/syndication/2018/01/02/web-dying-mesh-networks-will-save/)
