@@ -25,3 +25,4 @@
 * [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
 * [Turbolinks](https://github.com/turbolinks/turbolinks)
 * [Modern Asynchronous CSS Loading](https://www.filamentgroup.com/lab/async-css.html)
+* [InstantClick](http://instantclick.io/)

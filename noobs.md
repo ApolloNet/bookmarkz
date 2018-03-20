@@ -15,3 +15,5 @@
 * [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
 * [The Mother of Internet](http://www.hteumeuleu.fr/the-mother-of-internet/)
 * [Safia Abdalla - The Hitchhiker's Guide to All Things Memory in JS - CascadiaFest 2016](https://www.youtube.com/watch?v=cpM5LYZdfUo)
+* [Does Anyone Use Social Sharing Buttons on Mobile?](https://www.moovweb.com/anyone-use-social-sharing-buttons-mobile/)
+* [Your Own Personal Slaves](https://www.artstation.com/artwork/No85N)

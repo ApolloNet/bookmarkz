@@ -8,6 +8,7 @@
 * [Terminator](https://doc.ubuntu-fr.org/terminator)
 * [ShellCheck](http://www.shellcheck.net/)
 * [Linux utils that you might not know  ](http://shiroyasha.io/coreutils-that-you-might-not-know.html)
+* [L'art de la ligne de commande](https://github.com/jlevy/the-art-of-command-line/blob/master/README-fr.md)
 
 ### ZSH
 

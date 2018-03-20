@@ -99,6 +99,7 @@
 * [tzi/BEM-references.md: How use BEM? Is it a real thing?](https://github.com/tzi/BEM-references.md)
 * [SMACSS](https://smacss.com/)
 * [OOCSS](http://oocss.org/)
+* [SUIT naming conventions](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md)
 
 ### Print
 

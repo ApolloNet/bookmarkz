@@ -8,6 +8,7 @@
 ### Typographie
 
 * [Astérisme](https://fr.wikipedia.org/wiki/Ast%C3%A9risme_(typographie))
+* [Shrug](https://en.wikipedia.org/wiki/Shrug) : `¯\_(ツ)_/¯`
 
 ### Outils
 
@@ -15,6 +16,7 @@
 * [JoliTypo](https://github.com/jolicode/JoliTypo)
 * [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician)
 * [Free Online Font Converter](http://www.freefontconverter.com/)
+* [Google Webfonts Helper](https://github.com/majodev/google-webfonts-helper)
 * [ttf2woff node package](https://www.npmjs.com/package/ttf2woff)
 * [ttf2woff2 node package](https://www.npmjs.com/package/ttf2woff2)
 

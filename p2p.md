@@ -25,3 +25,10 @@
 * [Freenet](https://fr.wikipedia.org/wiki/Freenet)
 * [Onion Routed Cloud](https://orc.network/)
 * [The web is dying, but mesh networks could save it](https://thenextweb.com/syndication/2018/01/02/web-dying-mesh-networks-will-save/)
+* [Beaker Browser](https://beakerbrowser.com/)
+* [D.tube](https://d.tube/) :  crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network.
+
+### Blockchain
+
+* [Blockshell : Minimal Blockchain Learning CLI](https://github.com/daxeel/blockshell)
+* [51% of the mining power is controlled by 4 entities in Bitcoin and 3 in Ethereum](https://twitter.com/zooko/status/968919238806208513)

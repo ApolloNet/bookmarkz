@@ -15,7 +15,7 @@
 * [Un design pattern pour les formulaires longs en une seule page](http://t37.net/un-design-pattern-pour-les-formulaires-longs-en-une-seule-page.html)
 * [Hamburger menu alternatives for mobile navigation](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8)
 * [Why the Email Confirmation Field Must Die](http://uxmovement.com/forms/why-the-email-confirmation-field-must-die/)
-
+* [Why The Hamburger Menu Should Disappear For Good](https://www.webdesignerdepot.com/2018/02/why-the-hamburger-menu-should-disappear-for-good/)
 * [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
 
 ### Libs (à ranger)

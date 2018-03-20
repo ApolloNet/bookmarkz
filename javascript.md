@@ -64,6 +64,16 @@
 * [Learning JavaScript Test-Driven Development by Example](https://www.sitepoint.com/learning-javascript-test-driven-development-by-example/)
 * [BDD in JavaScript: Getting Started with Cucumber and Gherkin](https://www.sitepoint.com/bdd-javascript-cucumber-gherkin/)
 
+### JavaScript Testing Frameworks
+
+* [Cypress](https://www.cypress.io/)
+* [Jasmine](https://jasmine.github.io/)
+* [Mocha](https://mochajs.org/)
+* [Tape](https://github.com/substack/tape)
+* [Ava](https://github.com/avajs/ava)
+* Jest from Facebook, Enzyme from Airbnb, QUnit...
+* + [Google Chrome Puppeteer](https://github.com/GoogleChrome/puppeteer)
+
 ### Async
 
 * [L'asynchrone en JavaScript](http://makinacorpus.github.io/makina-slides/javascript-async.html)

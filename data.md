@@ -15,3 +15,5 @@
 * [import.io | Web Data Platform & Free Web Scraping Tool](https://import.io/)
 * [kimono : Turn websites into structured APIs from your browser in seconds](http://www.kimonolabs.com/)
 * [Services de web scraping](https://forum.pragmaticentrepreneurs.com/t/services-de-web-scraping/1540)
+* [Zapier](https://zapier.com/)
+* [IFTTT](https://ifttt.com/)
