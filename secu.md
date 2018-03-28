@@ -2,14 +2,39 @@
 
 * [Have i been pwned?](https://haveibeenpwned.com/)
 * [Saucs](https://www.saucs.com/), alert about new vulnerabilities
-* [Snyk, Vulnerability DB](https://snyk.io/vuln/)
+* [Snyk](https://snyk.io/vuln/), vulnerability DB
 * [security.txt](https://securitytxt.org/)
 
-### Recommandations
+### As a user
+
+* [Am I Unique](https://amiunique.org/)
+* [Lightbeam for Firefox](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
+* [Decentraleyes](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/)
+* [First Party Isolation](https://addons.mozilla.org/en-US/firefox/addon/first-party-isolation/)
+* [Signal](https://signal.org/)
+* [KeePass Password Safe](http://keepass.info/) + KeeFox, PassIFox & Keepass2Android
+* [WebPG](https://addons.mozilla.org/en-US/firefox/addon/webpg-firefox/)
+* [34 extensions Firefox pour vous protéger et tester la sécurité de vos sites](http://korben.info/34-extensions-firefox-pour-vous-proteger-et-tester-la-securite-de-vos-sites.html)
+* [YubiKey](https://en.wikipedia.org/wiki/YubiKey)
+* [Dashlane](https://www.dashlane.com/)
+* [ProtonVPN](https://protonvpn.com/)
+* [Terms of Service, Didn't Read](https://tosdr.org/)
+* [Facebook Container, Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+
+### As a developer
 
 * [Recommandations de sécurité relatives...](http://www.ssi.gouv.fr/administration/guide/recommandations-de-securite-relatives-a-un-systeme-gnulinux/)
 * [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/Cheat_Sheets)
 * [Privilégier des tests de sécurité sous forme de tests logiques plutôt que sous forme de CAPTCHA](http://www.accede-web.com/notices/graphique/7-formulaires/7-13-tests-de-securite-tests-logiques/)
+* [How To Protect Your Users With The Privacy By Design Framework](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/)
+* [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)
+* [EFF How to implement DNT guide](https://github.com/EFForg/dnt-guide)
+
+### Training
+
+* [SecNumAcademie](https://www.secnumacademie.gouv.fr/), par l'ANSSI
+* [Root Me : train your hacking skills](https://www.root-me.org)
+* [XSS Game, by Google](https://xss-game.appspot.com)
 
 ### HTTP & Stuff
 
@@ -32,25 +57,3 @@
 * [JWT.io](https://jwt.io/)
 * [Creating Secure Password Resets With JSON Web Tokens](https://www.smashingmagazine.com/2017/11/creating-secure-password-resets-with-json-web-tokens/)
 * [Using JSON Web Tokens with Node.js](https://www.sitepoint.com/using-json-web-tokens-node-js/)
-
-### Privacy
-
-* [Am I Unique](https://amiunique.org/)
-* [Lightbeam for Firefox](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
-* [Decentraleyes](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/)
-* [First Party Isolation](https://addons.mozilla.org/en-US/firefox/addon/first-party-isolation/)
-* [Signal](https://signal.org/)
-* [KeePass Password Safe](http://keepass.info/) + KeeFox, PassIFox & Keepass2Android
-* [WebPG](https://addons.mozilla.org/en-US/firefox/addon/webpg-firefox/)
-* [34 extensions Firefox pour vous protéger et tester la sécurité de vos sites](http://korben.info/34-extensions-firefox-pour-vous-proteger-et-tester-la-securite-de-vos-sites.html)
-* [YubiKey](https://en.wikipedia.org/wiki/YubiKey)
-* [Dashlane](https://www.dashlane.com/)
-* [ProtonVPN](https://protonvpn.com/)
-* [EFF How to implement DNT guide](https://github.com/EFForg/dnt-guide)
-* [Terms of Service, Didn't Read](https://tosdr.org/)
-
-### Training
-
-* [SecNumAcademie](https://www.secnumacademie.gouv.fr/), par l'ANSSI
-* [Root Me : train your hacking skills](https://www.root-me.org)
-* [XSS Game, by Google](https://xss-game.appspot.com)

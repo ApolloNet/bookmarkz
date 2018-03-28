@@ -23,6 +23,7 @@
 * [Resilient Web Design, book by Jeremy Keith](https://resilientwebdesign.com/)
 * [psdtxtractor](https://github.com/opi/psdtxtractor)
 * [Le processus d'initialisation des projets chez Marmelab](https://marmelab.com/blog/2017/01/17/initialisation-des-projets.html)
+* [User flow](https://www.interaction-design.org/literature/topics/user-flows)
 
 ### Conception participative
 
@@ -45,7 +46,7 @@
 * [Styletil.es](http://styletil.es/)
 * [Our New Responsive Design Deliverable: The Style Prototype](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
 
-### Styleguide & Pattern Libraries
+### Design systems, Style guides & Pattern libraries
 
 * [Poor Man's Styleguide](https://github.com/bryanbraun/poor-mans-styleguide)
 * [A List of Style Guides, Brand Guidelines, and Front-End Frameworks](https://medium.com/daily-ui-ux-inspirations/e5bb62db91e5)
@@ -59,6 +60,8 @@
 * [Pattern Library | MailChimp](http://ux.mailchimp.com/patterns/)
 * [Yahoo! Design Pattern Library](http://developer.yahoo.com/ypatterns/everything.html)
 * [A List Apart Pattern Library](http://patterns.alistapart.com/)
+* [UK Government Service Manual](https://www.gov.uk/service-manual)
+* [Mozilla design language](https://mozilla.design/overview)
 
 ### Writing style guide ?
 
@@ -78,12 +81,19 @@
 * [Réaliser un tri par cartes en ligne](http://blocnotes.iergo.fr/concevoir/les-outils/tri-par-cartes-card-sorting/)
 * [Tri par cartes : l’architecture de l’information construite par les utilisateurs](http://www.ergonomie-interface.com/methodes-process-techniques/tri-par-cartes-une-architecture-de-linformation-construite-par-les-utilisateurs/)
 
+### A/B testing
+
+* [The Ultimate Guide To A/B Testing](http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/)
+
 ### Tests utilisateurs
 
 * [Tests utilisateurs pour les freelance : 7 moyens pour convaincre](http://www.testapic.com/boite-a-outils/tests-utilisateurs-freelance-7-moyens-convaincre/)
-* [Paris Web – Tester l'ergonomie de son site même sans budget](http://www.paris-web.fr/2011/conferences/tester-lutilisabilite-de-son-site-web-quand-on-na-pas-de-budget.php)
+* [Tester l'ergonomie de son site même sans budget](http://www.paris-web.fr/2011/conferences/tester-lutilisabilite-de-son-site-web-quand-on-na-pas-de-budget.php)
 * [The Art of Guerilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerilla-usability-testing/)
+* [Why You Only Need to Test with 5 Users](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
+* [Improving Your Website Usability Tests](http://uxdesign.smashingmagazine.com/2013/01/08/improving-your-website-usability-tests/)
 * [WebGazer.js: Democratizing Webcam Eye Tracking on the Browser](http://webgazer.cs.brown.edu/)
+* [HeyCrowd : the network for online surveys](http://heycrowd.com/)
 
 ### Homepage & Landing Page
 

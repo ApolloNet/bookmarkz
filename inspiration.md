@@ -10,3 +10,4 @@
 * [Envato Elements](https://elements.envato.com/)
 * [30 Negative Space Logos](http://www.boredpanda.com/negative-space-logos/)
 * [clearleft.com](https://clearleft.com/)
+* [The Beautiful Art of Japanese Web Design – woorkup.com](http://woorkup.com/2009/12/30/the-beautiful-art-of-japanese-web-design/)
