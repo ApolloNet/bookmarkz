@@ -1,12 +1,11 @@
-## Secu
+## Security
 
-* [Have i been pwned?](https://haveibeenpwned.com/)
 * [Saucs](https://www.saucs.com/), alert about new vulnerabilities
 * [Snyk](https://snyk.io/vuln/), vulnerability DB
-* [security.txt](https://securitytxt.org/)
 
 ### As a user
 
+* [Have i been pwned?](https://haveibeenpwned.com/)
 * [Am I Unique](https://amiunique.org/)
 * [Lightbeam for Firefox](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
 * [Decentraleyes](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/)
@@ -20,6 +19,7 @@
 * [ProtonVPN](https://protonvpn.com/)
 * [Terms of Service, Didn't Read](https://tosdr.org/)
 * [Facebook Container, Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+* [Keybase](https://keybase.io)
 
 ### As a developer
 
@@ -29,6 +29,7 @@
 * [How To Protect Your Users With The Privacy By Design Framework](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/)
 * [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)
 * [EFF How to implement DNT guide](https://github.com/EFForg/dnt-guide)
+* [security.txt](https://securitytxt.org/)
 
 ### Training
 

@@ -31,4 +31,5 @@
 ### Blockchain
 
 * [Blockshell : Minimal Blockchain Learning CLI](https://github.com/daxeel/blockshell)
+* [State of the Dapps](https://www.stateofthedapps.com/)
 * [51% of the mining power is controlled by 4 entities in Bitcoin and 3 in Ethereum](https://twitter.com/zooko/status/968919238806208513)

@@ -1,5 +1,6 @@
 ## Code
 
+* [Rosetta Code, a programming chrestomathy site](http://rosettacode.org/)
 * [devdocs.io](http://devdocs.io)
 * [Learn the art of writing quality READMEs](https://github.com/noffle/art-of-readme)
 * [Mostly adequate guide to Functional Programming (in javascript)](https://github.com/DrBoolean/mostly-adequate-guide)

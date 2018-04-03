@@ -17,6 +17,7 @@
 * [Why the Email Confirmation Field Must Die](http://uxmovement.com/forms/why-the-email-confirmation-field-must-die/)
 * [Why The Hamburger Menu Should Disappear For Good](https://www.webdesignerdepot.com/2018/02/why-the-hamburger-menu-should-disappear-for-good/)
 * [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+* [Caire, content aware image resize library](https://github.com/esimov/caire)
 
 ### Libs (à ranger)
 

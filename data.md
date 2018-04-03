@@ -8,6 +8,7 @@
 * [Nos Données](http://www.nosdonnees.fr/)
 * [GDELT Project](http://www.gdeltproject.org)
 * [MetaBrainz](https://metabrainz.org/)
+* [Content Categories, from Google Cloud Natural Language API](https://cloud.google.com/natural-language/docs/categories)
 
 ### Tools
 

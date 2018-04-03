@@ -41,6 +41,21 @@
 * [HTML Wireframes](http://bradfrostweb.com/blog/post/html-wireframes/)
 * [S’il-te-plaît, dessine-moi un prototype...](http://letrainde13h37.fr/24/sil-te-plait-dessine-moi-un-prototype/)
 
+## Persuasive Design
+
+* [Paris Web – Les neurosciences au service du design numérique](http://www.paris-web.fr/2011/conferences/la-science-au-service-du-design.php)
+* [Persuasion 101: Ask Yes/Yes Questions](http://www.seomoz.org/blog/persuasion-101-ask-yes-yes-questions)
+* [Persuasive Design : pourquoi et comment ? | Édition Nº31 | le train de 13h37](http://letrainde13h37.fr/31/persuasive-design-pourquoi-comment/)
+* [Loi de Hick](https://fr.wikipedia.org/wiki/Loi_de_Hick)
+* [Modèle de Kano](https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_Kano)
+* [Les dark patterns en design d’interface](http://www.24joursdeweb.fr/2013/dark-patterns-design-interface/)
+* [User Interfaces Designed to Trick People](http://darkpatterns.org/)
+* [Comprendre le neuromarketing !](http://graphism.fr/documentaire-comprendre-le-neuromarketing/)
+* [Simple advice on product psychology](http://coglode.com/)
+* [Introduction à la psychologie cognitive appliquée au web](http://blocnotes.iergo.fr/articles/introduction-a-la-psychologie-cognitive-appliquee-au-web/)
+* [Your Brain and Effective Calls To Action](http://blog.crazyegg.com/2014/02/25/psychology-behind-calls-to-action/)
+* [The First 15 Seconds](https://medium.com/positiveslope/the-first-15-seconds-9590d7dabc)
+
 ### Style Tiles
 
 * [Styletil.es](http://styletil.es/)
@@ -62,10 +77,13 @@
 * [A List Apart Pattern Library](http://patterns.alistapart.com/)
 * [UK Government Service Manual](https://www.gov.uk/service-manual)
 * [Mozilla design language](https://mozilla.design/overview)
+* [principles.design](https://principles.design/)
+* [Why Design Systems Fail](https://24ways.org/2017/why-design-systems-fail/)
 
-### Writing style guide ?
+### Micro-copie
 
 * [Writing style](https://en.wikipedia.org/wiki/Writing_style)
+* [La micro-copie : de l’importance du choix des mots](https://uxways.wordpress.com/2018/03/19/la-micro-copie-de-limportance-du-choix-des-mots/)
 
 ### Personas
 
@@ -73,8 +91,9 @@
 * [Modèle pour la création de personas - iergo](http://blocnotes.iergo.fr/concevoir/modele-pour-la-creation-de-personas/)
 * [DIY User Personas](http://www.ux-lady.com/diy-user-personas/)
 * [Exemple fiche persona Laurent Demontiers](https://pbs.twimg.com/media/BDsRYwuCEAA4u-Z.jpg)
-* [UX Republic : DIY Persona Kit](http://www.ux-republic.com/ux-calendar-05-decembre-diy-persona-kit/)
+* [DIY Persona Kit](http://www.ux-republic.com/ux-calendar-05-decembre-diy-persona-kit/)
 * [Un Flickr de Personas](https://www.flickr.com/photos/jasontravis/albums/72157603258446753)
+* [Les personas en 10 étapes (poster)](http://www.les-traducteurs-agiles.org//2017/09/07/les-personas-en-10-etapes.html)
 
 ### Card sorting
 

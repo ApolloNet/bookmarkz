@@ -2,7 +2,12 @@
 
 * [La mouvance statique](http://frank.taillandier.me/2016/03/08/les-gestionnaires-de-contenu-statique/)
 
-### Hébergement
+### Generators
+
+* [Docsify](https://docsify.now.sh/)
+* [Swanky](https://swanky-docs.org/)
+
+### Publishing
 
 * [Jekyll](http://jekyllrb.com/) + [Github Pages](https://pages.github.com/) + [Prose.io](http://prose.io/) = ♥
 * [Jekyll Tags on Github Pages](http://longqian.me/2017/02/09/github-jekyll-tag/)
@@ -44,7 +49,3 @@
 
 * [Snipcart](https://snipcart.com/)
 * [Shopify](https://fr.shopify.com/)
-
-## Misc
-
-* [ReCaptcha](https://www.google.com/recaptcha/intro/index.html) (ne marche pas en Chine, tout comme Facebook Connect :-)

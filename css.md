@@ -72,6 +72,7 @@
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Flexbugs](https://github.com/philipwalton/flexbugs)
 * [Flexbox a cassé mes images responsive !](http://blog.goetter.fr/2015/10/30/flexbox-a-casse-mes-images-responsive/)
+* [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 
 ### Grid Layout
 

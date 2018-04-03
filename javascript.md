@@ -140,6 +140,7 @@
 
 ### Libs
 
+* [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!](http://microjs.com/)
 * [Flatpickr : lightweight and powerful datetimepicker with no dependencies](https://github.com/chmln/flatpickr)
 * [Js-cookie](https://github.com/js-cookie/js-cookie)
 * [UpUp - The Offline First Library](https://www.talater.com/upup/)
@@ -158,12 +159,9 @@
 
 ### Frameworks
 
-* [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!](http://microjs.com/)
 * [React or not React ?](http://openweb.eu.org/articles/react-or-not-react)
 * [How React Do? : React from scratch](http://blog.jfo.click/how-react-do/)
-
-### Vue.js
-
+* [React Code Style Guide](https://css-tricks.com/react-code-style-guide/)
 * [Intro to Vue.js: Rendering, Directives, and Events](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 * [Consider VueJS for Your Next Web Project](https://blog.codeship.com/consider-vuejs-next-web-project/)
 * [DejaVue : Application visualization and time travel for Vue.js](http://dejavue.co/)

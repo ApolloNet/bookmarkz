@@ -10,7 +10,7 @@
 * [Astérisme](https://fr.wikipedia.org/wiki/Ast%C3%A9risme_(typographie))
 * [Shrug](https://en.wikipedia.org/wiki/Shrug) : `¯\_(ツ)_/¯`
 
-### Outils
+### Tools
 
 * [Typeset](https://blot.im/typeset/)
 * [JoliTypo](https://github.com/jolicode/JoliTypo)
@@ -47,6 +47,7 @@
 * [Font Loading Revisited with Font Events](http://www.filamentgroup.com/lab/font-events.html)
 * [Eliminating Roundtrips with Preconnect](https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/)
 * [Non-blocking web fonts using LocalStorage](http://crocodillon.com/blog/non-blocking-web-fonts-using-localstorage)
+* [The Web Font Loading Glossary](https://www.zachleat.com/web/webfont-glossary/)
 
 ### CSS
 
