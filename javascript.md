@@ -57,6 +57,7 @@
 * [JavaScript function hoisting by example](https://gist.github.com/maxogden/4bed247d9852de93c94c)
 * [How I rediscovered my love for JavaScript after throwing 90% of it in the trash.](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b)
 * [JSRobot : Start learning JavaScript through a fun little game](https://lab.reaal.me/jsrobot/)
+* [Debugging JavaScript With A Real Debugger You Did Not Know You Already Have](https://www.smashingmagazine.com/2018/02/javascript-firefox-debugger/)
 
 ### TDD
 
@@ -83,12 +84,6 @@
 * [You Might Not Need Promises](https://blog.objectivedynamics.com/you-might-not-need-promises-5622fe470979)
 * [Understanding async/await in 7 seconds](https://twitter.com/manekinekko/status/855824609299636230/video/1)
 * [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
-
-### DOM
-
-* [DOM Tips and Techniques: Parent, Child, and Siblings](http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/)
-* [DOM Features You Didn’t Know Existed (Video & Slides)](http://www.impressivewebs.com/dom-features-you-didnt-know-existed-video-slides/)
-* [An Introduction To DOM Events](http://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)
 
 ### APIs
 
@@ -129,8 +124,10 @@
 * [Modules JavaScript par TZI](http://tzi.github.io/presentation-ModulesJavaScript/)
 * [JavaScript : organiser son code en modules](http://www.alsacreations.com/article/lire/565-JavaScript-organiser-son-code-en-modules.html)
 * [The mind-boggling universe of JavaScript Module strategies](https://www.airpair.com/javascript/posts/the-mind-boggling-universe-of-javascript-modules)
-* [Premier exemple d'utilisation de Webpack](http://putaindecode.fr/posts/webpack/premier-exemple/)
 * [Browserify](http://browserify.org/)
+* [Premier exemple d'utilisation de Webpack](http://putaindecode.fr/posts/webpack/premier-exemple/)
+* [Débuter avec Webpack](https://www.alsacreations.com/tuto/lire/1754-debuter-avec-webpack.html)
+* [Optimize your libraries with webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 
 ### Style
 

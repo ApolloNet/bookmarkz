@@ -1,6 +1,6 @@
 ## Conception
 
-**Todo : à remixer avec ux.md**
+**Todo : merge with ux.md**
 
 * [Design Kit, from Ideo](http://www.designkit.org)
 * [Design method toolkit, from Media Lab Amsterdam](http://medialabamsterdam.com/toolkit/)
@@ -24,17 +24,21 @@
 * [psdtxtractor](https://github.com/opi/psdtxtractor)
 * [Le processus d'initialisation des projets chez Marmelab](https://marmelab.com/blog/2017/01/17/initialisation-des-projets.html)
 * [User flow](https://www.interaction-design.org/literature/topics/user-flows)
+* [Guérilla UX « quick » mais pas « dirty »](https://uxmind.eu/2017/12/02/guerilla-ux-quick-mais-pas-dirty/)
+* [Customer Journey Mapping: Everything You Need to Know](https://www.sailthru.com/marketing-blog/written-customer-journey-mapping-need-to-know/)
 
 ### Conception participative
 
 * [La conception participative : concevoir avec les utilisateurs](http://www.ergonomie-interface.com/conception-maquettage/conception-participative-utilisateurs/)
 * [Designing With Your Clients](http://www.smashingmagazine.com/2014/12/30/designing-with-your-clients/)
 * [Event Storming](https://en.wikipedia.org/wiki/Event_Storming)
+* [Co-concevoir un atelier de co-conception](http://blocnotes.iergo.fr/breve/co-concevoir-un-atelier-de-co-conception/)
 
-### Conception dans le navigateur
+### Designing in the Browser
 
 * [Conception responsive : obtenir une validation sans maquettes](http://www.pompage.net/traduction/conception-responsive-obtenir-validation-sans-maquettes)
 * [Why designing in the browser is the way forward](http://hanno.co/logbook/why-designing-in-the-browser-is-the-way-forward)
+* [Sketching in the Browser](https://medium.com/seek-blog/sketching-in-the-browser-33a7b7aa0526) ?
 
 ### Prototypage
 
@@ -106,6 +110,7 @@
 
 ### Tests utilisateurs
 
+* [Don’t “Validate” Designs; Test Them](https://www.nngroup.com/articles/no-validate-in-ux/)
 * [Tests utilisateurs pour les freelance : 7 moyens pour convaincre](http://www.testapic.com/boite-a-outils/tests-utilisateurs-freelance-7-moyens-convaincre/)
 * [Tester l'ergonomie de son site même sans budget](http://www.paris-web.fr/2011/conferences/tester-lutilisabilite-de-son-site-web-quand-on-na-pas-de-budget.php)
 * [The Art of Guerilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerilla-usability-testing/)

@@ -30,6 +30,9 @@
 * [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)
 * [EFF How to implement DNT guide](https://github.com/EFForg/dnt-guide)
 * [security.txt](https://securitytxt.org/)
+* [SRI, Subresource Integrity](https://developer.mozilla.org/fr/docs/Web/Security/Subresource_Integrity)
+* [Target="\_blank" - the most underestimated vulnerability ever](https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/)
+* [Referrer Policy](https://openweb.eu.org/articles/referrer-policy)
 
 ### Training
 

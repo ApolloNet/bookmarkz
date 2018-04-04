@@ -48,6 +48,7 @@
 * [Eliminating Roundtrips with Preconnect](https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/)
 * [Non-blocking web fonts using LocalStorage](http://crocodillon.com/blog/non-blocking-web-fonts-using-localstorage)
 * [The Web Font Loading Glossary](https://www.zachleat.com/web/webfont-glossary/)
+* [Web font loading recipes](https://github.com/zachleat/web-font-loading-recipes)
 
 ### CSS
 
@@ -55,6 +56,7 @@
 * [Flexible typography with CSS locks](http://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/)
 * [Color fonts! WTF? 🌈](https://www.colorfonts.wtf)
 * [The ch unit represents the width of the glyph "0"](https://developer.mozilla.org/en-US/docs/Web/CSS/length#ch)
+* [Font-display](https://font-display.glitch.me/)
 
 ### Frameworks CSS
 

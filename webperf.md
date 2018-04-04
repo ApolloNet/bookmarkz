@@ -26,3 +26,5 @@
 * [Turbolinks](https://github.com/turbolinks/turbolinks)
 * [Modern Asynchronous CSS Loading](https://www.filamentgroup.com/lab/async-css.html)
 * [InstantClick](http://instantclick.io/)
+* [Why availability matters](https://kryogenix.org/code/browser/why-availability/)
+* [The Critical Request](https://css-tricks.com/the-critical-request/)

@@ -15,3 +15,5 @@
 * [How To Create A Responsive 8-Bit Drum Machine Using Web Audio, SVG And Multitouch](https://www.smashingmagazine.com/2016/08/how-to-create-a-responsive-8-bit-drum-machine-using-web-audio-svg-and-multitouch/)
 * [Making Music In A Browser: Recreating Theremin With JS And Web Audio API](https://www.smashingmagazine.com/2016/06/make-music-in-the-browser-with-a-web-audio-theremin/)
 * [Record to an Audio File using HTML5 and JS](https://air.ghost.io/recording-to-an-audio-file-using-html5-and-js/)
+* [Let's learn about waveforms](https://pudding.cool/2018/02/waveforms/)
+* [Drummers Pulse](https://drummers-pulse.com/)

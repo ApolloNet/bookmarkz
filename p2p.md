@@ -27,6 +27,7 @@
 * [The web is dying, but mesh networks could save it](https://thenextweb.com/syndication/2018/01/02/web-dying-mesh-networks-will-save/)
 * [Beaker Browser](https://beakerbrowser.com/)
 * [D.tube](https://d.tube/) :  crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network.
+* [Tandem](https://github.com/typeintandem/sublime) : peer-to-peer collaborative editing across different editors
 
 ### Blockchain
 

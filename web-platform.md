@@ -4,6 +4,12 @@
 * [polyfill.io](https://polyfill.io/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
+### DOM
+
+* [DOM Tips and Techniques: Parent, Child, and Siblings](http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/)
+* [DOM Features You Didn’t Know Existed (Video & Slides)](http://www.impressivewebs.com/dom-features-you-didnt-know-existed-video-slides/)
+* [An Introduction To DOM Events](http://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)
+
 ### Web Speech API
 
 * [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
@@ -34,3 +40,4 @@
 * [Swivel : Message passing between ServiceWorker and pages made simple](https://github.com/bevacqua/swivel)
 * [Pragmatist's Guide to Service Worker](https://github.com/lyzadanger/pragmatist-service-worker)
 * [Implementing "Save For Offline" with Service Workers](https://una.im/save-offline/)
+* [Minimal viable service worker](https://adactio.com/journal/13540)

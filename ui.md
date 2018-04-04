@@ -18,6 +18,7 @@
 * [Why The Hamburger Menu Should Disappear For Good](https://www.webdesignerdepot.com/2018/02/why-the-hamburger-menu-should-disappear-for-good/)
 * [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
 * [Caire, content aware image resize library](https://github.com/esimov/caire)
+* [You can get pretty far in making a slider with just HTML and CSS](https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/)
 
 ### Libs (à ranger)
 

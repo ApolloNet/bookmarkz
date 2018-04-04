@@ -33,13 +33,15 @@
 * [Better Meetings](http://larahogan.me/blog/better-meetings/)
 * [Sauvez des vies, faites des feedbacks !](http://bloculus.com/sauvez-des-vies-faites-des-feedbacks/)
 * [Pourquoi l'agile tourne en rond ?](https://frank.taillandier.me/2017/11/26/agile-tourne-en-rond/)
-* [Développer une culture de la sécurité psychologique](https://frank.taillandier.me/2017/08/27/securite-psychologique/)
+* [Bootstrapping Inclusion](http://www.attack-gecko.net/2017/10/22/bootstrapping-inclusion/)
+* [Mental models](http://www.defmacro.org/2016/12/22/models.html)
 
 ### Culture
 
 * [Valve : manuel pour les nouveaux employés](http://media.steampowered.com/apps/valve/hbook-FR.pdf) [PDF]
 * [Building a Testing Culture](https://www.lukew.com/ff/entry.asp?1965)
 * [Living a Testing Culture](https://www.lukew.com/ff/entry.asp?1978)
+* [Développer une culture de la sécurité psychologique](https://frank.taillandier.me/2017/08/27/securite-psychologique/)
 
 ### Open Source
 
