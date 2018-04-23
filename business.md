@@ -13,3 +13,4 @@
 * [14 Questions To Ask Your Clients Before and After a Project](http://designreviver.com/tips/14-questions-to-ask-your-clients-before-and-after-a-project/)
 * [Living up to Your (Business) Ideals](http://alistapart.com/article/living-up-to-your-business-ideals)
 * [@libellule à Sudweb](http://libelilou.github.io/2017/05/29/sudweb.html)
+* [KobOne : Calcul Salaire Freelance](https://www.kob-one.com/calcul-salaire-freelance/)

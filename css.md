@@ -83,6 +83,7 @@
 * [CSS Grid : comment fonctionne minmax()](https://la-cascade.io/css-grid-comment-fonctionne-minmax/)
 * [Firefox Devtools : Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid)
 * [Auto-Sizing Columns in CSS Grid: auto-fill vs auto-fit](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
+* [Best Practices With CSS Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/)
 
 ### Sass
 

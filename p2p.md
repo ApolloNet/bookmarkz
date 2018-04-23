@@ -28,6 +28,7 @@
 * [Beaker Browser](https://beakerbrowser.com/)
 * [D.tube](https://d.tube/) :  crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network.
 * [Tandem](https://github.com/typeintandem/sublime) : peer-to-peer collaborative editing across different editors
+* [Hyerboria & cjdns routing protocol](https://docs.meshwith.me/)
 
 ### Blockchain
 

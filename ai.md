@@ -12,3 +12,4 @@
 * [DialogFlow](https://dialogflow.com/)
 * [Recast](https://recast.ai/)
 * [Tensoflow JS](https://js.tensorflow.org/)
+* [Analyzing Your Company’s Social Media Presence With IBM Watson And Node.js](https://www.smashingmagazine.com/2018/04/analyzing-social-media-presence-ibm-watson-nodejs/)

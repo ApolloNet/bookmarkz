@@ -153,6 +153,7 @@
 * [polyglot](http://airbnb.io/polyglot.js/)
 * [globalize](https://github.com/globalizejs/globalize)
 * [Bacon.js - Functional Reactive Programming library for JavaScript](http://baconjs.github.io/)
+* [Navigo : vanilla JavaScript router with a fallback for older browsers](https://github.com/krasimir/navigo)
 
 ### Frameworks
 
