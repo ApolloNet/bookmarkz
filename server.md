@@ -1,6 +1,7 @@
 ## Server
 
 * [Gnu Screen](https://www.gnu.org/software/screen/)
+* [Stress Testing - Go Ahead and Crash Your Site](https://www.gizra.com/content/stress-testing/)
 
 ### DNS & Stuff
 

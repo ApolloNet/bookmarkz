@@ -143,6 +143,7 @@
 * [UpUp - The Offline First Library](https://www.talater.com/upup/)
 * [Garlic.js : local storage](http://garlicjs.org/)
 * [Moment.js](http://momentjs.com/)
+* [dayJS](https://github.com/iamkun/dayjs)
 * [currencyFormatter.js](https://osrec.github.io/currencyFormatter.js/)
 * [Push.js : notifications for every browser](http://nickersoft.github.io/push.js/)
 * [Socket.IO — Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)

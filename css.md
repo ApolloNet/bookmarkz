@@ -56,6 +56,8 @@
 * [5 CSS Properties That You Probably Don’t Know](http://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/)
 * [A Look at Bootstrap 4's New Reset: Reboot.css](https://scotch.io/tutorials/a-look-at-bootstrap-4s-new-reset-rebootcss)
 * [What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
+* [Styling buttons, the right way](https://fvsch.com/code/styling-buttons/)
+* [caret-color](https://developer.mozilla.org/en-US/docs/Web/CSS/caret-color)
 
 ### Responsive
 

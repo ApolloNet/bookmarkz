@@ -24,3 +24,4 @@
 * [Soumettre une bonne proposition de sujet à une conférence](https://sudweb.fr/blog/2017/soumettre-une-bonne-proposition-de-sujet-a-une-conference/)
 * [WebSlides](https://webslides.tv/)
 * [The Pac-Man Rule at Conferences](http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/)
+* [speaking.io, because “imagine everyone's naked” is terrible advice](https://speaking.io/)

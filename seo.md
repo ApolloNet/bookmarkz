@@ -19,3 +19,4 @@
 * [SEO & visualisation de site : allons plus loin avec Gephi](http://makina-corpus.com/blog/metier/2016/seo-visualisation-de-site-allons-plus-loin-avec-gephi)
 * [Front-end Developer Handbook](http://www.frontendhandbook.com/)
 * [SEO Panel : open source seo tool](http://www.seopanel.in/)
+* [Guess.js](https://github.com/guess-js/guess)

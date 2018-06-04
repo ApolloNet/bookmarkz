@@ -28,3 +28,4 @@
 * [InstantClick](http://instantclick.io/)
 * [Why availability matters](https://kryogenix.org/code/browser/why-availability/)
 * [The Critical Request](https://css-tricks.com/the-critical-request/)
+* [Cost of updating text in the DOM](https://twitter.com/_developit/status/997132016612270081?s=03)

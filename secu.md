@@ -26,6 +26,7 @@
 * [Recommandations de sécurité relatives...](http://www.ssi.gouv.fr/administration/guide/recommandations-de-securite-relatives-a-un-systeme-gnulinux/)
 * [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/Cheat_Sheets)
 * [Privilégier des tests de sécurité sous forme de tests logiques plutôt que sous forme de CAPTCHA](http://www.accede-web.com/notices/graphique/7-formulaires/7-13-tests-de-securite-tests-logiques/)
+* [CAPTCHA-less Security](www.karlgroves.com/2012/04/03/captcha-less-security/)
 * [How To Protect Your Users With The Privacy By Design Framework](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/)
 * [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)
 * [EFF How to implement DNT guide](https://github.com/EFForg/dnt-guide)
