@@ -35,6 +35,7 @@
 * [Pourquoi l'agile tourne en rond ?](https://frank.taillandier.me/2017/11/26/agile-tourne-en-rond/)
 * [Bootstrapping Inclusion](http://www.attack-gecko.net/2017/10/22/bootstrapping-inclusion/)
 * [Mental models](http://www.defmacro.org/2016/12/22/models.html)
+* [Comment faire de votre empathie une force ?](https://frank.taillandier.me/2018/03/05/comment-faire-de-votre-empathie-une-force/)
 
 ### Culture
 

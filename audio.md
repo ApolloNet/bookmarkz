@@ -1,4 +1,4 @@
-## Web Audio
+## Audio
 
 * [Web Audio School](http://mmckegg.github.io/web-audio-school/)
 * [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html)
@@ -17,3 +17,5 @@
 * [Record to an Audio File using HTML5 and JS](https://air.ghost.io/recording-to-an-audio-file-using-html5-and-js/)
 * [Let's learn about waveforms](https://pudding.cool/2018/02/waveforms/)
 * [Drummers Pulse](https://drummers-pulse.com/)
+* [NSynth: Sound Maker](https://experiments.withgoogle.com/sound-maker) & [Making music using new sounds
+generated with machine learning](https://nsynthsuper.withgoogle.com/)

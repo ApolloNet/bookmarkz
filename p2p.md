@@ -30,9 +30,11 @@
 * [Tandem](https://github.com/typeintandem/sublime) : peer-to-peer collaborative editing across different editors
 * [Hyerboria & cjdns routing protocol](https://docs.meshwith.me/)
 * [Decentralized Storage and Publication with IPFS and Swarm](https://www.sitepoint.com/ipfs-swarm-decentralized-content-publication-storage/)
+* [Mango: Git, completely decentralised](https://github.com/axic/mango)
 
 ### Blockchain
 
+* [Cryptozombies, learn to Code Ethereum DApps By Building Your Own Game](https://cryptozombies.io/)
 * [Blockshell : Minimal Blockchain Learning CLI](https://github.com/daxeel/blockshell)
 * [State of the Dapps](https://www.stateofthedapps.com/)
 * [51% of the mining power is controlled by 4 entities in Bitcoin and 3 in Ethereum](https://twitter.com/zooko/status/968919238806208513)

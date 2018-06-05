@@ -19,6 +19,7 @@
 * [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
 * [Caire, content aware image resize library](https://github.com/esimov/caire)
 * [You can get pretty far in making a slider with just HTML and CSS](https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/)
+* [Scroll to the future](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations)
 
 ### Libs (à ranger)
 
