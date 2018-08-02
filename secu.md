@@ -20,6 +20,7 @@
 * [Terms of Service, Didn't Read](https://tosdr.org/)
 * [Facebook Container, Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
 * [Keybase](https://keybase.io)
+* [Chameleon Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/)
 
 ### As a developer
 
