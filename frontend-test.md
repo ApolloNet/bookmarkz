@@ -12,3 +12,4 @@
 * [JS TDD - Become a WebAvenger](http://talks.madsgraphics.com/js_tdd_become_a_webavenger.html/)
 * [tebelorg/TagUI : Interface graphique créant des scripts CasperJS](https://github.com/tebelorg/TagUI)
 * [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)
+* [BackstopJS](https://github.com/garris/BackstopJS) automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.

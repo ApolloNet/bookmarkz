@@ -36,6 +36,8 @@
 * [Bootstrapping Inclusion](http://www.attack-gecko.net/2017/10/22/bootstrapping-inclusion/)
 * [Mental models](http://www.defmacro.org/2016/12/22/models.html)
 * [Comment faire de votre empathie une force ?](https://frank.taillandier.me/2018/03/05/comment-faire-de-votre-empathie-une-force/)
+* [Conflits structurels](https://larlet.fr/david/stream/2018/07/17/)
+* [Equality, Equity, Justice](https://twitter.com/squidlarkin/status/1017782204896702468/photo/1)
 
 ### Culture
 

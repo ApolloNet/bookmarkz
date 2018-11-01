@@ -128,6 +128,7 @@
 * [Premier exemple d'utilisation de Webpack](http://putaindecode.fr/posts/webpack/premier-exemple/)
 * [Débuter avec Webpack](https://www.alsacreations.com/tuto/lire/1754-debuter-avec-webpack.html)
 * [Optimize your libraries with webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
+* [Using JavaScript modules on the web](https://developers.google.com/web/fundamentals/primers/modules)
 
 ### Style
 
@@ -137,6 +138,7 @@
 
 ### Libs
 
+* [Matomo Tag Manager](https://plugins.matomo.org/TagManager) : A simple way to manage and maintain all of your (third-party) tags on your website.
 * [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!](http://microjs.com/)
 * [Flatpickr : lightweight and powerful datetimepicker with no dependencies](https://github.com/chmln/flatpickr)
 * [Js-cookie](https://github.com/js-cookie/js-cookie)
@@ -164,6 +166,7 @@
 * [Intro to Vue.js: Rendering, Directives, and Events](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 * [Consider VueJS for Your Next Web Project](https://blog.codeship.com/consider-vuejs-next-web-project/)
 * [DejaVue : Application visualization and time travel for Vue.js](http://dejavue.co/)
+* [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
 
 ### Jquery
 

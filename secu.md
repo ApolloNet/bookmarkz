@@ -1,5 +1,7 @@
 ## Security
 
+### Misc
+
 * [Saucs](https://www.saucs.com/), alert about new vulnerabilities
 * [Snyk](https://snyk.io/vuln/), vulnerability DB
 

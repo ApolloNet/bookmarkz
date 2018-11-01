@@ -20,6 +20,8 @@
 * [Caire, content aware image resize library](https://github.com/esimov/caire)
 * [You can get pretty far in making a slider with just HTML and CSS](https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/)
 * [Scroll to the future](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations)
+* [Your Body Text Is Too Small](https://blog.marvelapp.com/body-text-small/)
+* [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
 
 ### Libs (à ranger)
 
@@ -40,3 +42,5 @@
 
 * [UX et Animation](http://www.ergonomie-interface.com/conception-maquettage/ux-et-animation/)
 * [An Introduction to mo.js](https://css-tricks.com/introduction-mo-js/)
+* [PTS.js](https://ptsjs.org)
+* [animate.css](https://github.com/daneden/animate.css)

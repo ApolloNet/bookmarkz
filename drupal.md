@@ -9,6 +9,7 @@
 
 ### Modules
 
+* [Tome](https://www.drupal.org/project/tome) :  static site generator, and a static storage system for content.
 * [Wrappers Delight](https://www.drupal.org/project/wrappers_delight)
 * [Entity metadata wrappers](https://www.drupal.org/documentation/entity-metadata-wrappers)
 * [Death to Field Arrays!](http://www.mediacurrent.com/blog/entity-metadata-wrapper)

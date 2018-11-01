@@ -31,6 +31,12 @@
 * [Hyerboria & cjdns routing protocol](https://docs.meshwith.me/)
 * [Decentralized Storage and Publication with IPFS and Swarm](https://www.sitepoint.com/ipfs-swarm-decentralized-content-publication-storage/)
 * [Mango: Git, completely decentralised](https://github.com/axic/mango)
+* [Scuttlebutt](https://ssbc.github.io/scuttlebutt-protocol-guide/)
+
+### Decentralized social networks
+
+* [Manyverse](https://www.manyver.se/), "A social network off the grid"
+* [Akasha](https://akasha.world/)
 
 ### Blockchain
 

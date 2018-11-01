@@ -1,5 +1,7 @@
 ## URL
 
+* [Itty bitty](https://itty.bitty.site/) sites are contained entirely within their own link. 
+
 * [Down For Everyone Or Just Me ?](http://www.downforeveryoneorjustme.com/)
 * [Free Proxy](https://www.free-proxy.fr/)
 * [The History of the URL: Path, Fragment, Query, and Auth](https://eager.io/blog/the-history-of-the-url-path-fragment-query-auth/)

@@ -12,6 +12,7 @@
 
 ### Secu
 
+* [Sécuriser un serveur dédié](https://docs.ovh.com/fr/dedicated/securiser-un-serveur-dedie/)
 * [Une interface graphique pour Fail2ban](http://korben.info/fail2ban-interface-graphique.html)
 * [Nikto : scanner de vulnérabilité](http://www.binarytides.com/nikto-hacking-tutorial-beginners/)
 * [SQL Map : Automatic SQL injection and database takeover tool](http://sqlmap.org/)
