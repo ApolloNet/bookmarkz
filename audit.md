@@ -2,9 +2,10 @@
 
 * [Opquast Check-lists](http://checklists.opquast.com/fr/)
 * [Dareboost](https://dareboost.com/)
-* [Lighthouse :  auditing and performance metrics for Progressive Web Apps](https://github.com/GoogleChrome/lighthouse)
-* [Checklist for mobile website improvement](https://developers.google.com/webmasters/smartphone-sites/website-improvement-checklist)
 * [Sonarwhal](https://sonarwhal.com/) & [Sonarwhal npm package](https://www.npmjs.com/package/sonarwhal)
+* [Lighthouse](https://github.com/GoogleChrome/lighthouse)
+* [Measure](https://web.dev/measure)
+* [Checklist for mobile website improvement](https://developers.google.com/webmasters/smartphone-sites/website-improvement-checklist)
 * [pa11y](http://pa11y.org/)
 * [Open Graph Validator](https://developers.facebook.com/tools/debug/sharing/)
 * [Conducting an Interface Inventory](http://bradfrost.com/blog/post/conducting-an-interface-inventory/)

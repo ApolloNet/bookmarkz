@@ -13,3 +13,6 @@
 * [Recast](https://recast.ai/)
 * [Tensoflow JS](https://js.tensorflow.org/)
 * [Analyzing Your Company’s Social Media Presence With IBM Watson And Node.js](https://www.smashingmagazine.com/2018/04/analyzing-social-media-presence-ibm-watson-nodejs/)
+* [Modelzoo](https://modelzoo.co/)
+* [ML5.js: Friendly Machine Learning for the Web](https://ml5js.org/)
+* [Lobe: drag and drop machine learning...](https://lobe.ai/)

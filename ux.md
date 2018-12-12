@@ -22,6 +22,7 @@
 * [Modèle VPTCS – Infographie](http://w3qualite.net/demarche/modele-vptcs-infographie)
 * [FLUPA on Vimeo](http://vimeo.com/flupa)
 * [meCUE : modular evaluation of key Components of User Experience](http://mecue.de/english/home.html)
+* [meCUE en français](https://uxmind.eu/2018/10/28/questionnaire-ux-mecue-version-francaise/)
 * [Corporate UX Maturity: Stages 1-4](https://www.nngroup.com/articles/ux-maturity-stages-1-4/)
 
 * [Laissez mon sexe tranquille](http://www.hteumeuleu.fr/laissez-mon-sexe-tranquille/)

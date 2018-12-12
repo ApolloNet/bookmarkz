@@ -1,6 +1,8 @@
 ## JAMstack
 
 * [La mouvance statique](http://frank.taillandier.me/2016/03/08/les-gestionnaires-de-contenu-statique/)
+* [Awesome JAMstack](https://github.com/automata/awesome-jamstack)
+* [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 
 ### Generators
 

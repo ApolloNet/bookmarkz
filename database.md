@@ -1,3 +1,7 @@
+## Misc
+
+* [Kinto](https://www.kinto-storage.org/)
+
 ## MySQL
 
 * [Cours et tutoriels pour apprendre MySQL](http://mysql.developpez.com/cours/)

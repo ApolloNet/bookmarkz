@@ -1,6 +1,7 @@
 ## Linters
 
-* [yaniswang/HTMLHint](https://github.com/yaniswang/HTMLHint)
+* [mozilla/html5-lint](https://github.com/mozilla/html5-lint)
+* [HTMLHint](https://github.com/htmlhint/HTMLHint)
 * [htacg/tidy-html5](https://github.com/htacg/tidy-html5)
 * [twig-lint](https://github.com/asm89/twig-lint)
 * [brigade/scss-lint](https://github.com/brigade/scss-lint)

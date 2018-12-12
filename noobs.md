@@ -17,3 +17,4 @@
 * [Safia Abdalla - The Hitchhiker's Guide to All Things Memory in JS - CascadiaFest 2016](https://www.youtube.com/watch?v=cpM5LYZdfUo)
 * [Does Anyone Use Social Sharing Buttons on Mobile?](https://www.moovweb.com/anyone-use-social-sharing-buttons-mobile/)
 * [Your Own Personal Slaves](https://www.artstation.com/artwork/No85N)
+* [Guidelines for Brutalist Web Design](https://brutalist-web.design/)

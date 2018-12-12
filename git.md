@@ -25,3 +25,4 @@
 * [Tips for Pro Git Users From 8 Open Source Project Leaders](http://www.linux.com/news/featured-blogs/200-libby-clark/826426-tips-for-pro-git-users-from-8-open-source-project-leaders)
 * [Better Git configuration](https://blog.scottnonnenberg.com/better-git-configuration/)
 * [GIT tip : Keep your branch clean with fixup and autosquash](https://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html)
+* [Git Submodules](https://delicious-insights.com/fr/articles/git-submodules/)

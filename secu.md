@@ -7,6 +7,7 @@
 
 ### As a user
 
+* [pwgen : Générateur de mots de passe](https://doc.ubuntu-fr.org/pwgen) : $ pwgen -1ysc 24 24
 * [Have i been pwned?](https://haveibeenpwned.com/)
 * [Am I Unique](https://amiunique.org/)
 * [Lightbeam for Firefox](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
@@ -23,6 +24,8 @@
 * [Facebook Container, Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
 * [Keybase](https://keybase.io)
 * [Chameleon Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/)
+* [Record Keeping](https://alexschroeder.ch/wiki/2017-04-27_Record_Keeping)
+* [TweetDeletion](https://github.com/edas/TweetDeletion)
 
 ### As a developer
 
@@ -37,6 +40,7 @@
 * [SRI, Subresource Integrity](https://developer.mozilla.org/fr/docs/Web/Security/Subresource_Integrity)
 * [Target="\_blank" - the most underestimated vulnerability ever](https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/)
 * [Referrer Policy](https://openweb.eu.org/articles/referrer-policy)
+* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 
 ### Training
 

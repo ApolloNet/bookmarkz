@@ -22,6 +22,8 @@
 * [Scroll to the future](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations)
 * [Your Body Text Is Too Small](https://blog.marvelapp.com/body-text-small/)
 * [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
+* [Infinite Scrolling and Accessibility](http://www.webaxe.org/infinite-scrolling-and-accessibility/)
+* [Toggle-Switch Guidelines](https://www.nngroup.com/articles/toggle-switch-guidelines/)
 
 ### Libs (à ranger)
 

@@ -8,6 +8,7 @@
 * [Challenge du Berger : formules de politesse pour email](https://github.com/desbenoit/ChallengeDuBerger/blob/master/Formules.md)
 * [Rythme et longueur de phrases](https://pbs.twimg.com/media/DAHZ_-1VoAEEj8V.jpg)
 * [Hemingway App](http://www.hemingwayapp.com/)
+* [Conseils à un jeune auteur](http://www.cetteadressecomportecinquantesignes.com/V2004.htm)
 
 ### Content strategy
 
