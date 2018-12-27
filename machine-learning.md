@@ -16,3 +16,8 @@
 * [Modelzoo](https://modelzoo.co/)
 * [ML5.js: Friendly Machine Learning for the Web](https://ml5js.org/)
 * [Lobe: drag and drop machine learning...](https://lobe.ai/)
+
+### Face detection
+
+* [EagleEye](https://github.com/ThoughtfulDev/EagleEye) : Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
+* [face-api.js](https://github.com/justadudewhohacks/face-api.js) : face detection and face recognition in the browser and nodejs with tensorflow.js

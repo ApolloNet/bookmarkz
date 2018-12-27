@@ -30,3 +30,4 @@
 * [The Critical Request](https://css-tricks.com/the-critical-request/)
 * [Cost of updating text in the DOM](https://twitter.com/_developit/status/997132016612270081?s=03)
 * [Youtube SPF, Structured Page Fragments](https://youtube.github.io/spfjs/)
+* [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)

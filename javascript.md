@@ -6,6 +6,7 @@
 * [Guide JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide)
 * [Roadmap for learning the JavaScript language](http://bytearcher.com/articles/roadmap-for-learning-javascript-language/)
 * [You Don't Know JS (free online book series)](https://github.com/getify/You-Dont-Know-JS)
+* [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 * [Vanilla List: The Vanilla Javascript Repository](http://www.vanillalist.com/)
 * [PlainJS : JavaScript Functions and Helpers VS Jquery](http://plainjs.com/javascript/)
 * [Learning JavaScript Design Patterns, ebook by Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -88,7 +89,9 @@
 ### APIs
 
 * [Fetch API](https://developer.mozilla.org/fr/docs/Web/API/Fetch_API)
+* [Web Payments Overview](https://developers.google.com/web/fundamentals/payments/)
 * [Native JavaScript Development after Internet Explorer](https://www.sitepoint.com/native-javascript-development-after-internet-explorer/)
+* [Logging Activity With The Web Beacon API](https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/)
 
 ### Prototypes, Classes, ...
 
@@ -129,6 +132,7 @@
 * [Débuter avec Webpack](https://www.alsacreations.com/tuto/lire/1754-debuter-avec-webpack.html)
 * [Optimize your libraries with webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 * [Using JavaScript modules on the web](https://developers.google.com/web/fundamentals/primers/modules)
+* [Mastering Modular JavaScript](https://ponyfoo.com/articles/module-design), book from Ponyfoo
 
 ### Style
 

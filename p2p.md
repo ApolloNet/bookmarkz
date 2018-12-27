@@ -1,5 +1,6 @@
 ## P2P
 
+* [dWeb : vers un web (à nouveau) décentralisé ?](http://www.internetactu.net/a-lire-ailleurs/dweb-vers-un-web-a-nouveau-decentralise/)
 * [Getting Close with the Web](https://www.youtube.com/watch?v=NdeJYeFvHnM)
 * [Socket.IO](http://socket.io/blog/socket.io-p2p/)
 * [WebRTC : getting started](https://webrtc.org/start/)
@@ -32,6 +33,7 @@
 * [Decentralized Storage and Publication with IPFS and Swarm](https://www.sitepoint.com/ipfs-swarm-decentralized-content-publication-storage/)
 * [Mango: Git, completely decentralised](https://github.com/axic/mango)
 * [Scuttlebutt](https://ssbc.github.io/scuttlebutt-protocol-guide/)
+* [How JavaScript works: WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
 
 ### Decentralized social networks
 

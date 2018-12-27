@@ -89,6 +89,9 @@
 
 * [Writing style](https://en.wikipedia.org/wiki/Writing_style)
 * [La micro-copie : de l’importance du choix des mots](https://uxways.wordpress.com/2018/03/19/la-micro-copie-de-limportance-du-choix-des-mots/)
+* [L’importance du wording dans les interfaces d’aujourd’hui](https://www.24joursdeweb.fr/2018/importance-du-wording-dans-les-interfaces-d-aujourdhui/)
+* [No Good, Very Bad UX Writing Mistakes](https://realbigwords.com/bad-ux-writing-mistakes)
+* [How we work with microcopy](https://medium.com/bakken-b%C3%A6ck/how-we-work-with-microcopy-e467ba598604)
 
 ### Personas
 

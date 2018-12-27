@@ -41,6 +41,7 @@
 * [Target="\_blank" - the most underestimated vulnerability ever](https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/)
 * [Referrer Policy](https://openweb.eu.org/articles/referrer-policy)
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+* [XSStrike](https://github.com/s0md3v/XSStrike)
 
 ### Training
 
@@ -63,6 +64,7 @@
 * [SRI - SubResource Integrity](https://openweb.eu.org/articles/subresource-integrity)
 * [Sécurisation des cookies : passez au niveau supérieur avec l’attribut SameSite](https://blog.dareboost.com/fr/2017/06/securisation-cookies-attribut-samesite/)
 * [HTTPS : de SSL à TLS 1.3](https://openweb.eu.org/articles/https-de-ssl-a-tls-1-3)
+* [Force HTTPS via .htaccess](https://github.com/nico3333fr/htaccess-useful/blob/master/.htaccess#L280)
 
 ### JSON Web Tokens
 

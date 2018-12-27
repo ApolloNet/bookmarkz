@@ -18,3 +18,4 @@
 * [Does Anyone Use Social Sharing Buttons on Mobile?](https://www.moovweb.com/anyone-use-social-sharing-buttons-mobile/)
 * [Your Own Personal Slaves](https://www.artstation.com/artwork/No85N)
 * [Guidelines for Brutalist Web Design](https://brutalist-web.design/)
+* [L’internet des familles modestes : les usages sont-ils les mêmes du haut au bas de l’échelle sociale ?](http://www.internetactu.net/2018/09/21/linternet-des-familles-modestes-les-usages-sont-ils-les-memes-du-haut-au-bas-de-lechelle-sociale/)
