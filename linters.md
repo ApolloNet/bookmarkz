@@ -15,6 +15,7 @@
 ### JS
 
 * [eslint/eslint](https://github.com/eslint/eslint)
+* [standard/standard](https://github.com/standard/standard)
 * [Lint the browser compatibility](https://github.com/amilajack/eslint-plugin-compat)
 * [Prettier](https://prettier.io/)
 

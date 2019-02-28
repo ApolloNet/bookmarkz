@@ -40,6 +40,7 @@
 * [Why designing in the browser is the way forward](http://hanno.co/logbook/why-designing-in-the-browser-is-the-way-forward)
 * [Sketching in the Browser](https://medium.com/seek-blog/sketching-in-the-browser-33a7b7aa0526) ?
 * [Prototyping in the Browser](https://css-tricks.com/prototyping-in-the-browser/)
+* [Concevoir dans le navigateur](https://frank.taillandier.me/2018/09/06/concevoir-dans-le-navigateur/)
 
 ### Prototypage
 
