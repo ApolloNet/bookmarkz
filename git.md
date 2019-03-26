@@ -1,5 +1,6 @@
 ## Git
 
+* [Git Explorer](https://gitexplorer.com/)
 * [Git pour la nulle](http://nissone.com/GitPourLaNulle/GitPourLaNulle.pdf) [PDF]
 * [Git Extras](https://github.com/tj/git-extras)
 * [Git Flow](https://github.com/nvie/gitflow)

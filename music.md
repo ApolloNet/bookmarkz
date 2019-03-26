@@ -1,6 +1,7 @@
 ## Music
 
 * [MusicAlgo](http://musiquealgorithmique.fr/)
+* [MusicBrainz: open music encyclopedia](https://musicbrainz.org/)
 
 ### Records
 

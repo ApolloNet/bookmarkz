@@ -34,6 +34,7 @@
 * [Mango: Git, completely decentralised](https://github.com/axic/mango)
 * [Scuttlebutt](https://ssbc.github.io/scuttlebutt-protocol-guide/)
 * [How JavaScript works: WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
+* [Radicle: A peer-to-peer stack for code collaboration](http://www.radicle.xyz/)
 
 ### Decentralized social networks
 

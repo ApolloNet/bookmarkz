@@ -4,6 +4,10 @@
 * [Awesome JAMstack](https://github.com/automata/awesome-jamstack)
 * [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 
+### Jekyll
+
+* [How I reduced my Jekyll build time by 61%](https://forestry.io/blog/how-i-reduced-my-jekyll-build-time-by-61/)
+
 ### Generators
 
 * [Docsify](https://docsify.now.sh/)

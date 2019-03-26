@@ -17,7 +17,15 @@
 
 ### Packages
 
-* [nodemon](https://www.npmjs.com/package/nodemon)
-* [npm-run-all](https://www.npmjs.com/package/npm-run-all)
-
-
+* nodemon
+* npm-run-all
+* mkdirp
+* bluebird : promisify node functions
+* date-fns
+* flexsearch
+* inline-source
+* mustache
+* gray-matter : parse frontmatter
+* marked : markdown to html
+* [NLP: general natural language utilities](https://github.com/axa-group/nlp.js)
+* slugify

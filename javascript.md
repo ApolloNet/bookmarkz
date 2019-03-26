@@ -59,6 +59,10 @@
 * [How I rediscovered my love for JavaScript after throwing 90% of it in the trash.](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b)
 * [JSRobot : Start learning JavaScript through a fun little game](https://lab.reaal.me/jsrobot/)
 * [Debugging JavaScript With A Real Debugger You Did Not Know You Already Have](https://www.smashingmagazine.com/2018/02/javascript-firefox-debugger/)
+* [loverajoel/jstips](https://github.com/loverajoel/jstips/)
+* [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms/)
+* [JavaScript exercises](https://github.com/appalaszynski/javascript-exercises)
+* [Design Patterns for Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 
 ### TDD
 
@@ -127,7 +131,6 @@
 * [Modules JavaScript par TZI](http://tzi.github.io/presentation-ModulesJavaScript/)
 * [JavaScript : organiser son code en modules](http://www.alsacreations.com/article/lire/565-JavaScript-organiser-son-code-en-modules.html)
 * [The mind-boggling universe of JavaScript Module strategies](https://www.airpair.com/javascript/posts/the-mind-boggling-universe-of-javascript-modules)
-* [Browserify](http://browserify.org/)
 * [Premier exemple d'utilisation de Webpack](http://putaindecode.fr/posts/webpack/premier-exemple/)
 * [Débuter avec Webpack](https://www.alsacreations.com/tuto/lire/1754-debuter-avec-webpack.html)
 * [Optimize your libraries with webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
@@ -142,38 +145,12 @@
 
 ### Libs
 
-* [Matomo Tag Manager](https://plugins.matomo.org/TagManager) : A simple way to manage and maintain all of your (third-party) tags on your website.
-* [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!](http://microjs.com/)
-* [Flatpickr : lightweight and powerful datetimepicker with no dependencies](https://github.com/chmln/flatpickr)
 * [Js-cookie](https://github.com/js-cookie/js-cookie)
 * [UpUp - The Offline First Library](https://www.talater.com/upup/)
 * [Garlic.js : local storage](http://garlicjs.org/)
-* [Moment.js](http://momentjs.com/)
-* [dayJS](https://github.com/iamkun/dayjs)
 * [currencyFormatter.js](https://osrec.github.io/currencyFormatter.js/)
 * [Push.js : notifications for every browser](http://nickersoft.github.io/push.js/)
 * [Socket.IO — Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
 * [Cleave.js : Format input text content when you are typing](https://github.com/nosir/cleave.js)
-* [Voca : The JavaScript string library](https://vocajs.com/)
-* [loverajoel/jstips](https://github.com/loverajoel/jstips/)
-* [Date-fns](https://date-fns.org/)
 * [polyglot](http://airbnb.io/polyglot.js/)
 * [globalize](https://github.com/globalizejs/globalize)
-* [Bacon.js - Functional Reactive Programming library for JavaScript](http://baconjs.github.io/)
-* [Navigo : vanilla JavaScript router with a fallback for older browsers](https://github.com/krasimir/navigo)
-
-### Frameworks
-
-* [React or not React ?](http://openweb.eu.org/articles/react-or-not-react)
-* [How React Do? : React from scratch](http://blog.jfo.click/how-react-do/)
-* [React Code Style Guide](https://css-tricks.com/react-code-style-guide/)
-* [Intro to Vue.js: Rendering, Directives, and Events](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
-* [Consider VueJS for Your Next Web Project](https://blog.codeship.com/consider-vuejs-next-web-project/)
-* [DejaVue : Application visualization and time travel for Vue.js](http://dejavue.co/)
-* [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
-
-### Jquery
-
-* [jQuery Coding Standards and Best Practices](http://lab.abhinayrathore.com/jquery-standards/)
-* [Accessibility section - jQuery Plugins - By Nicolas Hoffmann](http://a11y.nicolas-hoffmann.net/)
-* [Jquery : How to Create a Basic Plugin](http://learn.jquery.com/plugins/basic-plugin-creation/)

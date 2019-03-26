@@ -7,6 +7,7 @@
 
 ### As a user
 
+* [8 Character Passwords Are Dead](https://twitter.com/TinkerSec/status/1096046635593928704)
 * [pwgen : Générateur de mots de passe](https://doc.ubuntu-fr.org/pwgen) : $ pwgen -1ysc 24 24
 * [Have i been pwned?](https://haveibeenpwned.com/)
 * [Am I Unique](https://amiunique.org/)
@@ -65,6 +66,7 @@
 * [Sécurisation des cookies : passez au niveau supérieur avec l’attribut SameSite](https://blog.dareboost.com/fr/2017/06/securisation-cookies-attribut-samesite/)
 * [HTTPS : de SSL à TLS 1.3](https://openweb.eu.org/articles/https-de-ssl-a-tls-1-3)
 * [Force HTTPS via .htaccess](https://github.com/nico3333fr/htaccess-useful/blob/master/.htaccess#L280)
+* [Mozilla Laboratory: Content Security Policy / CSP Toolkit](https://addons.mozilla.org/en-US/firefox/addon/laboratory-by-mozilla/)
 
 ### JSON Web Tokens
 
