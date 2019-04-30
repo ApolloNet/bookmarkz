@@ -27,6 +27,7 @@
 * [Chameleon Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/)
 * [Record Keeping](https://alexschroeder.ch/wiki/2017-04-27_Record_Keeping)
 * [TweetDeletion](https://github.com/edas/TweetDeletion)
+* [Just Delete Me](https://justdeleteme.xyz/)
 
 ### As a developer
 

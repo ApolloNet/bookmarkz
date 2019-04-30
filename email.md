@@ -10,6 +10,7 @@
 * [Ultimate Guide to HTML Emails - Tips,Tutorials and Resources](http://www.1stwebdesigner.com/tutorials/ultimate-guide-html-emails/)
 * [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
 * [Email at Stack Overflow](https://stackoverflow.design/email/guidelines/getting-started)
+* [caniuse.email](https://caniuse.email/)
 
 * [MX Toolbox](http://www.mxtoolbox.com/)
 * [SPF](http://www.openspf.org/)

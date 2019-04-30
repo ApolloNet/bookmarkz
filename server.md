@@ -4,6 +4,14 @@
 * [Headers we don't want](https://www.fastly.com/blog/headers-we-dont-want)
 * [Analyse du trafic réseaux](https://doc.ubuntu-fr.org/trafic)
 
+### Self hosted
+
+* [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
+* [Fresh RSS](https://www.freshrss.org/)
+* [Shaarli](https://sebsauvage.net/wiki/doku.php?id=php:shaarli)
+* [Ethical alternatives to Google Forms](https://switching.social/ethical-alternatives-to-google-forms/)
+* [Guide de conversion numérique au low tech](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
+
 ### DNS & Stuff
 
 * [Zonemaster : ex-AFNIC ZoneCheck](https://zonemaster.net/)

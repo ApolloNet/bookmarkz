@@ -12,3 +12,4 @@
 * [clearleft.com](https://clearleft.com/)
 * [The Beautiful Art of Japanese Web Design – woorkup.com](http://woorkup.com/2009/12/30/the-beautiful-art-of-japanese-web-design/)
 * [Pattern in islamic art](https://patterninislamicart.com/)
+* [undraw.co](https://undraw.co/illustrations)
