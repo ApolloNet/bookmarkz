@@ -10,6 +10,7 @@
 * [Linux utils that you might not know  ](http://shiroyasha.io/coreutils-that-you-might-not-know.html)
 * [L'art de la ligne de commande](https://github.com/jlevy/the-art-of-command-line/blob/master/README-fr.md)
 * [Structured text tools](https://github.com/dbohdan/structured-text-tools)
+* [Handbrake](https://handbrake.fr/) : open source video transcoder
 
 ### ZSH
 

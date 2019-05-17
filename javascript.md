@@ -9,7 +9,6 @@
 * [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 * [Vanilla List: The Vanilla Javascript Repository](http://www.vanillalist.com/)
 * [PlainJS : JavaScript Functions and Helpers VS Jquery](http://plainjs.com/javascript/)
-* [Learning JavaScript Design Patterns, ebook by Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [javascript.com](https://www.javascript.com/)
 * [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 * [JavaScript: The World's Most Misunderstood Programming Language](http://javascript.crockford.com/javascript)
@@ -62,13 +61,17 @@
 * [loverajoel/jstips](https://github.com/loverajoel/jstips/)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms/)
 * [JavaScript exercises](https://github.com/appalaszynski/javascript-exercises)
+* [JavaScript Symbols: But Why?](https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c)
+* [Remove duplicate values from JS array](https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array#9229932): TL;DR Use Set() constructor
+* [JS1K](https://js1k.com/): JS demos of 1024 bytes or less
+* [Unary plus (+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus_()): "preferred way of converting something into a number"
+
+### Design patterns
+
+* [Learning JavaScript Design Patterns, ebook by Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Design Patterns for Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
-
-### TDD
-
-* [Se lancer dans le TDD](http://putaindecode.io/fr/articles/tdd/)
-* [Learning JavaScript Test-Driven Development by Example](https://www.sitepoint.com/learning-javascript-test-driven-development-by-example/)
-* [BDD in JavaScript: Getting Started with Cucumber and Gherkin](https://www.sitepoint.com/bdd-javascript-cucumber-gherkin/)
+* [Writing Maintainable and Readable Javascript: Design Patterns](https://www.javascriptjanuary.com/blog/writing-maintainable-and-readable-javascript-design-patterns)
+* [Strategy pattern](https://twitter.com/jamesmh_dev/status/1092132607289118720)
 
 ### JavaScript Testing Frameworks
 
@@ -155,3 +158,4 @@
 * [Cleave.js : Format input text content when you are typing](https://github.com/nosir/cleave.js)
 * [polyglot](http://airbnb.io/polyglot.js/)
 * [globalize](https://github.com/globalizejs/globalize)
+* [quicklink](https://github.com/GoogleChromeLabs/quicklink) and [instant.page](https://instant.page/)

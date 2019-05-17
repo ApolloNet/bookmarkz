@@ -2,6 +2,8 @@
 
 * [Die and retry](https://fr.wikipedia.org/wiki/Die_and_retry)
 * [Rogue like](https://fr.wikipedia.org/wiki/Rogue-like)
+* [Game Boy Studio](https://www.gbstudio.dev/)
+* [Rooms and Mazes: A Procedural Dungeon Generator](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
 
 ### Inspiration
 

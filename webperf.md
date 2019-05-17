@@ -31,3 +31,5 @@
 * [Cost of updating text in the DOM](https://twitter.com/_developit/status/997132016612270081?s=03)
 * [Youtube SPF, Structured Page Fragments](https://youtube.github.io/spfjs/)
 * [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+* [Dynamically adjusting resources based on browser, network connection and device memory](https://calendar.perfplanet.com/2018/dynamic-resources-browser-network-device-memory/)
+* [quicklink](https://github.com/GoogleChromeLabs/quicklink) and [instant.page](https://instant.page/)

@@ -24,11 +24,7 @@
 * [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
 * [Infinite Scrolling and Accessibility](http://www.webaxe.org/infinite-scrolling-and-accessibility/)
 * [Toggle-Switch Guidelines](https://www.nngroup.com/articles/toggle-switch-guidelines/)
-
-### Libs (à ranger)
-
-* [Flatpickr](https://github.com/chmln/flatpickr)
-* [Push.js : notifications for every browser](http://nickersoft.github.io/push.js/)
+* [Unicode progress bars](http://changaco.oy.lc/unicode-progress-bars/)
 
 ### Patterns
 

@@ -11,6 +11,8 @@
 * [Shaarli](https://sebsauvage.net/wiki/doku.php?id=php:shaarli)
 * [Ethical alternatives to Google Forms](https://switching.social/ethical-alternatives-to-google-forms/)
 * [Guide de conversion numérique au low tech](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
+* [Funkwhale](https://funkwhale.audio/)
+* [Wekan](https://wekan.github.io/): kanban
 
 ### DNS & Stuff
 

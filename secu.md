@@ -28,6 +28,8 @@
 * [Record Keeping](https://alexschroeder.ch/wiki/2017-04-27_Record_Keeping)
 * [TweetDeletion](https://github.com/edas/TweetDeletion)
 * [Just Delete Me](https://justdeleteme.xyz/)
+* [Awesome privacy: browser extensions](https://github.com/Igglybuff/awesome-piracy#browser-extensions)
+* [Mes mots de passe sécurisés et faciles à gérer](https://articles.nissone.com/2019/03/mes-mots-passe-securises-faciles-gerer-journees-logiciel-libre-2019/)
 
 ### As a developer
 
@@ -44,6 +46,7 @@
 * [Referrer Policy](https://openweb.eu.org/articles/referrer-policy)
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [XSStrike](https://github.com/s0md3v/XSStrike)
+* [What's security.txt and why you should have one](https://www.michalspacek.com/what-is-security.txt-and-why-you-should-have-one)
 
 ### Training
 

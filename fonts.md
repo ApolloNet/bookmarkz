@@ -5,13 +5,14 @@
 * [Référentiel typo pour le web](https://etherpad.mozilla.org/iInF84NBnj)
 * [Choosing Web Fonts: A Beginner’s Guide](https://design.google/library/choosing-web-fonts-beginners-guide/)
 
-### Typographie
+### Typography
 
 * [Astérisme](https://fr.wikipedia.org/wiki/Ast%C3%A9risme_(typographie))
 * [Shrug](https://en.wikipedia.org/wiki/Shrug) : `¯\_(ツ)_/¯`
 
 ### Tools
 
+* [Google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)
 * [Typeset](https://blot.im/typeset/)
 * [JoliTypo](https://github.com/jolicode/JoliTypo)
 * [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician)

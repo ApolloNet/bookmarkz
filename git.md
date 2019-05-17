@@ -28,3 +28,4 @@
 * [GIT tip : Keep your branch clean with fixup and autosquash](https://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html)
 * [Git Submodules](https://delicious-insights.com/fr/articles/git-submodules/)
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+* [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)

@@ -9,6 +9,7 @@
 * [Rythme et longueur de phrases](https://pbs.twimg.com/media/DAHZ_-1VoAEEj8V.jpg)
 * [Hemingway App](http://www.hemingwayapp.com/)
 * [Conseils à un jeune auteur](http://www.cetteadressecomportecinquantesignes.com/V2004.htm)
+* [How to Write an Awesome Blog Post](https://www.slideshare.net/SegmentHQ/how-to-write-an-awesome-blog-post-53254058)
 
 ### Content strategy
 
