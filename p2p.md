@@ -4,7 +4,6 @@
 * [Getting Close with the Web](https://www.youtube.com/watch?v=NdeJYeFvHnM)
 * [Socket.IO](http://socket.io/blog/socket.io-p2p/)
 * [WebRTC : getting started](https://webrtc.org/start/)
-* [IPFS](https://ipfs.io/)
 * [ZeroNet](https://zeronet.io/)
 * [BitTorrent project Maelstrom](http://project-maelstrom.bittorrent.com/)
 * [Serverless Data Sync in Web Apps with Bit Torrent](https://paul.kinlan.me/serverless-sync-in-web-apps/)
@@ -15,7 +14,6 @@
 * [Peerflix](https://github.com/mafintosh/peerflix)
 * [WebTorrent – Pour streamer du bittorrent directement dans vos pages web](http://korben.info/webtorrent-streamer-bittorrent-directement-vos-pages-web.html)
 * [peermaps](https://peermaps.github.io/)
-* [ipfspics/server](https://github.com/ipfspics/server)
 * [ricochet-im/ricochet: Anonymous peer-to-peer instant messaging](https://github.com/ricochet-im/ricochet)
 * [Des données vivantes pour un Web vivant](http://tcrouzet.com/2014/05/19/des-donnees-vivantes-pour-un-web-vivant/)
 * [Un livre n’a pas d’adresse, l’après-Web non plus](http://tcrouzet.com/2014/05/17/un-livre-na-pas-dadresse-lapres-web-non-plus/)
@@ -27,15 +25,28 @@
 * [Onion Routed Cloud](https://orc.network/)
 * [The web is dying, but mesh networks could save it](https://thenextweb.com/syndication/2018/01/02/web-dying-mesh-networks-will-save/)
 * [Beaker Browser](https://beakerbrowser.com/)
-* [D.tube](https://d.tube/) :  crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network.
 * [Tandem](https://github.com/typeintandem/sublime) : peer-to-peer collaborative editing across different editors
 * [Hyerboria & cjdns routing protocol](https://docs.meshwith.me/)
-* [Decentralized Storage and Publication with IPFS and Swarm](https://www.sitepoint.com/ipfs-swarm-decentralized-content-publication-storage/)
 * [Mango: Git, completely decentralised](https://github.com/axic/mango)
 * [Scuttlebutt](https://ssbc.github.io/scuttlebutt-protocol-guide/)
 * [How JavaScript works: WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
 * [Radicle: A peer-to-peer stack for code collaboration](http://www.radicle.xyz/)
 * [Un navigateur pour diffuser votre site web en pair à pair](https://framablog.org/2019/01/23/un-navigateur-pour-diffuser-votre-site-web-en-pair-a-pair/)
+
+### ActivityPub
+
+* [activitypub.rocks](https://activitypub.rocks/)
+* [A highly opinionated guide to learning about ActivityPub](https://tinysubversions.com/notes/reading-activitypub/)
+
+### IPFS
+
+* [IPFS](https://ipfs.io/)
+* [ipfspics/server](https://github.com/ipfspics/server)
+* [Déploiement de votre premier site web statique sur IPFS](https://bertrandkeller.info/2019/05/18/deploiement-statique-ipfs/)
+* [Cloudflare: Distributed Web Gateway](https://www.cloudflare.com/distributed-web-gateway/) and `https://cloudflare-ipfs.com/ipfs/<HASH>`
+* [Infura](https://infura.io/)
+* [D.tube](https://d.tube/) : crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network.
+* [Decentralized Storage and Publication with IPFS and Swarm](https://www.sitepoint.com/ipfs-swarm-decentralized-content-publication-storage/)
 
 ### Decentralized social networks
 

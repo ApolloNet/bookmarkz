@@ -42,10 +42,11 @@
 * [Prototyping in the Browser](https://css-tricks.com/prototyping-in-the-browser/)
 * [Concevoir dans le navigateur](https://frank.taillandier.me/2018/09/06/concevoir-dans-le-navigateur/)
 
-### Prototypage
+### Prototyping
 
 * [HTML Wireframes](http://bradfrostweb.com/blog/post/html-wireframes/)
 * [S’il-te-plaît, dessine-moi un prototype...](http://letrainde13h37.fr/24/sil-te-plait-dessine-moi-un-prototype/)
+* [Priority Guides: A Content-First Alternative to Wireframes](http://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/)
 
 ## Persuasive Design
 
@@ -86,7 +87,7 @@
 * [principles.design](https://principles.design/)
 * [Why Design Systems Fail](https://24ways.org/2017/why-design-systems-fail/)
 
-### Micro-copie
+### Microcopy
 
 * [Writing style](https://en.wikipedia.org/wiki/Writing_style)
 * [La micro-copie : de l’importance du choix des mots](https://uxways.wordpress.com/2018/03/19/la-micro-copie-de-limportance-du-choix-des-mots/)

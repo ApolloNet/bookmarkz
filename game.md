@@ -12,6 +12,7 @@
 * [The Binding of Isaac](https://fr.wikipedia.org/wiki/The_Binding_of_Isaac)
 * [Super Meat Boy](https://en.wikipedia.org/wiki/Super_Meat_Boy)
 * [Robot Odyssey](https://www.robotodyssey.online/) online
+* [13 Games in ≤ 13kB of JavaScript · js13kGames 2018](https://github.blog/2018-10-05-js13kgames-highlights-2018/)
 
 ### Dev
 

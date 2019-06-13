@@ -20,3 +20,5 @@
 * [Front-end Developer Handbook](http://www.frontendhandbook.com/)
 * [SEO Panel : open source seo tool](http://www.seopanel.in/)
 * [Guess.js](https://github.com/guess-js/guess)
+* [Ubersuggest](https://neilpatel.com/fr/ubersuggest/)
+* [Essential technical SEO audit tools for in-depth website analysis](https://jameshubbardmarketing.co.uk/seo-blog/essential-technical-seo-audit-tools/)

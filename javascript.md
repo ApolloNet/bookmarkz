@@ -51,6 +51,7 @@
 * [Functional Light JS :  A book about functional programming in JavaScript](https://github.com/getify/Functional-Light-JS)
 * [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
 * [6 Great Uses of the Spread Operator](https://davidwalsh.name/spread-operator)
+* [7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83)
 * [Callback Hell](http://callbackhell.com)
 * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 * [Top 10 des snippets pour démolir le runtime JavaScript](http://putaindecode.io/fr/articles/js/top-10-snippets-demolir-runtime/)
@@ -65,6 +66,7 @@
 * [Remove duplicate values from JS array](https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array#9229932): TL;DR Use Set() constructor
 * [JS1K](https://js1k.com/): JS demos of 1024 bytes or less
 * [Unary plus (+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus_()): "preferred way of converting something into a number"
+* [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code)
 
 ### Design patterns
 
@@ -72,6 +74,7 @@
 * [Design Patterns for Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 * [Writing Maintainable and Readable Javascript: Design Patterns](https://www.javascriptjanuary.com/blog/writing-maintainable-and-readable-javascript-design-patterns)
 * [Strategy pattern](https://twitter.com/jamesmh_dev/status/1092132607289118720)
+* [Design Patterns Game](https://designpatternsgame.com/)
 
 ### JavaScript Testing Frameworks
 

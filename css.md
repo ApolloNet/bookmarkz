@@ -112,6 +112,11 @@
 * [CSS : n'oubliez pas l'impression papier!](https://la-cascade.io/css-noubliez-pas-limpression-papier/)
 * [Tips And Tricks For Print Style Sheets](http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/)
 
+### Houdini
+
+* [css-houdini.rocks](https://css-houdini.rocks/)
+* [houdini.glitch.me](http://houdini.glitch.me/)
+
 ### Frameworks
 
 * [TinyTypo](http://tinytypo.tetue.net/)

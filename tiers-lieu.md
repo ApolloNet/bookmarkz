@@ -11,6 +11,7 @@
 * [Softplace, étude de la Fing](http://www.fing.org/?Softplace-publie-ses-pistes-d)
 * [La Mednum](https://lamednum.coop/)
 * [Tiers-lieu: enquête sur un objet encore bien flou](http://www.makery.info/2017/10/10/tiers-lieu-enquete-sur-un-objet-encore-bien-flou-12/)
+* [Anti-café](https://en.wikipedia.org/wiki/Anti-caf%C3%A9)
 
 ### Annuaires
 

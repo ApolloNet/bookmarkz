@@ -11,6 +11,7 @@
 * [L'art de la ligne de commande](https://github.com/jlevy/the-art-of-command-line/blob/master/README-fr.md)
 * [Structured text tools](https://github.com/dbohdan/structured-text-tools)
 * [Handbrake](https://handbrake.fr/) : open source video transcoder
+* [Kodi + Vstream](https://github.com/Kodi-vStream/venom-xbmc-addons/tree/Beta/repo/repository.vstream)
 
 ### ZSH
 

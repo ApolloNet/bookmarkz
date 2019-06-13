@@ -21,6 +21,7 @@
 * [Frets on fire](https://wiki.ubuntu-fr.org/frets-on-fire)
 * [Perfect Ear - Ear Trainer](https://play.google.com/store/apps/details?id=com.evilduck.musiciankit)
 * [Jazzari, The Programmable Trio](https://jackschaedler.github.io/jazzari/)
+* [generative.fm](https://generative.fm/) and [Making Generative Music in the Browser](https://medium.com/@metalex9/making-generative-music-in-the-browser-bfb552a26b0b)
 
 ### Web development
 
@@ -46,9 +47,7 @@
 * [NotateMe](http://neuratron.com/notateme.html)
 * [Bärenreiter Study Score Reader App](https://www.baerenreiter.com/en/catalogue/digital-media/baerenreiter-study-score-reader-app/)
 * [Bärenreiter Beethoven's 9th Symphony App](https://www.baerenreiter.com/en/catalogue/digital-media/app-beethovens-ninth/)
-
 * [PageFlip](http://www.pageflip.com/)
 * [airturn](http://www.airturn.com/)
-
 * [Antescofo](http://www.antescofo.com/)
 * [Tomplay](https://tomplay.com/)
