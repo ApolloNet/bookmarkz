@@ -2,7 +2,7 @@
 
 * [Opquast Check-lists](http://checklists.opquast.com/fr/)
 * [Dareboost](https://dareboost.com/)
-* [Sonarwhal](https://sonarwhal.com/) & [Sonarwhal npm package](https://www.npmjs.com/package/sonarwhal)
+* [Webhint](https://webhint.io/) (ex-Sonarwhal) & its [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/webhint/)
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse)
 * [Measure](https://web.dev/measure)
 * [Checklist for mobile website improvement](https://developers.google.com/webmasters/smartphone-sites/website-improvement-checklist)
