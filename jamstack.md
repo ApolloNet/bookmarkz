@@ -18,6 +18,7 @@
 * [Jekyll](http://jekyllrb.com/) + [Github Pages](https://pages.github.com/) + [Prose.io](http://prose.io/) = ♥
 * [Jekyll Tags on Github Pages](http://longqian.me/2017/02/09/github-jekyll-tag/)
 * [Surge.sh](http://surge.sh/) : Static web publishing for Front-End Developers
+* [Outils pour l'écriture riche : Ovide, Tiddlywiki et Odyssey](https://bertrandkeller.info/2019/06/13/outil-ecriture-riche/)
 
 ### Markdown
 
