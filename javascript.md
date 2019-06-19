@@ -6,6 +6,8 @@
 * [Guide JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide)
 * [Roadmap for learning the JavaScript language](http://bytearcher.com/articles/roadmap-for-learning-javascript-language/)
 * [You Don't Know JS (free online book series)](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
+
 * [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 * [Vanilla List: The Vanilla Javascript Repository](http://www.vanillalist.com/)
 * [PlainJS : JavaScript Functions and Helpers VS Jquery](http://plainjs.com/javascript/)
