@@ -33,3 +33,4 @@
 * [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 * [Dynamically adjusting resources based on browser, network connection and device memory](https://calendar.perfplanet.com/2018/dynamic-resources-browser-network-device-memory/)
 * [quicklink](https://github.com/GoogleChromeLabs/quicklink) and [instant.page](https://instant.page/)
+* [Déployer cache-control: immutable avec du cache-busting](https://www.nicolas-hoffmann.net/source/1710-Deployer-cache-control-immutable-avec-du-cache-busting.html)
