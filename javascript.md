@@ -67,6 +67,7 @@
 * [JS1K](https://js1k.com/): JS demos of 1024 bytes or less
 * [Unary plus (+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus_()): "preferred way of converting something into a number"
 * [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code)
+* [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
 
 ### Design patterns
 
