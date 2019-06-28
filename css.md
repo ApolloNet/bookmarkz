@@ -122,5 +122,6 @@
 * [TinyTypo](http://tinytypo.tetue.net/)
 * [RÖCSSTI](https://rocssti.net/)
 * [KNACSS](http://knacss.com/)
-* [BassCSS](http://www.basscss.com/)
-* [Bulma](https://bulma.io/)
+* [Tacit](https://yegor256.github.io/tacit/)
+* [No Class](https://github.com/davidpaulsson/no-class)
+* [Sakura](https://github.com/oxalorg/sakura)
