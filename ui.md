@@ -13,9 +13,7 @@
 * [7 reasons why Infinite Scrolling is probably a bad idea](https://medium.com/simple-human/7-reasons-why-infinite-scrolling-is-probably-a-bad-idea-a0139e13c96b#.kihr4qy3e)
 * [When Card UI Design Doesn’t Work](https://medium.theuxblog.com/when-card-ui-design-doesnt-work-f4343118d108)
 * [Un design pattern pour les formulaires longs en une seule page](http://t37.net/un-design-pattern-pour-les-formulaires-longs-en-une-seule-page.html)
-* [Hamburger menu alternatives for mobile navigation](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8)
 * [Why the Email Confirmation Field Must Die](http://uxmovement.com/forms/why-the-email-confirmation-field-must-die/)
-* [Why The Hamburger Menu Should Disappear For Good](https://www.webdesignerdepot.com/2018/02/why-the-hamburger-menu-should-disappear-for-good/)
 * [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
 * [Caire, content aware image resize library](https://github.com/esimov/caire)
 * [You can get pretty far in making a slider with just HTML and CSS](https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/)
@@ -26,6 +24,13 @@
 * [Toggle-Switch Guidelines](https://www.nngroup.com/articles/toggle-switch-guidelines/)
 * [Unicode progress bars](http://changaco.oy.lc/unicode-progress-bars/)
 
+### Nav
+
+* [Hamburger menu alternatives for mobile navigation](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8)
+* [Why The Hamburger Menu Should Disappear For Good](https://www.webdesignerdepot.com/2018/02/why-the-hamburger-menu-should-disappear-for-good/)
+* [Truncating List, for a large responsive navigation menu](https://codepen.io/SitePoint/pen/GrwjOr)
+* [Using Hamburger Menus? Try Sausage Links](https://bradleytaunt.com/hamburger-menu-alternative/)
+
 ### Patterns
 
 * [ZURB UI Library](http://zurb.com/library/)
@@ -34,7 +39,6 @@
 * [Ui Parade – User Interface Design Inspiration](http://www.uiparade.com/)
 * [UICloud | User Interface Design Search](http://ui-cloud.com/)
 * [Call to Idea](http://calltoidea.com/)
-* [Truncating List, for a large responsive navigation menu](https://codepen.io/SitePoint/pen/GrwjOr)
 
 ### Animation
 
