@@ -34,4 +34,5 @@
 * [Dynamically adjusting resources based on browser, network connection and device memory](https://calendar.perfplanet.com/2018/dynamic-resources-browser-network-device-memory/)
 * [quicklink](https://github.com/GoogleChromeLabs/quicklink) and [instant.page](https://instant.page/)
 * [Déployer cache-control: immutable avec du cache-busting](https://www.nicolas-hoffmann.net/source/1710-Deployer-cache-control-immutable-avec-du-cache-busting.html)
-* [Le temps de chargement est mort !](https://blog.dareboost.com/fr/2017/11/le-temps-de-chargement-est-mort/)
+* [Le temps de chargement est mort](https://blog.dareboost.com/fr/2017/11/le-temps-de-chargement-est-mort/)
+* [Handling broken images with the service worker](https://bitsofco.de/handling-broken-images-with-service-worker/)
