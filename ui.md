@@ -46,3 +46,7 @@
 * [An Introduction to mo.js](https://css-tricks.com/introduction-mo-js/)
 * [PTS.js](https://ptsjs.org)
 * [animate.css](https://github.com/daneden/animate.css)
+
+### Illustrations
+
+* [humaaans](https://www.humaaans.com/)
