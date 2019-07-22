@@ -39,6 +39,7 @@
 * [Conflits structurels](https://larlet.fr/david/stream/2018/07/17/)
 * [Equality, Equity, Justice](https://twitter.com/squidlarkin/status/1017782204896702468/photo/1)
 * [Mieux travailler en équipe avec l'alliance co-créée](https://standblog.org/blog/post/2018/11/15/Mieux-travailler-en-equipe-avec-l-alliance-co-creee)
+* [Vote par jugement majoritaire](https://oncletom.io/2019/07/20/vote-par-jugement-majoritaire/)
 
 ### Culture
 
