@@ -11,6 +11,7 @@
 * [Conseils à un jeune auteur](http://www.cetteadressecomportecinquantesignes.com/V2004.htm)
 * [How to Write an Awesome Blog Post](https://www.slideshare.net/SegmentHQ/how-to-write-an-awesome-blog-post-53254058)
 * [Checklist qualité articles web](https://choblab.com/marketing-internet/verifiez-la-qualite-de-vos-articles-web-checklist-13512.html)
+* [The Financial Times Story Playbook](https://github.com/ft-interactive/story-playbook)
 
 ### Content strategy
 
