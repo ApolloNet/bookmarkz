@@ -47,6 +47,7 @@
 * [Formkeep](https://formkeep.com/)
 * [Formspree](https://formspree.io/)
 * [Jumprock](https://jumprock.co/)
+* [Simple Form](https://getsimpleform.com/)
 
 ### Search
 
