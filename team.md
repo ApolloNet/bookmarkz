@@ -40,6 +40,7 @@
 * [Equality, Equity, Justice](https://twitter.com/squidlarkin/status/1017782204896702468/photo/1)
 * [Mieux travailler en équipe avec l'alliance co-créée](https://standblog.org/blog/post/2018/11/15/Mieux-travailler-en-equipe-avec-l-alliance-co-creee)
 * [Vote par jugement majoritaire](https://oncletom.io/2019/07/20/vote-par-jugement-majoritaire/)
+* [How Humble Leadership Really Works](https://hbr.org/2018/04/how-humble-leadership-really-works)
 
 ### Culture
 
