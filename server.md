@@ -34,6 +34,7 @@
 * [25 Apache Performance Tuning Tips](http://www.monitis.com/blog/25-apache-performance-tuning-tips/)
 * [Apache performance optimization and tuning tips](http://chrischarlton.us/tip/apache-performance-optimization-tuning-tips)
 * [Bien débuter avec Nginx](http://makina-corpus.com/blog/metier/2015/bien-debuter-avec-nginx)
+* [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook)
 
 ### SSH
 
