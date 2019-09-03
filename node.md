@@ -31,3 +31,4 @@
 * marked : markdown to html
 * [NLP: general natural language utilities](https://github.com/axa-group/nlp.js)
 * slugify
+* [NodeGUI](https://github.com/nodegui/nodegui)
