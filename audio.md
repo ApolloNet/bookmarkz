@@ -19,3 +19,4 @@
 * [Drummers Pulse](https://drummers-pulse.com/)
 * [NSynth: Sound Maker](https://experiments.withgoogle.com/sound-maker) & [Making music using new sounds
 generated with machine learning](https://nsynthsuper.withgoogle.com/)
+* [Web Audio DAW. Use the Web Audio API for dynamic sound synthesis](https://github.com/rserota/wad)
