@@ -12,6 +12,7 @@
 * [Structured text tools](https://github.com/dbohdan/structured-text-tools)
 * [Handbrake](https://handbrake.fr/) : open source video transcoder
 * [Kodi + Vstream](https://github.com/Kodi-vStream/venom-xbmc-addons/tree/Beta/repo/repository.vstream)
+* [Votre terminal n'est pas un terminal : Introduction aux flux](https://xavcc.frama.io/introduction-stream/)
 
 ### ZSH
 
