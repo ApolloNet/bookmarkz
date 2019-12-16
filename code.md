@@ -18,3 +18,4 @@
 * [Introduction aux pattern des observables](http://putaindecode.io/fr/articles/js/observable/)
 * [IDEA instructions](https://idea-instructions.com/)
 * [In Defense of the Ternary Statement](https://css-tricks.com/in-defense-of-the-ternary-statement/)
+* [Inversion of Control](https://kentcdodds.com/blog/inversion-of-control)
