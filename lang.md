@@ -10,6 +10,7 @@
 * [ATILF - Analyse et traitement informatique de la langue française](http://www.atilf.fr/)
 * [Progressive punctuation](http://progressivepunctuation.com/)
 * [EchoDico](http://www.echolalie.org/echodico/)
+* [Synonymo](http://www.synonymo.fr/)
 
 ### English
 

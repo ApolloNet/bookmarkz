@@ -50,3 +50,5 @@
 ### Illustrations
 
 * [humaaans](https://www.humaaans.com/)
+* [Openmojis](https://openmoji.org/)
+* [generated.photos](https://generated.photos/)

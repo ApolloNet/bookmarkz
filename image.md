@@ -11,3 +11,4 @@
 * [Charcod.es](http://charcod.es/)
 * [Unify – Unicode support on browsers and devices](http://unicode.johnholtripley.co.uk/all/)
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3)
+* [Game icons](https://game-icons.net/)

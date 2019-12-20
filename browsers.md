@@ -20,3 +20,4 @@
 * [Lightbeam](https://www.mozilla.org/en-US/lightbeam/)
 * [DecentralEyes](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/)
 * [Firefox Addon: Grids Rulers](https://addons.mozilla.org/fr/firefox/addon/grids-rulers/)
+* [Webhint](https://addons.mozilla.org/en-US/firefox/addon/webhint/)

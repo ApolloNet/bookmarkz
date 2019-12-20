@@ -32,17 +32,23 @@
 
 ### CMS
 
+* [Git-based ou API-first headless CMS : lequel choisir ?](https://jamstatic.fr/2019/10/30/git-based-cms-vs-api-first-cms/)
+* [Stackbit](https://www.stackbit.com/)
+* [Forestry](https://forestry.io/)
 * [Prose.io](http://prose.io/)
 * [Siteleaf](https://www.siteleaf.com/)
-* [Forestry](https://forestry.io/)
 * [CloudCannon](https://cloudcannon.com/)
 * [GraphCMS](https://graphcms.com/)
 * [Cockpit](https://getcockpit.com/)
 * [Kenticocloud](https://kenticocloud.com/)
 * [The Electric Book workflow](http://electricbook.works)
+* [Directus](https://directus.io/)
+* [Airtable](https://airtable.com/)
+* [TinaCMS](https://tinacms.org/)
 
 ### Forms
 
+* [ A Comparison of Static Form Providers](https://css-tricks.com/a-comparison-of-static-form-providers/)
 * [Staticman](https://staticman.net/)
 * [Formkeep](https://formkeep.com/)
 * [Formspree](https://formspree.io/)
@@ -56,5 +62,8 @@
 
 ### Ecommerce
 
+* [Mangopay](https://www.mangopay.com/)
+* [Stripe](https://stripe.com/)
 * [Snipcart](https://snipcart.com/)
 * [Shopify](https://fr.shopify.com/)
+* [Moltin](https://www.moltin.com/)

@@ -13,6 +13,7 @@
 * [Handbrake](https://handbrake.fr/) : open source video transcoder
 * [Kodi + Vstream](https://github.com/Kodi-vStream/venom-xbmc-addons/tree/Beta/repo/repository.vstream)
 * [Votre terminal n'est pas un terminal : Introduction aux flux](https://xavcc.frama.io/introduction-stream/)
+* [fd](https://github.com/sharkdp/fd) : A simple, fast and user-friendly alternative to 'find'
 
 ### ZSH
 

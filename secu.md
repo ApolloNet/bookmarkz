@@ -30,11 +30,14 @@
 * [Just Delete Me](https://justdeleteme.xyz/)
 * [Awesome privacy: browser extensions](https://github.com/Igglybuff/awesome-piracy#browser-extensions)
 * [Mes mots de passe sécurisés et faciles à gérer](https://articles.nissone.com/2019/03/mes-mots-passe-securises-faciles-gerer-journees-logiciel-libre-2019/)
+* [Silence](https://f-droid.org/packages/org.smssecure.smssecure/) : SMS chiffrés
 
 ### As a developer
 
 * [Recommandations de sécurité relatives...](http://www.ssi.gouv.fr/administration/guide/recommandations-de-securite-relatives-a-un-systeme-gnulinux/)
 * [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/Cheat_Sheets)
+* [OWASP SAMM Model](https://owaspsamm.org/model/)
+* [OWASP Dependency track](https://dependencytrack.org/)
 * [Privilégier des tests de sécurité sous forme de tests logiques plutôt que sous forme de CAPTCHA](http://www.accede-web.com/notices/graphique/7-formulaires/7-13-tests-de-securite-tests-logiques/)
 * [CAPTCHA-less Security](www.karlgroves.com/2012/04/03/captcha-less-security/)
 * [How To Protect Your Users With The Privacy By Design Framework](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/)
@@ -47,12 +50,14 @@
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [XSStrike](https://github.com/s0md3v/XSStrike)
 * [What's security.txt and why you should have one](https://www.michalspacek.com/what-is-security.txt-and-why-you-should-have-one)
+* [Awesome web security](https://github.com/qazbnm456/awesome-web-security)
 
 ### Training
 
 * [SecNumAcademie](https://www.secnumacademie.gouv.fr/), par l'ANSSI
 * [Root Me : train your hacking skills](https://www.root-me.org)
 * [XSS Game, by Google](https://xss-game.appspot.com)
+* [Damn Vulnerable Web Application (DVWA)](http://dvwa.co.uk/)
 
 ### HTTP & Stuff
 

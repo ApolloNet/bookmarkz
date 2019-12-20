@@ -29,3 +29,5 @@
 * [Git Submodules](https://delicious-insights.com/fr/articles/git-submodules/)
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 * [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
+* [Bien utiliser Git merge et rebase](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/)
+* [Oh Shit, Git!?!](https://ohshitgit.com/)

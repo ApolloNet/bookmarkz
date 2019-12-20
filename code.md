@@ -19,3 +19,6 @@
 * [IDEA instructions](https://idea-instructions.com/)
 * [In Defense of the Ternary Statement](https://css-tricks.com/in-defense-of-the-ternary-statement/)
 * [Inversion of Control](https://kentcdodds.com/blog/inversion-of-control)
+* [The 6 Most Common Types of Logic in Large Applications [with Examples]](https://khalilstemmler.com/articles/software-design-architecture/organizing-app-logic/)
+* [SOLID](https://en.wikipedia.org/wiki/SOLID)
+* [Design Patterns Game](https://designpatternsgame.com/)

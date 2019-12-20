@@ -74,6 +74,7 @@
 * [Checklists facilitation](https://github.com/clrh/checklists-facilitation)
 * [Lean Canvas](https://pbs.twimg.com/media/BjjeAn5CUAARnfU.jpg:large)
 * [Business method toolkit, from Media Lab Amsterdam](http://medialabamsterdam.com/businesstoolkit/)
+* [Gamestorming](https://gamestorming.com/)
 
 ### Vendre
 

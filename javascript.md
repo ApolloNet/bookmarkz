@@ -79,16 +79,6 @@
 * [Strategy pattern](https://twitter.com/jamesmh_dev/status/1092132607289118720)
 * [Design Patterns Game](https://designpatternsgame.com/)
 
-### JavaScript Testing Frameworks
-
-* [Cypress](https://www.cypress.io/)
-* [Jasmine](https://jasmine.github.io/)
-* [Mocha](https://mochajs.org/)
-* [Tape](https://github.com/substack/tape)
-* [Ava](https://github.com/avajs/ava)
-* Jest from Facebook, Enzyme from Airbnb, QUnit...
-* + [Google Chrome Puppeteer](https://github.com/GoogleChrome/puppeteer)
-
 ### Async
 
 * [L'asynchrone en JavaScript](http://makinacorpus.github.io/makina-slides/javascript-async.html)
@@ -114,7 +104,7 @@
 * [Prototypal Object-Oriented Programming using JavaScript](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript)
 * [Understanding the prototype property in JavaScript](http://bytearcher.com/articles/understanding-prototype-property-in-javascript/)
 
-### ES6 / ES2015
+### ES6++
 
 * [Polyfill.io URL builder](https://polyfill.io/v3/url-builder/)
 * [Transpiling ES6](https://css-tricks.com/transpiling-es6/)
@@ -135,6 +125,7 @@
 * [Lazy-loading ES2015 modules in the browser](http://blog.avenuecode.com/lazy-loading-es2015-modules-in-the-browser/)
 * [ES6 Katas](http://es6katas.org/)
 * [Exploring JS, a book by Axel Rauschmayer](http://exploringjs.com/es6/index.html)
+* [JavaScript, ES6, ES7, ES10 where are we?](https://medium.com/engineered-publicis-sapient/javascript-es6-es7-es10-where-are-we-8ac044dfd964)
 
 ### Modules, Bundling
 

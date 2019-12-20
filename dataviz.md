@@ -12,3 +12,4 @@
 * [Worldmapper](http://www.worldmapper.org/)
 * [Worldometers](http://www.worldometers.info/)
 * [Data Viz Project](http://datavizproject.com/)
+* [roughViz](https://github.com/jwilber/roughViz)

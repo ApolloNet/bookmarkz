@@ -24,13 +24,13 @@
 * [meCUE : modular evaluation of key Components of User Experience](http://mecue.de/english/home.html)
 * [meCUE en français](https://uxmind.eu/2018/10/28/questionnaire-ux-mecue-version-francaise/)
 * [Corporate UX Maturity: Stages 1-4](https://www.nngroup.com/articles/ux-maturity-stages-1-4/)
-
 * [Laissez mon sexe tranquille](http://www.hteumeuleu.fr/laissez-mon-sexe-tranquille/)
 * [Reducing Cognitive Overload For A Better User Experience](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/)
 * [9 Small User Experience Details Most Websites Miss - UX Movement](http://uxmovement.com/forms/9-small-user-experience-details-most-websites-miss/)
 * [This Is Responsive | Tips, Resources...](http://bradfrost.github.com/this-is-responsive/)
 * [Do you highlight all the text you read?](http://www.bemmu.com/do-you-highlight-all-the-text-you-read)
 * [Savoir presenter son design à des décideurs](http://www.slideshare.net/cabaroc/savoir-presenter-son-design-des-dcideurs)
+* [39 statistiques sur l’UX qui parlent d’elles-mêmes](https://www.testapic.com/informations-pratiques/actualites/best-practices/39-statistiques-chiffres-ux-parlent-elles-memes/)
 
 ### Agile UX
 

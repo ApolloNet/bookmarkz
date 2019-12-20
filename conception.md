@@ -70,6 +70,7 @@
 
 ### Design systems, Style guides & Pattern libraries
 
+* [Storybook](https://storybook.js.org/)
 * [Poor Man's Styleguide](https://github.com/bryanbraun/poor-mans-styleguide)
 * [A List of Style Guides, Brand Guidelines, and Front-End Frameworks](https://medium.com/daily-ui-ux-inspirations/e5bb62db91e5)
 * [Website Style Guide Resources](http://styleguides.io/)
