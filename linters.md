@@ -16,6 +16,7 @@
 
 * [eslint/eslint](https://github.com/eslint/eslint)
 * [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs)
+* [eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security)
 * [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)
 * [standard/standard](https://github.com/standard/standard)
 * [Lint the browser compatibility](https://github.com/amilajack/eslint-plugin-compat)

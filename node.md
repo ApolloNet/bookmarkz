@@ -12,6 +12,9 @@
 * [Node Security Project](https://nodesecurity.io/)
 * [Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
 * [23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
+* [eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security)
+* `npm audit`
+* `npm outdated`
 
 ## NPM
 
