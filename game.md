@@ -4,6 +4,7 @@
 * [Rogue like](https://fr.wikipedia.org/wiki/Rogue-like)
 * [Game Boy Studio](https://www.gbstudio.dev/)
 * [Rooms and Mazes: A Procedural Dungeon Generator](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
+* [These Maps Reveal the Hidden Structures of 'Choose Your Own Adventure' Books](https://www.atlasobscura.com/articles/cyoa-choose-your-own-adventure-maps)
 
 ### Inspiration
 

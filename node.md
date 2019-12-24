@@ -26,6 +26,7 @@
 * [npm security audit](https://docs.npmjs.com/getting-started/running-a-security-audit)
 * `npm i -g [PACKAGE] --unsafe-perm=true --allow-root`
 * Force major update : `npm i [PACKAGE]@latest`
+* [How to automate versioning and publication of an npm package](https://itnext.io/how-to-automate-versioning-and-publication-of-an-npm-package-233e8757a526)
 
 ### Packages
 

@@ -68,7 +68,7 @@
 * [Remove duplicate values from JS array](https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array#9229932): TL;DR Use Set() constructor
 * [JS1K](https://js1k.com/): JS demos of 1024 bytes or less
 * [Unary plus (+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus_()): "preferred way of converting something into a number"
-* [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code)
+* [30 seconds of code](https://www.30secondsofcode.org/)
 * [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
 
 ### Design patterns

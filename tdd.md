@@ -8,10 +8,12 @@
 
 ### JavaScript Testing Frameworks
 
+* [Ava](https://github.com/avajs/ava)
+* Jest
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+* [Nightwatch](https://www.npmjs.com/package/nightwatch)
 * [Cypress](https://www.cypress.io/)
 * [Jasmine](https://jasmine.github.io/)
 * [Mocha](https://mochajs.org/)
 * [Tape](https://github.com/substack/tape)
-* [Ava](https://github.com/avajs/ava)
-* Jest from Facebook, Enzyme from Airbnb, QUnit...
-* + [Google Chrome Puppeteer](https://github.com/GoogleChrome/puppeteer)
+* Enzyme, QUnit...
