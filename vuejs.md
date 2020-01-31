@@ -19,3 +19,7 @@
 
 - [vueschool.io](https://vueschool.io/)
 - [vuemastery.com](https://www.vuemastery.com/)
+
+## MIsc
+
+- [MadeWithVueJS](https://madewithvuejs.com/)
