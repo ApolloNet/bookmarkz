@@ -2,6 +2,7 @@
 
 - [Vue.js API](https://vuejs.org/v2/api/)
 - [Vue.js Style Guide](https://vuejs.org/v2/style-guide/)
+- [RFCs](https://github.com/vuejs/rfcs)
 - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 
