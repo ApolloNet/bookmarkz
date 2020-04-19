@@ -1,3 +1,5 @@
+# Vue.js
+
 ## Refs
 
 - [Vue.js API](https://vuejs.org/v2/api/)
@@ -5,6 +7,17 @@
 - [RFCs](https://github.com/vuejs/rfcs)
 - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+
+## Tutos
+
+- [vueschool.io](https://vueschool.io/)
+- [vuemastery.com](https://www.vuemastery.com/)
+
+## Misc
+
+- [Vue Store Front](https://www.vuestorefront.io/)
+- [MadeWithVueJS](https://madewithvuejs.com/)
+- [Vue.js examples](https://vuejsexamples.com/)
 
 ## Ecosystem
 
@@ -14,19 +27,8 @@
 - [create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
 - [Nuxt SEO module](https://www.npmjs.com/package/nuxt-seo-module)
 - [Vuejs paginate](https://www.npmjs.com/package/vuejs-paginate)
-
-## GraphQL
-
-- [GraphQL](https://graphql.org/)
-- [Apollo GraphQL](https://www.apollographql.com/)
-- [Vue Apollo](https://vue-apollo.netlify.com/)
-
-## Tutos
-
-- [vueschool.io](https://vueschool.io/)
-- [vuemastery.com](https://www.vuemastery.com/)
-
-## Misc
-
-- [MadeWithVueJS](https://madewithvuejs.com/)
-- [Vue.js examples](https://vuejsexamples.com/)
+- [Vue-multiselect](https://vue-multiselect.js.org/)
+- [vue-lazy-hydration](https://github.com/maoberlehner/vue-lazy-hydration)
+- [Xstate](https://xstate.js.org/) : JavaScript state machines and statecharts
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+- [SWVR](https://github.com/Kong/swrv) : Stale-while-revalidate data fetching for Vue
