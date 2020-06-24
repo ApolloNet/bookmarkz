@@ -32,3 +32,7 @@
 - [Xstate](https://xstate.js.org/) : JavaScript state machines and statecharts
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 - [SWVR](https://github.com/Kong/swrv) : Stale-while-revalidate data fetching for Vue
+
+## How to
+
+- [Tackling Authentication With Vue Using RESTful APIs](https://css-tricks.com/tackling-authentication-with-vue-using-restful-apis/)
