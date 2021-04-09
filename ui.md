@@ -23,6 +23,7 @@
 * [Infinite Scrolling and Accessibility](http://www.webaxe.org/infinite-scrolling-and-accessibility/)
 * [Toggle-Switch Guidelines](https://www.nngroup.com/articles/toggle-switch-guidelines/)
 * [Unicode progress bars](http://changaco.oy.lc/unicode-progress-bars/)
+* [BackstopJS: visual regression testing](https://github.com/garris/BackstopJS)
 
 ### Nav
 
