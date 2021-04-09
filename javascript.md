@@ -41,6 +41,7 @@
 - [Modules JavaScript par TZI](http://tzi.github.io/presentation-ModulesJavaScript/)
 - [The mind-boggling universe of JavaScript Module strategies](https://www.airpair.com/javascript/posts/the-mind-boggling-universe-of-javascript-modules)
 - [AST Explorer](https://astexplorer.net/)
+- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ### Design patterns
 
