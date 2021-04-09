@@ -32,6 +32,7 @@
 * [How JavaScript works: WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
 * [Radicle: A peer-to-peer stack for code collaboration](http://www.radicle.xyz/)
 * [Un navigateur pour diffuser votre site web en pair à pair](https://framablog.org/2019/01/23/un-navigateur-pour-diffuser-votre-site-web-en-pair-a-pair/)
+* [OrbitDB](https://github.com/orbitdb/orbit-db)
 
 ### ActivityPub
 
