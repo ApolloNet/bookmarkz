@@ -10,6 +10,7 @@
 - [MetaBrainz](https://metabrainz.org/)
 - [Content Categories, from Google Cloud Natural Language API](https://cloud.google.com/natural-language/docs/categories)
 - [Public GraphQL APIs](https://apis.guru/graphql-apis/)
+- [Discovering millions of datasets on the web](https://blog.google/products/search/discovering-millions-datasets-web/)
 
 ### Tools
 
