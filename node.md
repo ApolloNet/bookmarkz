@@ -4,7 +4,7 @@
 * [Awesome NodeJs](https://github.com/sindresorhus/awesome-nodejs)
 * [History of Node.js on a Timeline](https://blog.risingstack.com/history-of-node-js/)
 * [How to Build and Structure a Node.js MVC Application](https://www.sitepoint.com/node-js-mvc-application/)
-* [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 * [Object.assign vs Object Spread in Node.js](http://thecodebarbarian.com/object-assign-vs-object-spread.html)
 
 ### Security
