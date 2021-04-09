@@ -38,6 +38,9 @@
 - [Polyfill.io URL builder](https://polyfill.io/v3/url-builder/)
 - [ES6 Katas](http://es6katas.org/)
 - [Exploring JS, a book by Axel Rauschmayer](http://exploringjs.com/es6/index.html)
+- [Modules JavaScript par TZI](http://tzi.github.io/presentation-ModulesJavaScript/)
+- [The mind-boggling universe of JavaScript Module strategies](https://www.airpair.com/javascript/posts/the-mind-boggling-universe-of-javascript-modules)
+- [AST Explorer](https://astexplorer.net/)
 
 ### Design patterns
 
@@ -46,8 +49,3 @@
 - [Writing Maintainable and Readable Javascript: Design Patterns](https://www.javascriptjanuary.com/blog/writing-maintainable-and-readable-javascript-design-patterns)
 - [Strategy pattern](https://twitter.com/jamesmh_dev/status/1092132607289118720)
 - [Design Patterns Game](https://designpatternsgame.com/)
-
-### Modules, Bundling
-
-- [Modules JavaScript par TZI](http://tzi.github.io/presentation-ModulesJavaScript/)
-- [The mind-boggling universe of JavaScript Module strategies](https://www.airpair.com/javascript/posts/the-mind-boggling-universe-of-javascript-modules)
