@@ -29,5 +29,4 @@
 * [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
 * [Web.dev : Service Worker tag](https://web.dev/tags/service-worker/)
 * [The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
-* [Minimal viable service worker](https://adactio.com/journal/13540)
 * [Workbox](https://developers.google.com/web/tools/workbox/)
