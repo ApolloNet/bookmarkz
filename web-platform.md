@@ -22,25 +22,12 @@
 * [Webmention, at Indieweb](https://indieweb.org/Webmention)
 * [webmention.app](https://webmention.app/)
 
-### Client side storage
-
-* [An Overview of Client-Side Storage](https://bitsofco.de/an-overview-of-client-side-storage/)
-
 ### Service Workers
 
-* [Is ServiceWorker Ready ? ](https://jakearchibald.github.io/isserviceworkerready/)
+* [serviceworke.rs](https://serviceworke.rs/)
 * [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
 * [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
-* [Making a Simple Site Work Offline with ServiceWorker](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
-* [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
-* [Service Workers at PonyFoo](https://ponyfoo.com/articles/tagged/serviceworker)
-* [Getting Started with Service Workers](https://www.sitepoint.com/getting-started-with-service-workers/)
-* [The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker)
-* [Making A Service Worker: A Case Study](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
+* [Web.dev : Service Worker tag](https://web.dev/tags/service-worker/)
 * [The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
-* [serviceworke.rs](https://serviceworke.rs/)
-* [Video: The Pragmatist’s Guide to Service Workers](https://vimeo.com/184236467)
-* [Swivel : Message passing between ServiceWorker and pages made simple](https://github.com/bevacqua/swivel)
-* [Pragmatist's Guide to Service Worker](https://github.com/lyzadanger/pragmatist-service-worker)
-* [Implementing "Save For Offline" with Service Workers](https://una.im/save-offline/)
 * [Minimal viable service worker](https://adactio.com/journal/13540)
+* [Workbox](https://developers.google.com/web/tools/workbox/)
