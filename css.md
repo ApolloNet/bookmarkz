@@ -2,7 +2,6 @@
 
 - [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
 - [Control CSS loading with custom properties](https://jakearchibald.com/2016/css-loading-with-custom-props/)
-- [Designing on a Retina Screen](http://designshack.net/articles/graphics/designing-on-a-retina-screen-my-thoughts-on-the-retina-macbook-pro/)
 - [Reference Imports in LESS (are kinda cool)](https://css-tricks.com/reference-imports-in-less-are-kinda-cool/)
 - [Charte CSS](http://css.thenew.fr/)
 - [Vertical Rhythm CSS Rules](http://soqr.fr/vertical-rhythm/)
