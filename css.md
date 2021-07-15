@@ -61,7 +61,7 @@
 ### Responsive
 
 - [Responsive CSS Patterns without Media Queries](https://www.sitepoint.com/responsive-css-patterns-without-media-queries/)
-- [Brett Jankord – Cross Browser Retina/High Resolution Media Queries](http://www.brettjankord.com/2012/11/28/cross-browser-retinahigh-resolution-media-queries/)
+- [Brett Jankord – Cross Browser Retina/High Resolution Media Queries](https://www.brettjankord.com/2012/11/28/cross-browser-retina-high-resolution-media-queries/)
 - [Media queries : Mobile, Small, Portrait, Slow, Interlace, Monochrome, Coarse, Non-Hover, First](https://css-tricks.com/mobile-small-portrait-slow-interlace-monochrome-coarse-non-hover-first/)
 
 ### Flexbox
